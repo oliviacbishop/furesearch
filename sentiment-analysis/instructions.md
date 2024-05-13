@@ -18,7 +18,9 @@ The spreadsheet is divided into the following columns:
 * Segment: the text unit resulting from preprocessing
 * Sentiment class: the sentiment class to assign
 * Translation: the translation of the sentence in question, taken from any available scholarly resource (or your own)
-* Relevant lexicon: **lemmas** and translations of the most relevant **adjectives** and **nouns** that helped determine the sentiment class of the sentence. You should use the online readers for your respective texts to find the lemmas, POS, and translations of the words. 
+* Relevant lexicon: **lemmas** and translations of the most relevant **adjectives** and **nouns** that helped determine the sentiment class of the sentence.      
+          You should use the online readers for your respective texts to find the lemmas, POS, and translations of the words.     
+          The [LatinAffectus lexicon]([url](https://github.com/CIRCSE/Latin_Sentiment_Lexicons/blob/master/LatinAffectus.tsv)) may contain some of the words you are analyzing, so check if they have your word or query them here: https://lila-erc.eu/query/ and click on the heart next to the lemma. 
 
 ## Guidelines: How to Assign Emotion Polarity 
 
@@ -38,6 +40,10 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 
 ## Literature 
 In this project, we follow closely the criteria and guidelines defined by Sprugnoli et al. (2021) for the creation of Sentiment Analysis datasets for Latin poetry. 
+
+Reference datasets: 
+* The sentences from Horace's Odes annotated by Sprugnoli et Al: https://github.com/CIRCSE/Latin_Sentiment_Analysis/tree/main/data
+* The LatinAffectus Lexicon: https://github.com/CIRCSE/Latin_Sentiment_Lexicons/blob/master/LatinAffectus.tsv
 
 * Sprugnoli, R., Mambrini, F., Passarotti, M., Moretti, G. 2021. Sentiment Analysis of Latin Poetry: First Experiments on the Odes of Horace. CEUR-Workshop. Available: https://ceur-ws.org/Vol-3033/paper25.pdf
 * Sprugnoli, R., Passarotti, M., Corbetta, D., Peverelli, A. 2020. Odi et Amo. Creating, Evaluating and Extending Sentiment Lexicons for Latin. Proceedings of the 12th conference on Language Resources and Evaluation. Available: https://aclanthology.org/2020.lrec-1.376/
