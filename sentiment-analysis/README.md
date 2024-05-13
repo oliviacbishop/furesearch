@@ -3,7 +3,7 @@
 This document contains the basic operational guidelines to define the prevalent sentiment in the various corpora assembled for this project. It serves as overall documentation, and it will be integrated with useful observations that emerged throughout the work. 
 
 * You will conduct work mainly in your respective Google spreadsheets. At the end of the research, you will export your spreadsheet and upload it in your project folder. 
-* At the end of each week, mark your week or task as "done" in the FU Research Project Management page, with additional comments to report on the status of what you did, or questions/issues. **This is very important!! Do not forget to do this**  
+* At the end of each week, mark your week or task as "done" in the FU Research Project Management page (https://github.com/users/ChiaraPalladino/projects/6), with additional comments to report on the status of what you did, or questions/issues. **This is very important!! Do not forget to do this**  
 * As you go, make sure to document your choices and open questions in the relevant documentation and guidelines files that are available in your personal folder. **This is very important!! Do not forget to do this**
 * For questions, issues and bugs use the Issues page: https://github.com/ChiaraPalladino/furesearch/issues
 
