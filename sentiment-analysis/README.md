@@ -7,8 +7,6 @@ This document contains the basic operational guidelines to define the prevalent 
 ### Text Units 
 Each text in this corpus has been preprocessed and split into sentences of 10 words min., 40 words max., taking punctuation into account. 
 
-![image](https://github.com/ChiaraPalladino/furesearch/assets/15249889/a1bcb362-4d69-47d8-a9bb-eb6840877027)
-
 **You may change the units in the spreadsheet or add new sentences**: In general, you should try not to change the existing sentences based on arbitrary criteria. However, sometimes you will have to add new lines or change existing ones: for example, you may have to split units that include questions, or you may find that one line includes multiple sentences and it needs to be split into multiple lines. Your task is to do whatever is necessary to make the text units more consistent. 
 
 Try not to include units of text below 15 words or above 50 words. Those are very hard to use for training. 
@@ -24,7 +22,7 @@ The spreadsheet is divided into the following columns:
           You should use the online readers for your respective texts to find the lemmas, POS, and translations of the words.     
           The LatinAffectus lexicon (https://github.com/CIRCSE/Latin_Sentiment_Lexicons/blob/master/LatinAffectus.tsv) may contain some of the words you are analyzing, so check if they have your word or query them here: https://lila-erc.eu/query/ and click on the heart next to the lemma. 
 
-## Guidelines: How to Sentiment classes
+## Guidelines: How to assign Sentiment classes
 
 The purpose of this project is to create a dataset of Sentiment Analysis for Latin and Greek. Students perform annotation at sentence level to assign four generic sentiment classes. 
 
