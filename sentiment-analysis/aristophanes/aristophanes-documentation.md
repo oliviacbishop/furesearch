@@ -12,3 +12,11 @@ Curator: Sydnee Bailey
 
 ### Documentation for Sentiment Analysis on Aristophanes, _Wasps_ and _Clouds_
 This section is intended to document any areas of ambiguity, issues, and final decisions made on specific complicated cases. Make sure to add the relevant references to the sentence (e.g. verse number and sentence number) and to quote the text in question. 
+
+#### Addition of "Fun score" to sentiment classes
+For this project we are also documenting "fun scores" according to six classes: 
+* Very fun
+* Fun
+* Neutral
+* Serious
+* Very serious
