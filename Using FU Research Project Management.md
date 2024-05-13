@@ -1,6 +1,8 @@
 # How to use the FU Research Project Management page: a tutorial
 
-Welcome to the Project page for this research repository. Here you will be able to keep track and provide status updates about your project. 
+Welcome to the Project page for this research repository. This is the page you will need to use to provide status updates on your research. 
+
+* At the end of each week, mark your week or tasks as "done", with additional comments to report on the status of what you did. **This is very important!! Do not forget to do this**
 
 ### Accessing the project page 
 
