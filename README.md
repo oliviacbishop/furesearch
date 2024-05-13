@@ -6,7 +6,7 @@ This repository collects all the ongoing projects by Furman students.
 
 These are the essential tasks you will carry out on this repository: 
 
-* At the end of each week, **upload the new data you created** in the relevant folder and mark your week as "done", with additional comments to report on the status of what you did. **This is very important!! Do not forget to do this**
+* At the end of each week, mark your week or task as "done" in the FU Research Project Management page, with additional comments to report on the status of what you did, or questions/issues. **This is very important!! Do not forget to do this**
 * As you go, make sure to document your choices and open questions in the relevant documentation and guidelines files that are available in your personal folder. **This is very important!! Do not forget to do this**
 * For questions, issues and bugs use the Issues page: https://github.com/ChiaraPalladino/furesearch/issues 
 
