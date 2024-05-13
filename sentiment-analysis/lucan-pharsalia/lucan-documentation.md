@@ -1,5 +1,5 @@
 ## Lucan, _Pharsalia_
-Curator: Alexis, Spainhour 
+Curator: Alexis Spainhour 
 
 ### Important resources in this folder: 
 * Text in XML format, from IUNO: https://www.iuno.us/lucan/7/
