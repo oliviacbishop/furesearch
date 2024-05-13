@@ -1,4 +1,4 @@
-# How to use this project page: a tutorial
+# How to use the FU Research Project Management page: a tutorial
 
 Welcome to the Project page for this research repository. Here you will be able to keep track and provide status updates about your project. 
 
