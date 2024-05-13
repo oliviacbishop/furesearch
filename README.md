@@ -14,3 +14,4 @@ This repository collects all the ongoing projects by Furman students.
 
 * How to use GitHub Issues: https://github.com/ChiaraPalladino/furesearch/issues/5 
 * How to use the Project Management page: https://github.com/ChiaraPalladino/furesearch/blob/main/Using%20FU%20Research%20Project%20Management.md
+* How to write in markdown: 
