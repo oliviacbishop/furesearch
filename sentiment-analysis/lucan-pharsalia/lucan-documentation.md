@@ -1,4 +1,4 @@
-# Lucan, _Pharsalia_
+## Lucan, _Pharsalia_
 Curator: Alexis, Spainhour 
 
 ### Important resources in this folder: 
