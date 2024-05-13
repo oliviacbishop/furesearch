@@ -24,7 +24,7 @@ The spreadsheet is divided into the following columns:
           You should use the online readers for your respective texts to find the lemmas, POS, and translations of the words.     
           The LatinAffectus lexicon (https://github.com/CIRCSE/Latin_Sentiment_Lexicons/blob/master/LatinAffectus.tsv) may contain some of the words you are analyzing, so check if they have your word or query them here: https://lila-erc.eu/query/ and click on the heart next to the lemma. 
 
-## Guidelines: How to Assign Emotion Polarity 
+## Guidelines: How to Sentiment classes
 
 The purpose of this project is to create a dataset of Sentiment Analysis for Latin and Greek. Students perform annotation at sentence level to assign four generic sentiment classes. 
 
