@@ -4,7 +4,7 @@ Welcome to the Project page for this research repository. Here you will be able 
 
 ### Accessing the project page 
 
-* From the GitHub Repository home page, click on Projects in the menu bar and click on "FU Research Project Management".
+* From the GitHub Repository home page (https://github.com/ChiaraPalladino/furesearch/tree/main), click on Projects in the menu bar and click on "FU Research Project Management".
 
 ![Image](https://github.com/users/ChiaraPalladino/projects/6/assets/15249889/85259df8-c51d-4f3e-9753-2b82b9a8f5aa)
 
