@@ -5,7 +5,9 @@ This document contains the basic operational guidelines to define the prevalent 
 ## Structure of the spreadsheet 
 
 ### Text Units 
-Each text in this corpus has been preprocessed and split into sentences, based on punctuation and length. We have excluded all units that counted less than 15 tokens and more than 50. 
+Each text in this corpus has been preprocessed and split into sentences of 10 words min., 40 words max., taking punctuation into account. 
+
+![image](https://github.com/ChiaraPalladino/furesearch/assets/15249889/a1bcb362-4d69-47d8-a9bb-eb6840877027)
 
 **You may change the units in the spreadsheet or add new sentences**: In general, you should try not to change the existing sentences based on arbitrary criteria. However, sometimes you will have to add new lines or change existing ones: for example, you may have to split units that include questions, or you may find that one line includes multiple sentences and it needs to be split into multiple lines. Your task is to do whatever is necessary to make the text units more consistent. 
 
