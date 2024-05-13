@@ -10,3 +10,7 @@ This repository collects all the ongoing projects by Furman students.
 * Project Repository. This repository will contain all documentation, guidelines, issues and final data produced during research: https://github.com/ChiaraPalladino/furesearch
 * Project Issues. On this page, you post any questions, problems, issues that you encounter in the context of specific tasks or just occasionally. https://github.com/ChiaraPalladino/furesearch/issues 
 
+## Tutorials and instructions: 
+
+* How to manage GitHub Issues:
+* How to use the Project Management page: 
