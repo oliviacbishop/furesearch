@@ -20,7 +20,7 @@ The spreadsheet is divided into the following columns:
 * Translation: the translation of the sentence in question, taken from any available scholarly resource (or your own)
 * Relevant lexicon: **lemmas** and translations of the most relevant **adjectives** and **nouns** that helped determine the sentiment class of the sentence.      
           You should use the online readers for your respective texts to find the lemmas, POS, and translations of the words.     
-          The [LatinAffectus lexicon]([url](https://github.com/CIRCSE/Latin_Sentiment_Lexicons/blob/master/LatinAffectus.tsv)) may contain some of the words you are analyzing, so check if they have your word or query them here: https://lila-erc.eu/query/ and click on the heart next to the lemma. 
+          The LatinAffectus lexicon (https://github.com/CIRCSE/Latin_Sentiment_Lexicons/blob/master/LatinAffectus.tsv) may contain some of the words you are analyzing, so check if they have your word or query them here: https://lila-erc.eu/query/ and click on the heart next to the lemma. 
 
 ## Guidelines: How to Assign Emotion Polarity 
 
