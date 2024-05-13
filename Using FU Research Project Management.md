@@ -2,7 +2,7 @@
 
 Welcome to the Project page for this research repository. This is the page you will need to use to provide status updates on your research. 
 
-* At the end of each week, mark your week or tasks as "done", with additional comments to report on the status of what you did. **This is very important!! Do not forget to do this**
+* At the end of each week, make sure to change the status of your week or tasks, with additional comments to report on the status of what you did. **This is very important!! Do not forget to do this**
 
 ### Accessing the project page 
 
