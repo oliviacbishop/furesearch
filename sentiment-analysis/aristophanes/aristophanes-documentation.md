@@ -15,8 +15,8 @@ This section is intended to document any areas of ambiguity, issues, and final d
 
 #### Addition of "Fun score" to sentiment classes
 For this project we are also documenting "fun scores" according to five classes: 
-* Very fun
-* Fun
-* Neutral
-* Serious
-* Very serious
+* Very fun (2)
+* Fun (1)
+* Neutral (0)
+* Serious (-1)
+* Very serious (-2)
