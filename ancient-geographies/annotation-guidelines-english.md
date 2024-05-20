@@ -46,7 +46,7 @@ authorized combinations: **person.epithet, group.epithet, place.epithet**.
 **ethnic**: Ethnonyms and demonyms used to refer unambiguously to one individual or group of individuals by means of their association with a geographically identifiable territory. Examples: "Athenians" (group.ethnic), "Athenian" (person.ethnic). This tag should only be used when the ethnonym appears in isolation. If the ethnonym appears together with a personal name, e.g. "Thucydides the Athenian", they should be annotated together.   
 authorized combinations: **person.ethnic, group.ethnic, place.ethnic**    
   
-**animal**: authorized combinations: **creature.animal**   
+**animal**: authorized combinations: **creature.animal, group.animal**   
 
 **organization**: Groups of people identified by precise organizational structures, such as priesthoods, legions, religious groups, and so on. authorized combinations: **group.organization**
 
