@@ -15,8 +15,8 @@ This section is intended to document any areas of ambiguity, issues, and final d
 
 #### Addition of "Fun score" to sentiment classes
 For this project we are also documenting "fun scores" according to five classes: 
-* Very fun (2)
-* Fun (1)
-* Neutral (0)
-* Serious (-1)
-* Very serious (-2)
+* Very fun (2): The line is mostly for entertainment or a laugh. Possibly relies on the audience’s understanding of a certain politician, event, etc. to make sense.
+* Fun (1): The line has unnecessary aspects intended only for laughs, but still is mostly plot relevance.
+* Neutral (0): The line is straightforward and is intended to advance the plot.
+* Serious (-1): The line lacks humor and has few nonessential quips.
+* Very serious (-2): Has no “fluff,” possibly grim topic delivered with no humor.
