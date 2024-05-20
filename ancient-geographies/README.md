@@ -10,4 +10,7 @@ Overview of the structure:
 ** Documentation: a document where all issues and problems will be collected.  
 * xenophon-ten-thousand: a subfolder that will contain all the work done in the representation of the journey of the Ten Thousand.   
 ** Xenophon text  
-** Documentation   
+** Documentation     
+
+Added resources:   
+* AWMC Map Tiles and instructions
