@@ -6,7 +6,7 @@ You can always add new tags and use the old ones you had before! This is just a 
 
 You also will always be able to change this tagset, clear it, and reupload it in Recogito. You won't lose the tags you assigned in your annotations.   
 
-Download the file "recogito tagset" in your computer. 
+Download the file [recogito tagset](https://github.com/ChiaraPalladino/furesearch/blob/main/ancient-geographies/recogito-tagset) in your computer. 
 
 In your Recogito document, go to "Annotation Preferences" and select "Upload from file" under Tagging Vocabulary. 
 
