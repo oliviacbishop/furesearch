@@ -1,15 +1,12 @@
 # Ancient Geographies
 
-Curators: Cian Colgan, Savannah Bailey 
-
 This folder will contain all work done regarding the annotation and representation of spatial and named entity information in ancient texts. 
 
 ## Overview of this folder
 
-* Annotation Guidelines
-* Core Vocabulary: the additional tags to use when annotating a text in Recogito
-* Various docs on workflow and personal project questions, specific to each fellow
-* Clean TXT and XML versions of the files uploaded for geoannotation.    
+* Annotation Guidelines to use in all projects
+* Core Vocabulary: the additional tags to use when annotating a text in Recogito, to use in all projects
+* Project-specific folders: xenophon-anabasis and herodotus-histories. These will contain project-specific documentation, the files and annotations from Recogito, and various documentation. 
 
 ## Useful Resources for mapping
 
