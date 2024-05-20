@@ -1,16 +1,17 @@
 # Ancient Geographies
 
+Curators: Cian Colgan, Savannah Bailey 
+
 This folder will contain all work done regarding the annotation and representation of spatial and named entity information in ancient texts. 
 
-Overview of the structure: 
-* Guidelines: the essential documentation to understand how to annotate names in an ancient text.
-* Core Vocabulary: the additional tags to use when annotating a text in Recogito
-* herodotus-egypt: a subfolder that will contain all the work done in the annotation of Herodotus.  
-** Herodotus text: the text of the Histories.  
-** Documentation: a document where all issues and problems will be collected.  
-* xenophon-ten-thousand: a subfolder that will contain all the work done in the representation of the journey of the Ten Thousand.   
-** Xenophon text  
-** Documentation     
+## Overview of this folder
 
-Added resources:   
-* AWMC Map Tiles and instructions
+* Annotation Guidelines
+* Core Vocabulary: the additional tags to use when annotating a text in Recogito
+* Various docs on workflow and personal project questions, specific to each fellow
+* Clean TXT and XML versions of the files uploaded for geoannotation.    
+
+## Useful Resources for mapping
+
+* CAWM Map Tiles: https://cawm.lib.uiowa.edu/index.html (with instructions to connect to ArcGIS). hese tiles are particularly useful as a base layer for maps of the Ancient Middle East and Mediterranean Basin.
+* Spatial Data on various phases of the Ancient World: https://github.com/AWMC/geodata 
