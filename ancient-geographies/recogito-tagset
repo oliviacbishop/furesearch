@@ -1,8 +1,8 @@
 person
-place
-group
+location
+collective
 creature
-constellation
+astronomy
 event
 time
 language
@@ -12,7 +12,7 @@ miscellaneous
 epithet
 ethnic
 author
-patronymic
-deity
+ancestry
+mythological
 animal
 organization
