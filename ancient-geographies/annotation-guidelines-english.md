@@ -77,7 +77,29 @@ Note: This tag should only be used when the ancestry appears in isolation. If th
 
 authorized combinations: **person.ancestry, collective.ancestry**    
 
- 
+# Specification on Boundaries: When a Named Entity appears with lowercase words
+
+By definition, a Named Entity is something that can be named. In cases where a capitalized name occurs with lowercase words, it can be tricky to establish the boundaries of what exactly constitutes a Named Entity.   
+In order to establish the boundaries of what constitutes a Named Entity in a text, try answering the following questions:   
+* **What entity is actually being talked about?** If the lowercase word is necessary to appropriately label the entity the text refers to, then it should be included. Example: in the string “temple of Zeus”, the entity is not the person Zeus, but the place “temple of Zeus”. On the contrary, in “river Nile”, only “Nile” is to be annotated because the word “river” is not necessary to identify it.   
+* **Can the annotated string be associated with a precise named entity?** Example: the “sister of Augustus” is Octavia the Younger, so it can be annotated as a string and tagged person.    
+
+**What can be classified as multi-word entity:**  
+* “city of the Athenians” is a place. “Athenians” alone is an ethnic, but the entity the text talks about is a place, which can be associated with the name “Athens”. Therefore, the entire string “city of the Athenians” is tagged as place.  
+* “Black Sea” is a full string referring to a place. “Black” alone does not mean anything, and the entity the text talks about can be associated with a specific record in gazetteers.  
+* “upper Egypt” is a place, as it refers to a precisely identifiable area that has a specific name (often all capitalized: Upper Egypt, vs. Lower Egypt).  
+
+**What cannot be classified as a multi-word entity:**   
+* “Mediterranean sea”: the word “sea” in this string does not further identify the entity “Mediterranean”, nor does it change its label. Therefore, only “Mediterranean” should be tagged as place.  
+* “Iberian coast”: the Iberian coast is not a clearly identifiable place with its own name, and it cannot be associated to a precise identity record. Therefore, only “Iberian” should be tagged as place and associated with “Iberia”.  
+* “Region of Carthage”: this is not a clearly identifiable place that can be named. Therefore, only “Carthage” should be annotated.   
+
+
+
+
+
+
+
 
 
 
