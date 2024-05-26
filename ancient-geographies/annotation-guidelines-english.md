@@ -5,9 +5,14 @@ This short document contains the essential tagset and definition for annotating 
 When annotating things in Recogito, **first-level tags** should be used first. **second-level tags** are optional, and should be used only after a first-level tag. Project-specific tags should be used either all before, or all after these tags. 
 
 In this document, names are referred to as **named entities**, such as "Julius Caesar" or "Athens". 
-**Mentions** of entities may be the ways in which those things are talked about in a text, such as "Emperor Caesar" or "the city of the Athenians". Typically, we annotate mentions and tag them with the entity's name: 
+**Mentions** of entities may be the ways in which those things are talked about in a text, such as "Emperor Caesar" or "the city of the Athenians".   
 
-<img width="589" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/f71b8c55-05bf-4ca1-a606-0d23543e885f">
+Typically, for places we georeference them to gazetteers, which will provide the authoritative form of the name. For personal names, however, we annotate the mention and add a tag with the authoritative form of the name, because we don't have a gazetteer we can reference to:   
+
+<img width="589" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/f71b8c55-05bf-4ca1-a606-0d23543e885f">   
+
+
+
 
 ## General principles
 1. A named entity contains, by definition, at least one capitalized word. Lower-case mentions of entities, such as "the king", should not be annotated.
