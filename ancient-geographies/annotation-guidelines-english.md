@@ -11,7 +11,7 @@ Typically, for places we georeference them to gazetteers, which will provide the
 
 <img width="589" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/f71b8c55-05bf-4ca1-a606-0d23543e885f">   
 
-
+**Nested annotations** occur when multiple entities are present in the same annotation, e.g. "Thucydides the Athenian", "Achilles son of Peleus". For how to handle these cases, see the section below on Nested Annotations. 
 
 
 ## General principles
