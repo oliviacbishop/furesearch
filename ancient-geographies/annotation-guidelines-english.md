@@ -23,7 +23,7 @@ Typically, for places we georeference them to gazetteers, which will provide the
 
 **person**: Any identifiable single individual, including deities and anthropomorphic mythological figures. If the name appears with an epithet of ethnic, they should be annotated together. Examples: "Ajax", "Ajax Telamonius", "Thucydides the Athenian", etc.  
 
-Available second-level tags: **.epithet, .ethnic, .mythological, .astronomy, .author, .ancestry**    
+  Available second-level tags: **.epithet, .ethnic, .mythological, .astronomy, .author, .ancestry**    
 
 **location**: A word or multiple words used to identify a politically, culturally, and/or geographically defined location, including geo-political, physical, fictional spaces and structures like temples, buildings, houses, and monuments. Examples: "Athens", "city of Athens", "city of the Athenians", "temple of Apollo", etc.   
 
@@ -58,6 +58,11 @@ authorized combinations: **person.epithet, collective.epithet, location.epithet*
 **ethnic**: Ethnonyms and demonyms used to refer unambiguously to one individual or group of individuals by means of their association with a geographically identifiable territory. Examples: "Athenians" (collective.ethnic), "the Athenian" (person.ethnic). This tag should only be used when the ethnonym appears in isolation. If the ethnonym appears together with a personal name, e.g. "Thucydides the Athenian", they should be annotated together and only tagged as **person**.   
 
 authorized combinations: **person.ethnic, collective.ethnic, place.ethnic**    
+
+The tag **ethnic** may also be accompanied by georeferencing in platforms like Recogito. It can be tagged as "place" on the platform, and referenced to the appropriate gazetteer entry, so that even place information is available in the data. 
+
+<img width="527" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/43f375ba-eecb-4f42-9023-d734a57f3e43">     
+
   
 **animal**: authorized combinations: **creature.animal, collective.animal**   
 
