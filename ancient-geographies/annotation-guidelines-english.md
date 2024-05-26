@@ -55,19 +55,19 @@ Available second-level tags: **.animal, .mythological, .astronomy**
 
 authorized combinations: **person.epithet, collective.epithet, location.epithet**.    
 
-**ethnic**: Ethnonyms and demonyms used to refer unambiguously to one individual or group of individuals by means of their association with a geographically identifiable territory. Examples: "Athenians" (group.ethnic), "the Athenian" (person.ethnic). This tag should only be used when the ethnonym appears in isolation. If the ethnonym appears together with a personal name, e.g. "Thucydides the Athenian", they should be annotated together and only tagged as **person**.   
+**ethnic**: Ethnonyms and demonyms used to refer unambiguously to one individual or group of individuals by means of their association with a geographically identifiable territory. Examples: "Athenians" (collective.ethnic), "the Athenian" (person.ethnic). This tag should only be used when the ethnonym appears in isolation. If the ethnonym appears together with a personal name, e.g. "Thucydides the Athenian", they should be annotated together and only tagged as **person**.   
 
-authorized combinations: **person.ethnic, group.ethnic, place.ethnic**    
+authorized combinations: **person.ethnic, collective.ethnic, place.ethnic**    
   
 **animal**: authorized combinations: **creature.animal, collective.animal**   
 
-**mythological**: Any creature or group that belongs to the larger realm of myth and religion, including gods and deities. Examples: “Tartaros” (location.mythological), “Hercules” (person.mythological).   
+**mythological**: Any creature or collective that belongs to the larger realm of myth and religion, including gods and deities. Examples: “Tartaros” (location.mythological), “Hercules” (person.mythological).   
 
 authorized combinations: **creature.mythological, person.mythological, location.mythological, collective.mythological**  
 
 **organization**: Groups of people identified by precise organizational structures, such as priesthoods, legions, religious groups, and so on.   
 
-authorized combinations: **group.organization**   
+authorized combinations: **collective.organization**   
 
 **astronomy**: Named stars, groups of stars, constellations, and planets. Example: ‘Pleiades’.  
 
