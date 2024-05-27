@@ -1,1 +1,5 @@
-# FU Research - Undergraduate Research in Digital and Computational Classics at Furman University
+# Digital Camerarius: Moving on Transkribus
+## Project Documentation 
+
+
+
