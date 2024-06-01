@@ -8,6 +8,7 @@ Curator: Alexis Spainhour
 
 ### Other useful resources: 
 * Translation of the _Pharsalia_ is available at the Perseus Digital Library: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0134
+* Alternative translation of the _Pharsalia_: https://www.poetryintranslation.com/PITBR/Latin/PharsaliaVIImaster.php
 * Lemmas and dictionary feature are also available on IUNO: https://www.iuno.us/lucan/7/
 
 ### Documentation for Sentiment Analysis on Lucan, _Pharsalia_
