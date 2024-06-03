@@ -2,6 +2,7 @@
 ### These are the guidelines for my project-specific annotations, i.e. not included in the guidelines. These are primarily used for me to effectively sort, differentiate, and catagorize data in ArcGIS Pro. They are written in the order they should be annotated in.
 #### This is not one specific tag, but annotate every person with an authoritative name (a tag of the person's name) regardless of whether or not there is a wikipedia link to attach to it. If there is no link, tag it in lowercase; if there is a link, it will be uploaded into the annotation tagsheet with the first letter capitalized. Places with a wikipedia link will be in the same format, however if there is no link then ***do not*** tag it (the name can be fetched from the gazetteer)
 
+
 * **river**
 
 Used to identify rivers. Gazetteers create reference points that contain the data for rivers, but when actually mapping, a river is _not_ mapped with _point data_ but as a _polyline_ (or a polygon, depending on the scale of the map). Therefore, a river tag is necessary to separate these reference points from the rest of the point data, since they need to be manually converted to polyline data.
