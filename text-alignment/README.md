@@ -6,7 +6,7 @@ This folder will contain the exported files and guidelines for the alignment of 
 
 The structure of this folder is as follows: 
 * Alignment Guidelines: the authoritative guidelines used to align Greek and English.
-* odyssey-alignment: a folder containing the exported csv files from Ugarit, containing the completed alignments
+* odyssey-alignment: a folder containing the exported csv files from Ugarit, containing the completed alignments. The text has been divided into chunks of 15 lines each. https://docs.google.com/spreadsheets/d/1Ib7qA1fwPr61znWTKTSxAcOKqZg2bLst-JdhvCmpCSo/edit?usp=sharing
 * The text of the Odyssey in txt format, to be imported into Ugarit. 
 
 ## Text of the Odyssey 
