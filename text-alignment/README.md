@@ -14,3 +14,6 @@ The structure of this folder is as follows:
 * Another useful resource is Logeion, to look up specific words: https://logeion.uchicago.edu/
 
 ## List of translations of _Odyssey_ Book 9 
+
+## Other references: 
+* Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, <i>Journal of Open Humanities Data</i>, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.
