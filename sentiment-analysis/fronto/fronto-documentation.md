@@ -1,15 +1,13 @@
-## Lucan, _Pharsalia_
-Curator: Alexis Spainhour 
+## Fronto, Correspondence with Marcus Aurelius
+Curator: Elizabeth Gunner
 
 ### Important resources in this folder: 
-* Text in XML format, from IUNO: https://www.iuno.us/lucan/7/
+* Text in machine-readable format
 * Annotations export in CSV
-* Spreadsheet with the work-in-progress annotations: https://docs.google.com/spreadsheets/d/1CtGGyx3NrtUD32-uaF3yHCXjKgBdR86xaRvQ9EHDJsY/edit?usp=sharing 
+* Spreadsheet with the work-in-progress annotations:  
 
 ### Other useful resources: 
-* Translation of the _Pharsalia_ is available at the Perseus Digital Library: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0134
-* Alternative translation of the _Pharsalia_: https://www.poetryintranslation.com/PITBR/Latin/PharsaliaVIImaster.php
-* Lemmas and dictionary feature are also available on IUNO: https://www.iuno.us/lucan/7/
+* Text of Fronto's edition on Loebolus: https://ryanfb.xyz/loebolus-data/L112.pdf and https://ryanfb.xyz/loebolus-data/L113.pdf
 
-### Documentation for Sentiment Analysis on Lucan, _Pharsalia_
+### Documentation for Sentiment Analysis on Fronto
 This section is intended to document any areas of ambiguity, issues, and final decisions made on specific complicated cases. Make sure to add the relevant references to the sentence (e.g. verse number and sentence number) and to quote the text in question. 
