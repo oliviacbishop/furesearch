@@ -36,9 +36,9 @@ Laconian" > epithet
 * 3.1.4 "the Athenian"
 * 3.1.5 "..., the Athenian"
 * 3.1.5 "Athenian government"
-> Correct to annotate it as collective.organization, just don't nest another place annotation of 'Athenian' inside it ]
+> Correct to annotate it as collective.organization, just don't nest another place annotation of 'Athenian' inside it 
 * 3.1.26 "who spoke in the Boeotian dialect"
-> mostly one word in Greek (βοιωτιάζων), and obviously meant to identify him, though a slightly odd way of doing it Right now, we'll annotate "Boeotian" as a language \[need to review if we'll do language.ethnic?\] because saying "..who spoke Boeotian" would also make sense, and we'd know it'd be a language
+> mostly one word in Greek (βοιωτιάζων), and obviously meant to identify him, though a slightly odd way of doing it. Right now, we'll annotate "Boeotian" as a .language \[need to review if we'll do language.ethnic?\] because saying "..who spoke Boeotian" would also make sense, and we'd know it'd be a language
 * 3.1.31 "the Stymphalian"
 * 3.1.34 "the Elean"
 * 3.1.45 "\...heard that you were an Athenian"
