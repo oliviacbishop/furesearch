@@ -4,10 +4,9 @@ Including a list of all person.ethnic identifiers, as well as some other niche, 
 
 ## Book 2 - Annotations to check: 
  * 2.1.3 "the ruler of Teuthrania" and "the
-Laconian"
-- in Greek "ruler of Teuthrania" is all an epithet (Προκλῆς ὁ
-Τευθρανίας), and it serves an ethnonym function, so I annotated it as
-such
+Laconian" > epithet    
+      Explanation (CP):   ὁ Τευθρανίας is an article nom. sg. + placename at the genitive. βασιλεύς (ruler) is implied in this case. So, "king of Teuthrania" is a correct translation. I have indicated this in the comment to the annotation.
+
 * 2.1.5 "the Laconian" and "the Thessalian"
 * 2.1.7 "Greek"
 * 2.1.10 "the Arcadian" and "the Theban"
