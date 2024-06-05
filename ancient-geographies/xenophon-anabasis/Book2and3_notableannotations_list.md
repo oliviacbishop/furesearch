@@ -55,3 +55,28 @@ Laconian" > epithet
 * 3.4.47 "the Sicyonian"
 * 3.5.5 "men of Greece" conundrum once more
 > See previous instances
+
+## Book 4 - Annotations to check:
+* 4.1.2 “Carduchian mountains” might actually need to be a location annotation?
+> “Carduchian mountains” must be annotated with one string and tagged as Corduene
+ 4.1.18 “the Laconian” and “the Arcadian”
+* 4.1.27-28 soldier volunteer list
+* 4.2.13 three captain list + their fathers
+* 4.2.17 “the Argive”
+* 4.2.21 “of Lusi”
+* 4.2.28 “by a Cretan named Stratocles” there was a similar note in book 2 about referring to Tissaphernes as “the Persian” I think? Might have to be annotated differently
+> Checked the Greek, and it does use Cretan as an epithet, so I annotated it as person.ethnic
+* 4.4.15 “of Temnus”
+* 4.4.19 “the Stymphalian” 
+* 4.5.24 “an Athenian”
+* 4.5.34 “Persian-speaking”
+> Annotated this as a language; felt similar to dealing with the ‘he who spoke Boeotian” earlier
+* 4.6.1 “of Amphipolis”
+* 4.6.9 “Cleanor” not a place, just weird that cleanor isn’t specified
+* 4.6.20 “of Methydrium” “the Chian” “the Oetaean”
+* 4.7.8-12 list of soldier volunteers
+* 4.7.13 “of Stymphalus”
+* 4.7.24 “The Sea! The Sea!”
+> I brought this up elsewhere, but debated tagging this with the wikipedia page for that phrase. However, upon relooking at it, it’s unnecessary to tag at all, not even as a location, since θάλαττα isn’t even capitalized in the Greek
+* 4.8.18 “the Acarnanian” “of Orchomenus”
+* 4.8.25 “a Spartan”
