@@ -19,7 +19,7 @@ with open(input_file, mode='r', newline='') as infile, \
     tags_index = fieldnames.index("TAGS") + 1
     new_fieldnames = fieldnames[:tags_index] + new_fields + fieldnames[tags_index:]
     
-    writer = csv. DictWriter(outfile, fieldnames=new_fieldnames)
+    writer = csv.DictWriter(outfile, fieldnames=new_fieldnames)
     writer.writeheader()
     
     # define object lists according to the specific vocabulary of the tags included in each field. firstleveltag and secondleveltag are specified in the annotation guidelines. the other lists are custom and should be changed depending on the project.
