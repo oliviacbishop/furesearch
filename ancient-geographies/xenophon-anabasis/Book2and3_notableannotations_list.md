@@ -80,3 +80,21 @@ Laconian" > epithet
 > I brought this up elsewhere, but debated tagging this with the wikipedia page for that phrase. However, upon relooking at it, it’s unnecessary to tag at all, not even as a location, since θάλαττα isn’t even capitalized in the Greek
 * 4.8.18 “the Acarnanian” “of Orchomenus”
 * 4.8.25 “a Spartan”
+
+## Book 1 - Annotations to check (not including those straightforward person.ethnics from previous entries):
+* 1.2.8 “Great King” I think refers to Artaxerxes II?
+> Similar to the “King” debacle, not capitalized in the Greek (μεγάλου βασιλέως), but this is the only instance I’ve seen of “Great King”
+> Same instance shows up again in 1.7.13, 1.7.14, 
+* 1.2.10 “Lycaean festival” very odd fringe case
+> Very confused as to how to annotate this. The Greek here is Λύκαια, which Scaife identifies as the Lycaea, a festival celebrating Zeus Lycaea. Lycaea the festival has an Encyclopaedia Britannica entry, albeit very brief, but there is no corresponding Wikipedia entry (for the festival; there is one for a town of the same name), though it is heavily referenced in the Mount Lykaion and Lycaon (king of Arcadia). So, my best thought would be to either tag it as .event (but that seems more for one time big things, not recurring festivals) or as .miscellaneous, with either optionally having a .mythological tag on it. However, if it comes from Mt Lykaion (or even the town Lycaea), then maybe “Lycaean” would be better tagged as a collective.ethnic?
+* 1.2.12 “Cilican queen” 
+> The Greek uses just “Κίλισσα” (“a Cilician,” same as referring to any other person of the ethnic group) to refer to her, so I annotated “Cilician queen” as a person and tag it Epyaxa.person (similar to those “the Persian” or “the Greek” instances we’ve run into previously), then nested an annotation of “Cilician” inside of it tagged person.ethnic. This is consistent with annotations for other similar annotations, but this one felt weirder so I wanted to check in
+> This same entity also shows up in 1.2.14, 1.2.16, 1,2,18, and 1.2.20
+* 1.2.13 “so-called spring of Midas”
+> Refers to a stream of water that Midas used to water down wine to catch Silenus. As far as I can tell, this is referenced literally nowhere else, there is definitely no georeference point I can find, but it rides that line between being a mythological location and a real one. I put the .mythological tag on there just in case
+* 1.2.13 “the satyr”
+> So I know typically we don’t annotate things that aren’t capitalized, but this one is weird because it’s not capitalized in English, but is in Greek (τὸν Σάτυρον). Additionally, it refers to a very specific entity: Silenus. Given that, I went ahead and annotated it, but I wanted to check with you
+* 1.4.4 “the Gates between Syria and Cilica”
+> This area refers to the Belen Pass, but I’m uncertain as to whether I should annotate the whole string or just “Gates.” “Gates” itself isn’t unambiguous (I confused this area for the Cilician Gates on my first pass months ago) and it isn’t capitalized in Greek, yet it is capitalized in English, and annotating just “Gates” is way more condensed, and this is the only set of gates mentioned in the text, so it is unambiguous within the Anabasis. Given this, I went ahead and just annotated “Gates”
+* 1.6.7 “altar of Artemis”
+> Originally annotated this as just “Artemis,” but on a second look this might actually be the specific Temple of Artemis at Sardis. Should I annotate the whole string, and maybe do a nesting of “Artemis”?
