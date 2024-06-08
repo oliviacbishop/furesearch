@@ -10,7 +10,7 @@ Curator: Elizabeth Gunner
 * Text of Fronto's edition on Loebolus: https://ryanfb.xyz/loebolus-data/L112.pdf and https://ryanfb.xyz/loebolus-data/L113.pdf  
 
 List of currently analyzed letters:
-* Ad M. Caes iv.12 - Loeb pg 203, pdf pg 259, section 3
+* Ad M. Caes iv.12 - Loeb pg 203, pdf pg 259, section 2-3
 * Ad M. Caes i.3 - Loeb pg 83, pdf pg 140, section 2, 4-6
 * Ad M. Caes ii.2 - Loeb pg 113, pdf pg 169, section 1
 * Ad M. Caes v.18 - Loeb pg 225, pdf pg 281
