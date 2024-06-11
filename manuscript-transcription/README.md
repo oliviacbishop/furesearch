@@ -23,6 +23,16 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Quotations will contain any direct quotes and should be tagged as Quotations.
 * Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
 
+## Transkribus shortcuts and info:
+To divide a region:
+* click on region of interest
+* press V (vertical) or H (horizontal)
+* use slider to make your split
+
+Three dots in top right corner shows keyboard shortcuts
+
+"Jobs" button shows progress on an automatic transcription
+
 ## How to review past transcriptions: 
 The past transcriptions use the cts urns to identify pages and page areas. In order to figure out where the transcriptions come from, go to the 
 
