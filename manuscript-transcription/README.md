@@ -15,7 +15,8 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Any typos should be fixed in the transcription and do not need to be tagged.
 * Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute. 
 * All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The resolved abbreviation should be typed inside the "expansion" field. 
-  <img width="389" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/1edb0c1f-d012-4a8d-bb90-c719ec967cef">
+
+   <img width="389" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/1edb0c1f-d012-4a8d-bb90-c719ec967cef">
 * All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
 
 * Citations are any reference to an outside author or work. For example, Aristotle lib.IV.cap.I. As of now, both citations and quotations are tagged as Quotations, however that may be subject to change later on.
