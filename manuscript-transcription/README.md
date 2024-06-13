@@ -10,6 +10,11 @@ Our transcription guidelines will be updated as we continue.
 
 Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb10575861 
 
+## To-do tomorrow:
+* Look through the past transcriptions to compare the Greek and Latin shorthand
+* Check back through tags
+* Troubleshoot the Mystery Of The Missing Tags
+
 ## Preliminary transcription guidelines
 
 * Page numbers do not need to be transcribed
