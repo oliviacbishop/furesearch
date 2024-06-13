@@ -42,6 +42,9 @@ Three dots in top right corner shows extra keyboard shortcuts
 
 The hamburger on the right is the "Layout" button. This allows you to change the order of lines in your transcription. 
 
+## Observations about Transkribus:
+It sometimes randomly deletes tags I've created 
+
 ## How to review past transcriptions: 
 The past transcriptions use the cts urns to identify pages and page areas. In order to figure out where the transcriptions come from, go to the 
 
