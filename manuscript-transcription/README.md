@@ -12,6 +12,7 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
 ## Preliminary transcription guidelines
 
+* Page numbers do not need to be transcribed
 * Any typos should be fixed in the transcription and do not need to be tagged.
 * Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute. 
 * All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The resolved abbreviation should be typed inside the "expansion" field. 
@@ -25,14 +26,21 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
 
 ## Transkribus shortcuts and info:
-To divide a region:
-* click on region of interest
-* press V (vertical) or H (horizontal)
+To divide a region or line:
+* click on region/line of interest
+* press and hold V (vertical) or H (horizontal)
 * use slider to make your split
 
-Three dots in top right corner shows keyboard shortcuts
+To move a region or line:
+* click on region/line
+* press and hold shift
+* use slider to move up, down, expand, or minimize
+
+Three dots in top right corner shows extra keyboard shortcuts
 
 "Jobs" button shows progress on an automatic transcription
+
+The hamburger on the right is the "Layout" button. This allows you to change the order of lines in your transcription. 
 
 ## How to review past transcriptions: 
 The past transcriptions use the cts urns to identify pages and page areas. In order to figure out where the transcriptions come from, go to the 
@@ -51,25 +59,26 @@ Noscemus GM 6
 * Recognizes Latin shorthand: et symbol, shorthand for atque (atq)
   
 ## Greek manuscript shorthand guide:
+
 του
 
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/4b054e7e-676c-470a-9600-a563d8b8ab42)
+
+-ου
+
+![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/cd43673d-2a11-4f0a-8f9e-1ffc724becc9)
 
 ει
 
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/3a14ddd3-5726-4df5-a29e-5b422d3d8646)
 
-φ I think? not sure tho...
+θ
 
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/09fe24d9-8c3b-4f6b-9d01-6900a2afcd3a)
 
-θ
+φ
 
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/d3fb1d76-53fe-45b6-9108-cf6378434732)
-
--ου
-
-![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/cd43673d-2a11-4f0a-8f9e-1ffc724becc9)
 
 -ος
 
