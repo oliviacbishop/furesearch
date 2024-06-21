@@ -13,3 +13,5 @@ Curator: Alexis Spainhour
 
 ### Documentation for Sentiment Analysis on Lucan, _Pharsalia_
 This section is intended to document any areas of ambiguity, issues, and final decisions made on specific complicated cases. Make sure to add the relevant references to the sentence (e.g. verse number and sentence number) and to quote the text in question. 
+
+Color refrences on the spreadsheet- Any row that is highlighted in blue represents sentences with lines in between them that were ommitted. This signifies that more context might be needed to accurately identify the sentiment of the sentence. 
