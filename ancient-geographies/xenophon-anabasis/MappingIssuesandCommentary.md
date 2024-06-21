@@ -1,7 +1,6 @@
 # Mapping Commentary (and Points for Review)
 ### This is an aggregate of all of my commentary in mapping the _Anabasis_, similar to my notable annotations and commentary list, mostly so that it's on record.
 Also, here's a cheat sheet for the measurements Xenophon uses. They are all not exactly known in the modern day, and even back then they were variable, meaning that they weren't concrete distances but more often how long it took to get somewhere, but it's the best he gives us. When interpreting these measurements, I use a range of values.
-**Ancient Measurements Cheat Sheet:**
 * _Stadion_
     * Not precisely known
     * 1 stadion = ~184m (150-210m)
