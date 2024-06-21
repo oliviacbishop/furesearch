@@ -1,5 +1,19 @@
 # Mapping Commentary (and Points for Review)
 ### This is an aggregate of all of my commentary in mapping the _Anabasis_, similar to my notable annotations and commentary list, mostly so that it's on record.
+Also, here's a cheat sheet for the measurements Xenophon uses. They are all not exactly known in the modern day, and even back then they were variable, meaning that they weren't concrete distances but more often how long it took to get somewhere, but it's the best he gives us. When interpreting these measurements, I use a range of values.
+**Ancient Measurements Cheat Sheet:**
+* _Stadion_
+    * Not precisely known
+    * 1 stadion = ~184m (150-210m)
+* _Parasang_
+    * Not precisely know; a measure of walking distance; potentially based on how far a soldier could march a day
+    * 1 parasang = ~30 stadia
+    * 1 parasang = ~5.4km (4.7-5.6km)
+* _Stage_
+    * Not precisely known; really only shows up in Xenophon’s Anabasis
+    * There’s also desert stages too? Implying that a stage could also be a relative measure of marching distance, like parasang, that would be impacted by terrain
+    * 1 stage = 160 stadia
+    * 1 stage = ~29.8km (24-33.6km)
 
 ## Book 2
 * I’m having Book 2 start at the reference point Pleiades gives for the wall of Media (33.1216, 44.2698) and not where Wikipedia roughly lists the Battle of Cunaxa as having occurred (33.325, 44.08) because:
