@@ -49,6 +49,11 @@ The hamburger on the right is the "Layout" button. This allows you to change the
 
 ## Observations about Transkribus:
 It sometimes randomly deletes tags I've created 
+* solution: make sure you click somewhere else on your transcription so the software registers it as a "change" before you save and exit.
+
+Transkribus has a number of keyboard shortcuts to be used in transcriptions. The problem with this is that some of the shortcuts only require you to press a certain letter on your keyboard (ie. pressing W allows you to zoom out) which has proven to be an issue when I am trying to fix mistakes or put info into tags.
+
+It is VERY reliant on how good your wifi/cell service is. Sometimes it will take an hour for a text model to create a transcrption, other times it will take 30 seconds. It all depends on where you are and if you have good wifi.
 
 ## How to review past transcriptions: 
 The past transcriptions use the cts urns to identify pages and page areas. In order to figure out where the transcriptions come from, go to the 
