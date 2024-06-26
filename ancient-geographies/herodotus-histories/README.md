@@ -15,4 +15,4 @@ Translations of Book II of the _Histories_ are available at the following links:
 * Godley's translation in parallel with the Greek text: https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.1.0-1.1.4?right=perseus-eng2
 * ToposText English text with the places tagged and georeferenced: https://topostext.org/work/22 
 
-
+# Annotation documentation
