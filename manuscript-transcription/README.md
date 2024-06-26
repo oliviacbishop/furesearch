@@ -32,15 +32,20 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
 ## Researching people
 First look up the author in either library (scaife or philogic)
-this will pull up the author's bibliography
-sometimes the spelling doesnt match the citation
-usually the longer the quotation the more accurate the spelling
+* Scaife: https://scaife.perseus.org/search/?q=neredum&kind=form&format=instances&p=1
+* Philogic: https://artflsrv03.uchicago.edu/philologic4/Greek/ 
 
-with the other one, you have to search by the lemma
-it'll pull up a bunch of options to choose from
+Using Scaife, 
+* Searching for the author will pull up their bibliography
+* Sometimes the spelling doesnt match the citation
+* Usually the longer the quotation the more accurate the spelling
 
-look up word in logeos to see if Camerius made a spelling error or if he's just using another form of the word
+Using Philogic,
+* You have to search by the lemma
+* It will pull up a bunch of options to choose from
 
+Look up word in Logeion to see if Camerius made a spelling error or if he's just using another form of the word
+https://logeion.uchicago.edu/%CE%BB%CE%BF%CE%B3%CE%B5%E1%BF%96%CE%BF%CE%BD 
 
 ## Transkribus shortcuts and info:
 To divide a region or line:
