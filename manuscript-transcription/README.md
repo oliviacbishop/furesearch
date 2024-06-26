@@ -30,6 +30,18 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Quotations will contain any direct quotes and should be tagged as Quotations.
 * Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
 
+## Researching people
+First look up the author in either library (scaife or philogic)
+this will pull up the author's bibliography
+sometimes the spelling doesnt match the citation
+usually the longer the quotation the more accurate the spelling
+
+with the other one, you have to search by the lemma
+it'll pull up a bunch of options to choose from
+
+look up word in logeos to see if Camerius made a spelling error or if he's just using another form of the word
+
+
 ## Transkribus shortcuts and info:
 To divide a region or line:
 * click on region/line of interest
