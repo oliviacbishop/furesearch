@@ -18,7 +18,7 @@ Translations of Book II of the _Histories_ are available at the following links:
 # Annotation documentation
 **Collective vs. Singular**
 * 3.1
- * ἱρεῦσι _plural_
+   * ἱρεῦσι _plural_
 * 5.1
  * Αἰγυπτίοισι _plural_
 * 10.1
