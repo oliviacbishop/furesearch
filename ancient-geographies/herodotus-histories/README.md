@@ -16,6 +16,9 @@ Translations of Book II of the _Histories_ are available at the following links:
 * ToposText English text with the places tagged and georeferenced: https://topostext.org/work/22 
 
 # Annotation documentation
+**Λίνος & Μανερῶς**
+In chapter 79, Herodotus speaks of a greek song which is named after a mythological figure. It is unclear in the multiple mentions of this name (Λίνος)
+
 **Collective vs. Singular/Descriptor**
 * 3.1
    * ἱρεῦσι ~ _plural_
