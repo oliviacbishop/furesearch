@@ -59,3 +59,10 @@ Translations of Book II of the _Histories_ are available at the following links:
    * Θήβῃσι ~ _singular/descriptor_
 * 56.2
    * Θήβῃσι ~ _singular/descriptor_
+* 57.3
+   * Θήβῃσι ~ _singular/descriptor_
+   * Αἰγυπτίῃσι ~ _singular/descriptor_
+* 71.1
+   * Αἰγυπτίοισι ~ _singular/descriptor_
+
+
