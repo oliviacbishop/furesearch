@@ -30,7 +30,7 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Quotations will contain any direct quotes and should be tagged as Quotations.
 * Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
 
-## Researching people
+## Tutorial for researching quotations/words
 First look up the author in either library (scaife or philogic)
 * Scaife: https://scaife.perseus.org/search/?q=neredum&kind=form&format=instances&p=1
 * Philogic: https://artflsrv03.uchicago.edu/philologic4/Greek/ 
