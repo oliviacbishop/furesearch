@@ -16,7 +16,7 @@ Translations of Book II of the _Histories_ are available at the following links:
 * ToposText English text with the places tagged and georeferenced: https://topostext.org/work/22 
 
 # Annotation documentation
-**Collective vs. Singular**
+**Collective vs. Singular/Descriptor**
 * 3.1
    * ἱρεῦσι ~ _plural_
 * 5.1
@@ -28,7 +28,34 @@ Translations of Book II of the _Histories_ are available at the following links:
 * 15.1
    * Αἰγυπτίοισι ~ _plural_
 * 18.2
-   * Αἰγυπτίοισι ~ _singular_
-
-
-
+   * Αἰγυπτίοισι ~ _singular/descriptor_
+* 30.3
+   * Δάφνῃσι ~ _singular/descriptor_
+* 33.3
+   * Κυνησίοισι ~ _plural_
+* 43.4
+   * Αἰγυπτίοισι ~ _singular/descriptor_
+* 44.3
+   * Ἕλλησι ~ _plural_
+* 48.2
+   * Ἕλλησι ~ _plural_
+* 49.1 
+   * Ἕλλησι ~ _plural_
+* 49.2
+   * Ἕλλησι x3 ~ _plural_
+* 50.2
+   * Αἰγυπτίοισι ~ _singular/descriptor_
+* 51.2
+   * Ἀθηναίοισι ~ _plural_
+* 51.3
+   * Ἀθηναίοισι ~ _plural_
+* 52.2
+   * Ἕλλησι ~ _singular/descriptor_
+* 53.2
+   * Ἕλλησι ~ _plural_
+* 54.1
+   * Ἕλλησι ~ _plural_
+* 55.1
+   * Θήβῃσι ~ _singular/descriptor_
+* 56.2
+   * Θήβῃσι ~ _singular/descriptor_
