@@ -16,6 +16,9 @@ Translations of Book II of the _Histories_ are available at the following links:
 * ToposText English text with the places tagged and georeferenced: https://topostext.org/work/22 
 
 # Annotation documentation
+**Collective vs. Singular**
+* Chapter 3, Section 1
+  * ἱρεῦσι 
 
 
 
