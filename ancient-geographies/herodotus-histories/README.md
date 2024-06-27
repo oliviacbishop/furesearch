@@ -20,13 +20,13 @@ Translations of Book II of the _Histories_ are available at the following links:
 * 3.1
    * ἱρεῦσι _plural_
 * 5.1
- * Αἰγυπτίοισι _plural_
+   * Αἰγυπτίοισι _plural_
 * 10.1
- * Αἰγυπτίοισι _plural_
+   * Αἰγυπτίοισι _plural_
 * 14.1
- * Αἰγυπτίοισι x2 _plural_
+   * Αἰγυπτίοισι x2 _plural_
 * 15.1
- * Αἰγυπτίοισι _plural_
+   * Αἰγυπτίοισι _plural_
 *
 
 
