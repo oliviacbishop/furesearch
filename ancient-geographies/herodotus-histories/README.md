@@ -17,7 +17,7 @@ Translations of Book II of the _Histories_ are available at the following links:
 
 # Annotation documentation
 **Λίνος & Μανερῶς**
-In chapter 79, Herodotus speaks of a greek song which is named after a mythological figure. It is unclear in the multiple mentions of this name (Λίνος)
+In chapter 79, Herodotus speaks of a Greek song which is named after a mythological figure. It is unclear in the multiple mentions and iterations of this name (Λίνος) whether Herodotus is speaking in reference to the work or the figure. Similarly, when Herodotus introduces the Egyptian version of the name, Μανερῶς, it is unclear if Herodotus is speaking of a song or mythological figure. 
 
 **Collective vs. Singular/Descriptor**
 * 3.1
