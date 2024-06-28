@@ -57,7 +57,7 @@ Also, here's a cheat sheet for the measurements Xenophon uses. They are all not 
     * They in fact have not crossed the Tigris at all, and I think that’s where I went wrong
 
 # Here's Where I do-over: 
-### The next notes are formatted more concisely. Some are copy-pasted from the original 1st draft becasue they're the same issues, but there's also additional commentary
+### The next notes are formatted more concisely. Some are copy-pasted from the original 1st draft becasue they're the same issues, but there's also additional commentary.
 
 ## Book 2 (2nd DRAFT NOTES)
 * (2.4.27) Opis to villages of Parysatis(?)
@@ -73,7 +73,7 @@ Also, here's a cheat sheet for the measurements Xenophon uses. They are all not 
 * (3.3.11) Zapatas crossing
     * Still unclear on if they crossed the Zapatas close to the tigris or not. No evidence they didn’t, but if they did, they should be able to travel further in the next segment, unless the skirmish really took a long time
 
-##Book 3 (2nd DRAFT NOTES)
+## Book 3 (2nd DRAFT NOTES)
 * (3.4.1) Gorge and Persian skirmish to Larisa
     * Can’t find any geographic equivalent nearby of where this gorge might be
     * Also, unless the skirmish took a really long time, which it doesn’t seem like it did and rather Xenophon describes it as if the Greeks made short work of the Persians, they should be able to travel much further than Larisa
