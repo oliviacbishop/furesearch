@@ -79,3 +79,6 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * Αἰγυπτίοισι ~ _plural_
 * 94.2
    * Ἕλλησι ~ _singular/descriptor_
+* 98.1
+   * Πέρσῃσι ~ _singular/descriptor_
+
