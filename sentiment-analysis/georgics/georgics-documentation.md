@@ -10,6 +10,7 @@ Curator: Caroline Orr
 * A parallel version of _Georgics_ with English translation is available on Scaife: https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi002.perseus-lat2:4?right=perseus-eng2 
 * Translation of the _Georgics_ is available at the Perseus Digital Library: https://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0690.phi002.perseus-eng1:4
 * Lemmas and dictionary are available on Scaife: https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi002.perseus-lat2:4
+* A better translation of the _Georgics_: https://www.poetryintranslation.com/PITBR/Latin/VirgilGeorgicsIV.php
 
 
 ### Documentation for Sentiment Analysis on Vergil, _Georgics_
