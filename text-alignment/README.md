@@ -22,8 +22,8 @@ The structure of this folder is as follows:
 
 ## Project Report - essentials 
 
-# Introduction
+#### Introduction
 
-# Paragraph 1
+#### Paragraph 1
 
-# Paragraph 2
+#### Paragraph 2
