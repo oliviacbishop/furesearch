@@ -20,4 +20,6 @@ Violence is documented through a **violence score** of 0-2:
 * 2 - there is active violence occurring within the sentence. This classification might be adjusted as needed as I implement it further.
 
 #### Color code on the spreadsheet
-* Blue rows: sentences with lines in between them that were ommitted. This signifies that more context might be needed to accurately identify the sentiment of the sentence.   
+* Blue rows: sentences with lines in between them that were ommitted. This signifies that more context might be needed to accurately identify the sentiment of the sentence.
+* Red rows: these sentences contain violence. This is being done away with as the sentences are given a violence score
+* Yellow rows: sentences that need to be revisited. 
