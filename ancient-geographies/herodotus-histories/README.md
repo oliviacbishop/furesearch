@@ -95,3 +95,5 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
 * 120.3
    * Ἕλλησι ~ _plural_
    * Ἀχαιοῖσι ~ _plural_
+* 120.4
+   * Τρωσί ~ _plural_
