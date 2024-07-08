@@ -89,6 +89,7 @@ Noscemus GM 6
 * Recognizes Greek shorthand: long sigma, -ος ending
 * Recognizes Latin shorthand: et symbol, shorthand for atque (atq)
 * Seems to have the most issues recognizing accents (eg. putting an accent where it isn't, leaving out accents, or putting in the wrong accents)
+* Has problems mixing up lower-case 'e' with 'a' or 'o'
   
 ## Greek manuscript shorthand guide:
 
