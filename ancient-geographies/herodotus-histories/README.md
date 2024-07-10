@@ -121,3 +121,5 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * Ἠλείοισι ~ _plural_
 * 161.3
    * Λιβυκοῖσι ~ _singular/descriptor_
+* 169.3
+   * Αἰγυπτίοισι ~ _plural_
