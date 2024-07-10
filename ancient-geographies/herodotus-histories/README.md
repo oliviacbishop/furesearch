@@ -115,3 +115,5 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
 * 154.1
    * Ἴωσι ~ _plural_
    * Καρσὶ ~ _plural_
+* 159.2
+   * Σύροισι ~ _plural_
