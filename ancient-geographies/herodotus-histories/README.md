@@ -119,3 +119,5 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * Σύροισι ~ _plural_
 * 160.4
    * Ἠλείοισι ~ _plural_
+* 161.3
+   * Λιβυκοῖσι ~ _singular/descriptor_
