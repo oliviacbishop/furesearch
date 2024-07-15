@@ -45,8 +45,18 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 ### Particulars: jokes, comedy and allusions 
 
 ### Particulars: prayers and supplications
+Prayers may have different functions... 
+
 
 ### Particulars: units containing violence 
+In general, we need to distinguish cases where there is a particular purpose to violence in a unit, and cases where violence is described as a fact. 
+* When violence is simply described as a fact, e.g. a battle happening, **neutral** is the preferred sentiment.
+* When violence is contextualized in a sentence with a different tone, e.g. a positive exhortation (such as inciting to battle to defend a city, or in patriotic contexts, etc.), the connotation of the larger context takes precedence. So, the unit will be marked as **positive** or **negative**, depending. 
+
+Violence may be documented through a **violence score** of 0-2. The purpose of the **violence score** is to connect the presence of violence to the sentiment recorded for the sentence. 
+* 0 - no violence present in the sentence.
+* 1 - there is violent language being used in a descriptive manner.
+* 2 - there is active violence occurring within the sentence. This classification might be adjusted as needed as I implement it further.
 
 ## Literature 
 In this project, we follow closely the criteria and guidelines defined by Sprugnoli et al. (2021) for the creation of Sentiment Analysis datasets for Latin poetry. 
