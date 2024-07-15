@@ -1,5 +1,15 @@
 # Sentiment Analysis: Instructions and Operational Guidelines
 
+##### Authors
+This document contains the summary of relevant observations and rules created in the course of several Furman Research Fellowships (2024-). 
+The authors are: 
+
+* Chiara Palladino
+* Sydnee Bailey
+* Elizabeth Gunner 
+* Caroline Orr
+* Alexis Spainhour
+
 This document contains the basic operational guidelines to define the prevalent sentiment in the various corpora assembled for this project. It serves as overall documentation, and it will be integrated with useful observations that emerged throughout the work. 
 
 * You will conduct work mainly in your respective Google spreadsheets. At the end of the research, you will export your spreadsheet and upload it in your project folder. 
