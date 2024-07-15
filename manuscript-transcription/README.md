@@ -10,26 +10,24 @@ Our transcription guidelines will be updated as we continue.
 
 Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb10575861 
 
-## To-do tomorrow:
-* Look through the past transcriptions to compare the Greek and Latin shorthand
-* Check back through tags
-* Troubleshoot the Mystery Of The Missing Tags
 
 ## Preliminary transcription guidelines
 
 * Page numbers do not need to be transcribed
 * Any typos should be fixed in the transcription and do not need to be tagged.
 * Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute. 
-* All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The fully expanded word should be typed inside the "expansion" field. 
-
-   <img width="389" alt="image" src="https://github.com/ChiaraPalladino/furesearch/assets/15249889/1edb0c1f-d012-4a8d-bb90-c719ec967cef">
 * All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
 
-* A Citation is any reference to an outside author or work. For example, Aristotle lib. IV. cap. I. As of now, both citations and quotations are tagged as Quotations, however that may be subject to change later on.
-* Citations will often contain abbreviated versions of authors names and work titles. These should be resolved as much as it is reasonable. Further research may reveal the correct way to resolve these citations.
-* Quotations will contain any direct quotes and should be tagged as Quotations.
+## Tagging guidelines
+
+* All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The fully expanded word should be typed inside the "expansion" field.
+* Names should be tagged using the "person" tag.
+* A Citation is any reference to an outside author or work. For example, Aristotle lib. IV. cap. I.
+* Citations will often contain abbreviated versions of authors names and work titles. These should be resolved as much as it is reasonable in the citation tag. Further research may reveal the correct way to resolve these citations.
+* Quotations will contain any direct quotes and should be tagged as Quotations. 
 * The Quotation tag has space for information about the author of the quote. Instead using the Person tag for a reference, just use the Quotation tag.
 * Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
+  
 
 ## Tutorial for researching quotations/words
 First look up the author of the quotation in either library (scaife or philogic)
@@ -71,7 +69,9 @@ It sometimes randomly deletes tags I've created
 
 Transkribus has a number of keyboard shortcuts to be used in transcriptions. The problem with this is that some of the shortcuts only require you to press a certain letter on your keyboard (ie. pressing W allows you to zoom out) which has proven to be an issue when I am trying to fix mistakes or put info into tags that use that letter. 
 
-It is VERY reliant on how good your wifi/cell service is. Sometimes it will take an hour for a text model to create a transcrption, other times it will take 30 seconds. It all depends on where you are and if you have good wifi.
+It is VERY reliant on how good your wifi/cell service is. 
+
+Be sure to save as you work. If you wait till you are done with a document, the software will freak out and won't save your work. I usually click save every 10 changes just to be safe. 
 
 ## How to review past transcriptions: 
 The past transcriptions use the cts urns to identify pages and page areas. In order to figure out where the transcriptions come from, go to the 
