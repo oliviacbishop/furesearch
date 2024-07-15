@@ -1,15 +1,21 @@
 ## Aristophanes' Wasps - documentation on specific decisions
 
-#### ll. 10-13. **Copypaste the text of the line in question (Greek and Translation)**
-* Provide the essential context of the joke - pretend the reader does not have the spreadsheet in front of them.  
-* (Who? the joke? a character?) pokes fun at the Medians, which would have been seen negatively (hence "hostile” in translation). Use of “Medos” demonstrates the aggression with which the sleep came for Xanthias (this sentence is unclear). 
-* In general, Eastern people are viewed negatively in the 5th century BCE, due to the ongoing Persian Wars between Greeks and Persians. However, this joke is intended to have a positive reaction from the character Sosias (WHY?), so mixed sentiment. 
+**Add appropriate references here, like the commentaries you drew upon to make sense of the jokes. Adding them upfront will spare the time of referencing them throughout.**
 
-#### ll. 16-19. 
-* A hip political joke. Draws upon negative associations with Cleonymus (dropping shield in battle and fleeing) to make the joke. Referencing the shield seems strange at first, until Cleonymus is used as the punchline. (Perhaps meant to reference/honor Zeus or at least compare the two with the eagle picking up the shield?) The eagle is used to belittle Cleonymus’ image as it is shown having more “honor” than him. 
-31-36 Pnyx was a hill used by people for meetings and speeches, etc. Meant to draw similarities between what the animals were doing and human activities, so basically calling the humans sheep and whales. (it is portrayed as uncivilized/not respected because he is describing animals doing it, when people do the same) The image of animals on this platform is intended to be ridiculous. “Rapacious” (greedy) is how πανδοκεύτρια is translated. Πανδοκεύτρια means “hostess” but it is translated figuratively as “accepting all.”
--
-48-51 Theorus is clearly disliked, probably because of his associations with Kleon. Mixed sentiment because being with the crows is negative, but given that the characters dislike Theorus, it is presented as a positive. A sort of punishment for whatever wrong he apparently did.
+#### ll. 10-13. **Copypaste the text of the joke in question (Greek and Translation)**
+* **Context:** **Provide the essential context of the joke - pretend the reader does not have the spreadsheet in front of them.**  
+* **Explanation:** **(Who? the joke? a character?)** pokes fun at the Medians, which would have been seen negatively (hence "hostile” in translation). Use of “Medos” demonstrates the aggression with which the sleep came for Xanthias **(this sentence is unclear)**. In general, Eastern people are viewed negatively in the 5th century BCE, due to the ongoing Persian Wars between Greeks and Persians.
+* **Predominant sentiment:** However, this joke is intended to have a positive reaction from the character Sosias **(WHY?)**, so mixed sentiment. 
+
+#### ll. 16-19. **Copypaste the text of the joke in question (Greek and Translation)**
+* **Context:** A hip political joke. Draws upon negative associations with Cleonymus (dropping shield in battle and fleeing) to make the joke. Referencing the shield seems strange at first, until Cleonymus is used as the punchline. (Perhaps meant to reference/honor Zeus or at least compare the two with the eagle picking up the shield?) The eagle is used to belittle Cleonymus’ image as it is shown having more “honor” than him.
+
+#### ll. 31-36 
+* **Context:** The Pnyx was a hill used by people for meetings and speeches, etc.
+* **Explanation:** The joke is meant to draw similarities between what the animals were doing and human activities, so basically calling the humans sheep and whales. (**who??** it is portrayed as uncivilized/not respected because **aristophanes?** he is describing animals doing it, when people do the same) The image of animals on this platform is intended to be ridiculous. “Rapacious” (greedy) is how πανδοκεύτρια is translated. Πανδοκεύτρια means “hostess” but it is translated figuratively as “accepting all.”
+
+#### ll. 48-51 
+* Theorus is clearly disliked, probably because of his associations with Kleon. Mixed sentiment because being with the crows is negative, but given that the characters dislike Theorus, it is presented as a positive. A sort of punishment for whatever wrong he apparently did.
 -
 -
 150-151 A pun. Capnius means smoky (κάπνιον = smoke) and is the nickname of another playwright, Ecphantides, who was disliked by writers at the time. It is implying that Ecphantides smelled bad, as he is related to the smoke of fig-wood, “the most acrid of all.”
