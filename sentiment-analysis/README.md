@@ -42,7 +42,7 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 3.  **neutral**: there are no emotions conveyed by the text.      
 4.  **mixed**: lexicon and evoked images produce opposite emotions: it is not possible to find a clearly prevalent emotion.
 
-### Particulars: expressions of violence 
+### Particulars: jokes, comedy and allusions 
 
 ### Particulars: prayers and supplications
 
