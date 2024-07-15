@@ -42,6 +42,11 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 3.  **neutral**: there are no emotions conveyed by the text.      
 4.  **mixed**: lexicon and evoked images produce opposite emotions: it is not possible to find a clearly prevalent emotion.
 
+### Particulars: expressions of violence 
+
+### Particulars: prayers and supplications
+
+### Particulars: units containing violence 
 
 ## Literature 
 In this project, we follow closely the criteria and guidelines defined by Sprugnoli et al. (2021) for the creation of Sentiment Analysis datasets for Latin poetry. 
