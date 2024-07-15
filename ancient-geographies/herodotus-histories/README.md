@@ -128,3 +128,5 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * Ἀθηναίοισι ~ _plural_
 * 180.2
    * Δελφοῖσι ~ _singular/descriptor_
+* 181.1
+   * Κυρηναίοισι ~ _plural_
