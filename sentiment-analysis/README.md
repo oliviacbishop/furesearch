@@ -58,7 +58,7 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 There are different kinds of prayers: 
 * General supplications and expressions of reverence towards gods: **positive sentiment**
 * Expressions of fear, curses, complaints: **negative sentiment**
-* Apotropaic prayers: requests to prevent something bad or removing an obstacle or threat: **neutral** (this is an ongoing decision on this case and we may revise it in the future)
+* Apotropaic prayers: requests to prevent something bad or removing an obstacle or threat: **mixed** (the logic behind this is that such prayers may imply fear for something bad happening, as well as hope that it does not happen; this is an ongoing decision on this case and we may revise it in the future)
 
 ### Particulars: units containing violence 
 In general, we need to distinguish cases where there is a particular purpose to violence in a unit, and cases where violence is described as a fact. 
