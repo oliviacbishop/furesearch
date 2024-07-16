@@ -53,9 +53,12 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 
 ### Particulars: jokes, comedy and allusions 
 
-### Particulars: prayers and supplications
-Prayers may have different functions... 
 
+### Particulars: prayers and supplications
+There are different kinds of prayers: 
+* General supplications and expressions of reverence towards gods: **positive sentiment**
+* Expressions of fear, curses, complaints: **negative sentiment**
+* Apotropaic prayers: requests to prevent something bad or removing an obstacle or threat: **neutral** (this is an ongoing decision on this case and we may revise it in the future)
 
 ### Particulars: units containing violence 
 In general, we need to distinguish cases where there is a particular purpose to violence in a unit, and cases where violence is described as a fact. 
