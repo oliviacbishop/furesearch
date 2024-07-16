@@ -17,5 +17,7 @@ This section is intended to document any areas of ambiguity, issues, and final d
 For this project we are also documenting "fun scores" according to three classes: 
 
 2: Very fun. The line is mostly for entertainment or a laugh. Possibly relies on the audience’s understanding of a certain politician, event, etc. to make sense. 
+
 1: Fun. The line has unnecessary aspects intended only for style, but still contains a fair amount of plot relevance. 
+
 0: Neutral. The line is straightforward and is intended to advance the plot, lacking unnecessary quips.
