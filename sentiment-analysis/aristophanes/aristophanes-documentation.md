@@ -14,10 +14,7 @@ Curator: Sydnee Bailey
 This section is intended to document any areas of ambiguity, issues, and final decisions made on specific complicated cases. Make sure to add the relevant references to the sentence (e.g. verse number and sentence number) and to quote the text in question. 
 
 #### Addition of "Fun score" to sentiment classes
-For this project we are also documenting "fun scores" according to five classes: 
-* Very fun (2): The line is mostly for entertainment or a laugh. Possibly relies on the audience’s understanding of a certain politician, event, etc. to make sense.
-* Fun (1): The line has unnecessary aspects intended only for laughs, but still is mostly plot relevance.
-* Neutral (0): The line is straightforward and is intended to advance the plot.
-
-* Serious (-1): The line lacks humor and has few nonessential quips.
-* Very serious (-2): Has no “fluff,” possibly grim topic delivered with no humor.
+For this project we are also documenting "fun scores" according to three classes: 
+2: Very fun. The line is mostly for entertainment or a laugh. Possibly relies on the audience’s understanding of a certain politician, event, etc. to make sense. 
+1: Fun. The line has unnecessary aspects intended only for style, but still contains a fair amount of plot relevance. 
+0: Neutral. The line is straightforward and is intended to advance the plot, lacking unnecessary quips.
