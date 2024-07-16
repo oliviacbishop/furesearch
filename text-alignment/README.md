@@ -1,4 +1,4 @@
-# Text Alignment 
+# Text Alignment  
 
 Project Curator: Maria Curley 
 
@@ -19,6 +19,10 @@ The structure of this folder is as follows:
 * Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, <i>Journal of Open Humanities Data</i>, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.
 
 ## Project Documentation 
+**bold**
+_italics_
+
+Normal text... 
 
 ## Project Report - essentials 
 
