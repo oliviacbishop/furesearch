@@ -17,6 +17,12 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Any typos should be fixed in the transcription and do not need to be tagged.
 * Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute. 
 * All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
+* There is no need to capitalize the second letter at the top of each page. Transcribe the word as it is.
+  
+  ![image](https://github.com/user-attachments/assets/0920f055-9320-4959-be80-5726886a9d39)
+
+  UT should be transcribed as Ut
+
 
 ## Tagging guidelines
 
