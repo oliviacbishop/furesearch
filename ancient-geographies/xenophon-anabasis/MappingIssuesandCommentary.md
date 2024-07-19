@@ -2,6 +2,7 @@
 ### This is an aggregate of all of my commentary in mapping the _Anabasis_, similar to my notable annotations and commentary list, mostly so that it's on record. **Partway through I swap from 1st draft to 2nd draft notes!** So keep an eye out for that.
 Update as of 7/12/24: I also swap to 3rd draft notes for Book 4, which begin again after crossing the Centrities (4.3.1). Additionally, Book 4 has four possible routes plotted, centered on two criteria: 1) Whether Xenophon's Euphrates is the Murat or the Karasu, and 2) Whether the Ten Thousand marched seven days to the Phasis or seven days along the Phasis
 
+
 Also, here's a cheat sheet for the measurements Xenophon uses. They are all not exactly known in the modern day, and even back then they were variable, meaning that they weren't concrete distances but more often how long it took to get somewhere, but it's the best he gives us. When interpreting these measurements, I use a range of values.
 * _Stadion_
     * Not precisely known
