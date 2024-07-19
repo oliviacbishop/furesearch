@@ -178,6 +178,9 @@ Also, here's a cheat sheet for the measurements Xenophon uses. They are all not 
           * Modern Tuzluca sits at a mountain pass just over 2km from the ancient banks of the Aras, is about 11km long, and is tall enough to act as an obstacle and defensive barrier, but not so tall as to be insurmountable by animals or people. Therefore, it is likely that this pass is where the battle starting at 4.6.6 occurred
 * 4.6.5 mountain pass(?) to 4.6.27 villages(?)
      * This day was mostly occupied by the fight for the mountain pass. I made it a separate segment, but didn't use a day's march radius since Xenophon's account makes it seem like they only traversed through the pass to the plains this day
+     * 
+# Here's Where I do-over (again): 
+It's really starting to get agonizing
 
 ## Book 4 (3rd DRAFT NOTES)
 * 4.3.1 villages(?) to 4.4.2 village(?)
