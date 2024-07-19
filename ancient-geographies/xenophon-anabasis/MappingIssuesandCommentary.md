@@ -1,5 +1,7 @@
 # Mapping Commentary (and Points for Review)
 ### This is an aggregate of all of my commentary in mapping the _Anabasis_, similar to my notable annotations and commentary list, mostly so that it's on record. **Partway through I swap from 1st draft to 2nd draft notes!** So keep an eye out for that.
+Update as of 7/12/24: I also swap to 3rd draft notes for Book 4, which begin again after crossing the Centrities (4.3.1). Additionally, Book 4 has four possible routes plotted, centered on two criteria: 1) Whether Xenophon's Euphrates is the Murat or the Karasu, and 2) Whether the Ten Thousand marched seven days to the Phasis or seven days along the Phasis
+
 Also, here's a cheat sheet for the measurements Xenophon uses. They are all not exactly known in the modern day, and even back then they were variable, meaning that they weren't concrete distances but more often how long it took to get somewhere, but it's the best he gives us. When interpreting these measurements, I use a range of values.
 * _Stadion_
     * Not precisely known
@@ -99,4 +101,152 @@ Also, here's a cheat sheet for the measurements Xenophon uses. They are all not 
         * Running into major problems where Xenophon's measurements drastically overshoot the geographic space
     * Still, given the skirmish, hill terrain, and need for more space, I put them slightly within the radius of a conservative estimate of day’s travel
     * Also says for their next leg the descend into the plain, so for this I put them partially up a mountain
+
+## Book 4 (2nd DRAFT NOTES)
+* 3.5.13 villages(?) to 4.1.5 mountain(?)
+     * There's no measurements or timeframe given beyond they left after the night's "last watch" and arrived "at daybreak" (4.1.5). Given that, I used no radius and just mapped them along the quickest path to the mountain pass
+* 4.1.5 stopping point(?) to 4.1.11 villages(?)
+     * Inside radius. Traveled at a slow pace, and Xenophon reports it took the whole day to ascend and descend the mountain. Looked at the 3D map, followed a pass, and mapped until they descended the mountain
+* 4.1.11 villages(?) to 4.1.14 stopping point(?)
+     * Inside the radius, but the measurement of the specific route is almost exactly a full day's march. Followed terrain for easiest logical path. Intentionally stopped short of full distance because Xenophon said they rest and fought a bit throughout.
+* 4.1.14 stopping point(?) to 4.2.4 stopping point(?)
+     * Extremely tedious section. No clear measurements, a day’s travel is only implied, and the terrain descriptions are constantly broken up by descriptions of battles and tactics. Given distances, possible routes, terrain descriptions, and the severe storm and skirmishes they’re said to endure, I put them within the radius
+* 4.2.4 stopping point(?) to 4.2.22 houses(?)
+     * They fought a battle for mountain passes this whole day
+     * There's zero indication of where they traveled or how far, but it since they stopped after the battle in the Carduchians' homes, it's likely they just crossed the mountain
+     * The geography in this region is simultaneously detailed, vague, and very confusing, but my best guesses as to the mountain passes are where they stopped in the previous segment and a pass a few km east of there
+          * The pass to the east is the best in the area that matches Xenophon’s descriptions of hills, seemingly being easy enough for baggage animals to traverse, while still making sense with his journey as plotted
+* 4.2.22 houses(?) to 4.3.1 villages(?)
+     * Relatively flat terrain, though not perfectly so. Also, they were consistently slowed by Carduchians, so that would affect progress. Still relatively close to radius. Put them on hills above Centrities because of terrain description
+     * Next section talks about a particular ford to cross the Centrities with precise measurements (4 stadia=~840m). After measuring a bunch of different angles, I think it’s 4 stadia from their village, so I put the stopping point for this segment where that measurement would fit
+ * 4.3.1 villages(?) to 4.4.2 village(?)
+     * 5 parasangs seems a little much since that's a full day's march, and they only started at midday. Xenophon describes terrain as flat and pleasant, so that could help. Terrain doesn't actually look that flat, though compared to Karduchoi it certainly is
+          * Nowhere along the Centrities is there terrain that’s perfectly flat though, but where they are is about as flat as it gets
+     * They pass a river (Mansur Creek?) that Xenophon doesn’t mention at all, even though they have to cross it to keep going
+          * Could be that it was winter and the creek was dried up
+          * Could be that it didn’t even exist in 400 BCE
+          * Could be that it was negligible enough he chose not or forgot to mention it
+* 4.4.2 villages(?) to "Tigris headwaters"(?)
+     * 10 parasangs is an impossible distance for this region
+     * The “Tigris headwaters” are also way further west than the Teleboas (general consensus is that the Tigris originates from Lake Harpazus), physically impossible for Xenophon to have encountered. Either:
+          * Xenophon misidentified the Tigris headwaters (possibly as Yanarsu Stream). This is what I went with
+          * Xenophon actually means he was upstream of the Tigris (also possible, but it still doesn’t work with the distances, and he’d have to cross some mountains to see it, which he doesn’t mention)
+* "Tigris headwaters"(?) to 4.4.3 Teleboas villages(?)
+     * 15 parasangs is an impossible distance for this region.
+* 4.4.3 Teleboas villages(?) to 4.4.7 villages(?)
+     * 15 parasangs stretches plausibility, though it's not impossible, especially with hilly terrain. Xenophon describes the terrain as "level", but it is most certainly not. It's not extremely mountainous, however
+* 4.4.7 villages(?) to 4.5.1 stopping point(?)
+     * No measurements here, just that they raced away from Tiribazus to avoid being killed in the mountain passes. Can't find any pass through this mountain range besides the Teleboas, so I'm going to assume there was a road along it
+     * Also unclear where they exited, but I’m going to go with the route that lines up best with a day’s distance
+* 4.5.1 stopping point(?) to Euphrates crossing(?) 
+     * Translation says they “traveled through desert terrain,” but looking at the terrain it doesn’t seem much like desert
+          * Xenophon uses ἐρήμους (same way he denotes “desert stages” like 2.4.27), so it could be more accurate to say the country is lonely or desolate, which makes sense given the heavy snowfall they just had
+     * 15 parasangs might actually be a tad short, but then again maybe not. It’s all dependent on where they crossed the Euphrates
+          * Given that they said they marched to the Euphrates and crossed it, I put their crossing towards the end of the radius
+* Euphrates crossing(?) to 4.5.5 stopping place(?)
+     * This is immediately after reading all of those articles, and my current conclusion is that I’m gonna do my own thing
+     * Says they marched through mostly plains, and this area is the largest stretch of mostly plains around. No direction given, but since Xenophon likely misidentifies the Araxes as the Phasis, I'm putting him in that direction
+* 4.5.5 stopping place(?) to 4.5.9 village(?)
+     * No direction or distance measurements given. Inside radius due to winding, but the path mapped is a full day's length
+     * Xenophon also identifies that there are hot springs in the area. Near where they are mapped currently (Eleshkirt), I cannot find any hot springs nearby, but there are some within ~100km. That’s not to say it’s impossible, but hot springs form, shift, and dry at geological time scales, so whatever hot springs Xenophon encountered have a high chance of existing today
+          * The closest famous hot springs nearby are in Erzurum (120km away) and Diyadin (99km away), so it’s likely Xenophon passed by these areas, meaning this and surrounding route segments require some rerouting
+          * Hot springs could’ve existed at one time and since dried up, either due to geological activity (not likely) or recent human developments (more probable, but I don’t know if I’d consider it likely. It would depend heavily on what’s going on in this local area [depletion of groundwater, intentional elimination, etc.])
+          * There could be smaller hot springs out there that I just can’t find online (possible, but I have no way of knowing)
+          * The villages here are said to be underground, but I can’t find any evidence of underground habitation in this region, Erzurum nor Ağrı
+               * Could be that the famous underground settlements in Cappadocia, Turkey, are also polluting my search results
+               * Paradeisopoulos argues that the yearly temperatures in Erzurum justify underground living (at least in winter) (Chronology Model 659), but does not give any explicit archaeological evidence or sites
+               * However, yearly temperatures in Eleshkirt and Ağrı are basically the same as Erzurum too, with still no explicit underground habitation evidence 
+* 4.5.9 village(?) to 4.6.2 stopping point(?)
+     * 3 stages implied. This section is where Xenophon's distances get really wonky. Needs to be revised/refined
+* 4.6.2 stopping point(?) to "Phasis" river stopping point(?)
+     * Commonly agreed that Xenophon has misidentified the Aras/Araxes as the Phasis
+     * 7 stages (~189km) is a crazy long distance that is difficult to reconcile with the geography
+          * Some scholars argue that this passage (and many of the ones following this until Gymnias) are intentionally vague/difficult to reconcile because Xenophon may intentionally be covering up how lost they are
+     * There’s also significant arguments about whether or not Xenophon marched 7 stages to the “Phasis” and crossed it or whether he marched along it, for how long, etc.
+          * My thinking (which is shared by some scholars in this field) is that the Ten Thousand, under the impression that the Aras/Araxes is the Phasis, would following it downstream for at least a bit, hoping it empties into the Black Sea, but would cross after realizing their mistakeG
+          * Given that the next journey segment describes a march of 2 stadia/10 parasangs to a crossing that leads to a plain, and the Aras flows into a plain after its currently mountainous region, I went with the idea that they would follow it for that segment
+               * However, for the route I have mapped thus far, there is no easy way for them to journey through the mountains, reach the Aras with exactly 2 stages until the intended crossing, and without doubling back on where they were last segment (which I have tried to avoid unless explicitly stated)
+                    * It is possible that Xenophon conceals that the Ten Thousand revisited their previous steps, but that falls under speculation, and the goal of the project at this stage is to establish a baseline, i.e. taking Xenophon for his word
+               * So, as it stands, they follow the Aras for a little under 30km (about a stage) longer than I would like them to, which may signify that this segment/previous segments need to be recharted
+               * However, a winding trek through the mountains like I’ve plotted lines up decently well with the measurements Xenophon gives (about 10km short of my baseline parasang length estimates, but lining up with a more conservative length measurement)
+* "Phasis" river stopping point(?) to 4.6.5 plains crossing(?)
+     * Slightly inside radius, but intentionally mapped to line up with distance given winding route. Specific crossing is up for debate, but given context (check previous notes) this seems likely
+     * Pinning down the mountain pass they encounter is tricky, but there’s some clues:
+          * A modern day dam is on the Aras, meaning it was likely wider towards where it flows into the plains that it is now, meaning the Ten Thousand would’ve taken a slightly wider route through the piedmont than what is possible now
+          * Xenophon describes the mountain as “about 60 stadia” long (~11km), but accessible enough to pasture animals and therefore accommodate the Ten Thousand’s pack animals
+          * Modern Tuzluca sits at a mountain pass just over 2km from the ancient banks of the Aras, is about 11km long, and is tall enough to act as an obstacle and defensive barrier, but not so tall as to be insurmountable by animals or people. Therefore, it is likely that this pass is where the battle starting at 4.6.6 occurred
+* 4.6.5 mountain pass(?) to 4.6.27 villages(?)
+     * This day was mostly occupied by the fight for the mountain pass. I made it a separate segment, but didn't use a day's march radius since Xenophon's account makes it seem like they only traversed through the pass to the plains this day
+
+## Book 4 (3rd DRAFT NOTES)
+* 4.3.1 villages(?) to 4.4.2 village(?)
+     * 5 parasangs seems a bit long since that’s a full day’s march and they say they only started at midday, but still plausible
+     * Xenophon describes terrain as flat and pleasant, so that could help with their speed. Terrain doesn't actually look that flat, though compared to Karduchoi it certainly is
+     * Some scholars argue they go north after their crossing, but that doesn’t seem as likely to me due to how Xenophon describes terrain
+          * The closest flat and level terrain is to their west, so I mapped them there
+     * Can’t find any archaeological sites identified with the palace of the satrap Xenophon mentions, but their stated measurements puts them between modern-day Kayabağlar and Kurtalan
+* 4.4.2 villages(?) to "Tigris headwaters"(?)
+     * Physically impossible for them to hit what is, by modern day standards, the actual Tigris headwaters (Lake Harpazus)
+          * However, there are many rivers and streams that empty into the Tigris in this region (Mansur Creek, Yanarsu Stream, Kulp Çay, Batman Çay, etc.) that are likely what Xenophon collectively labels as “Tigris headwaters”
+* "Tigris headwaters"(?) to 4.4.3 Teleboas villages(?)
+      * There are only two routes through this section of the anti-Taurus/Zagros mountain range:
+      * **1) Up the Kulp Çay:** This pass is my pick for mapping. They would follow the Kulp Çay through most of the mountains, breaking away from it at a bend, then exiting the mountain range southwest of the Teleboas (Karasu) and modern-day Muș
+     * Cons:
+          * Xenophon does not explicitly say they follow the “Tigris headwaters” up-stream
+          * The actual path overshoots their stated measurements (15 parasangs, ~81km) by about 10km, though more liberal estimates of a parasang shorten, but don’t eliminate, this gap
+          * It’s debatable if there was a road here (however, there’s no good archaeological record of routes anywhere in this region)
+      * **1) Roman Road/Modern Baykan:** This route posits that Xenophon took the eastern pass through the mountains, exiting near the banks of Lake Van, then following the Teleboas (Karasu) to the Muș region
+     * Cons:
+          * Xenophon would still have to follow a river (modern Bitlis Stream), which he does not explicitly state
+          * Xenophon does not state he marches along the Teleboas any length, and given he describes the river as shallow, it seems there’s no obstacle crossing it. Therefore, it’s unclear why he would march west to Muș at all
+          * The distances to Muș still overshoot my working estimates of a parasang (but just barely fall within range of a liberal estimate), but if he didn’t march to Muș the distance is too short
+          * While there is evidence of a later Roman road following this pass, and there is a precedent that Roman roads were built on older routes, there’s still no decisive evidence of a road here
+     * Teleboas is commonly considered the Karasu River, aka the Western Euphrates. However, it is physically impossible to reach that river. Scholars have argued that other scholars misidentified the Karasu River with Karasu Stream, which is in this area, and in an attempt to reconcile that identify the Teleboas as the Murat Su, which Karasu Stream flows into
+
+### Northeast Route - Murat Su
+* Teleboas villages(?) to 4.4.7 palace and villages(?)
+     * This path assumes that the Murat Su is what Xenophon meant by the “Euphrates headwaters”, therefore taking him in a northwestern direction
+     * Unclear why they would go this way given the caravan route that goes northward
+     * Terrain lines up with description as level, but not much at all with mountain passes
+          * There is a mountain (Mount Top) that is a bit more than a day’s travel from where they are, so if you squint it works with the text in this section (4.4.15)
+          * However, the text describes not one mountain but mountains, and also that Tiribazus was planning to seize the only pass through it. Mount Top does not have a pass through it, and even if it did it’s unclear why Xenophon would need to take it instead of simply going around it
+               * It could mean that Tiribazus was planning to seize the pass between the Mt Top and the Murat Su, but that doesn’t line up with the description Xenophon gives
+* 4.4.7 palace and villages(?) to 4.5.1 stopping point(?)
+     * No specific measurements, just that by the end of a day’s march they passed the summit where Tiribazus was planning to attack them and set up camp
+     * The distance is longer than what a full day’s march allows, given a fast pace (which Xenophon implies they took), the low degree of accuracy of given measurements, and a liberal estimate, it barely fits if you squint at it
+          * I also intentionally plotted them longer because I put them just after the closest thing that could be considered a mountain pass
+* 4.5.1 stopping point(?) to 4.5.2 “Euphrates” crossing(?)
+     * Translation says they “traveled through desert terrain,” but looking at the terrain it doesn’t seem much like desert
+          * Xenophon uses ἐρήμους (same way he denotes “desert stages” like 2.4.27), so it could be more accurate to say the country is lonely or desolate, which makes sense given the heavy snowfall they just had
+     * A later Roman road goes through this region and, given the scholarly precedent for those roads being built on earlier routes, I mapped them across it. Also, it basically takes them on the same route I would have anyway because it’s the path of least resistance in the region
+* 4.5.2 “Euphrates” crossing(?) to 4.5.5 stopping place(?)
+     * The original Greek in this section says they traveled 15 parasangs, which lines up with the 5 parasangs a day rate, but Xenophon says the third stage was particularly difficult and they made less progress than they would normally. The Carleton-Lewis Brownson translation changes the 15 to 13, presumably to reflect these difficulties
+          * This measurement doesn’t fit this route well anyway so it’s not a big deal, but good to keep in mind for evidence against this route
+     * 3 stages is way too long for this route, but they are near modern Diyadin, which is famous for hot springs, which fits with the description in the next segment
+* 4.5.5 stopping place(?) to 4.5.9 village(?)
+     * 1 day’s march just barely fits, given the previous measurement was way shorter than stated, but it’s plausible that they traveled much slower due to snow and fatigue
+     * Xenophon mentions hot springs in this section and one of the two areas famous for them in Eastern Turkey is just south of Diyadin, so I mapped them through the geologically active areas
+     * They would be tailing, and sometimes crossing, the Murat Su, but Xenophon doesn’t mention that
+          * Combination of the snow, dry season, freezing temps, and headwaters of the river may have rendered it noticeable or a nonentity to the Ten Thousand
+### Murat Su; Seven stages to Aras
+* 4.5.9 village(?) to 4.6.2 stopping point(?)
+     * 3 stages is implied (4.6.2)
+     * On this route they cut through and circle Hüdavendigar Dağı because:
+          * A winding path lines up with the distance better and
+          * Xenophon states that Cheirisophus was mad because their guide was not leading them to other villages because there were none in the region
+               * It’s possible the guide was intentionally avoiding other villages because his own was not treated ideally by the Ten Thousand
+                    * Also the fact that he ran away implies he was at least somewhat confident in his ability to return home\
+               * Winding through steep, rugged mountain passes seems like terrain least hospitable to villages
+                    * Even if there were other villages, the narrow route would ensure that the Ten Thousand can’t get a good view of the terrain
+               * Being south of Hüdavendigar Dağı lines them up best for a 7 day march to the Aras
+     * I have them end on another Roman road partially because the the precedent established earlier and partially because it’s built on the easiest and fastest terrain, so even if there was no route here it’s still the most logical path
+     * They would have to pass by a few rivers (most notably Ilica Stream) that Xenophon does not mention\
+          * Possible the the snow, dry season, freezing temps, and headwaters of the river may have rendered it noticeable or a unworthy of mention
+          * Could also be Xenophon intentionally doesn’t mention them as a later editorial choice to conceal how lost they are
+* 4.6.2 stopping point(?) to "Phasis" river(?)
+     * Distance lines up pretty well
+     * They loop back on themselves near moder Hamur (or near modern Aşaǧı Köşkköy or if they strictly follow the Roman road, but that overshoots their distance by ~20km; as currently mapped, however, without guides it’s unclear how they know of the shortest route, as Xenophon does not state any specific plan) which Xenophon does not explicitly mention
+          * Could that he purposely does not mention it, perhaps to conceal how lost they really are
+     * I have them reaching the Aras ~3km east of modern Horasan, but could realistically be anywhere on the stretch between Horasan and ~3km east of modern Çiftlik without mucking up the measured distance too much\
+     * Xenophon does not mention Karapir Creek that they would’ve likely encountered, but it’s a vague passage and all of the previous combination of reasons discussed for other rivers explain this instance too
 
