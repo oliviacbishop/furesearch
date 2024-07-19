@@ -22,7 +22,8 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
 
 **Unresolved Locations**
 * 33.3
-   * Κελτῶν 
+   * Κελτῶν
+   * Κυνησίοισι
 
 **Collective vs. Singular/Descriptor**
 * 3.1
