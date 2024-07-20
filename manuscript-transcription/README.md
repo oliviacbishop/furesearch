@@ -107,9 +107,19 @@ Noscemus GM 6
 
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/cd43673d-2a11-4f0a-8f9e-1ffc724becc9)
 
+-ου
+
+![image](https://github.com/user-attachments/assets/86fe4429-26de-42b2-87af-efaaf79615f2)
+
+
 ει
 
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/3a14ddd3-5726-4df5-a29e-5b422d3d8646)
+
+ἐν
+
+![image](https://github.com/user-attachments/assets/b38f4dc9-87da-4bac-bccf-1b0b4681f9ed)
+
 
 θ
 
@@ -124,5 +134,15 @@ Noscemus GM 6
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/960f8233-eb27-4b1a-bae4-ea3184da4b82)
 
 
+## Latin manuscript shorthand guide:
 
+et
+
+![image](https://github.com/user-attachments/assets/4ce533cc-1d2f-435c-871c-c9f126398309)
+
+s
+
+![image](https://github.com/user-attachments/assets/e57a52cc-9ca4-44ad-ab11-848f67afa581)
+
+(in this example, the word would be transcribed as 'sit')
 
