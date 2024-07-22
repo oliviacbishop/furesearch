@@ -13,7 +13,8 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
 ## Preliminary transcription guidelines
 
-* Page numbers do not need to be transcribed
+* Page numbers do not need to be transcribed.
+* The Roman numeral entry numbers at the top of the page do not need to be transcribed.
 * Any typos should be fixed in the transcription and do not need to be tagged.
 * Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute. 
 * All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
@@ -21,7 +22,7 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
   
   ![image](https://github.com/user-attachments/assets/0920f055-9320-4959-be80-5726886a9d39)
 
-  UT should be transcribed as Ut
+  In this example, 'UT' should be transcribed as 'Ut'.
 
 
 ## Tagging guidelines
@@ -49,7 +50,7 @@ Using Philogic,
 * You have to search by the lemma
 * It will pull up a bunch of options to choose from
 
-Look up word in Logeion to see if Camerius made a spelling error or if he's just using another form of the word
+Look up word in Logeion to see if Camerarius made a spelling error or if he's just using another form of the word
 https://logeion.uchicago.edu/%CE%BB%CE%BF%CE%B3%CE%B5%E1%BF%96%CE%BF%CE%BD 
 
 ## Transkribus shortcuts and info:
@@ -77,7 +78,7 @@ Transkribus has a number of keyboard shortcuts to be used in transcriptions. The
 
 It is VERY reliant on how good your wifi/cell service is. 
 
-Be sure to save as you work. If you wait till you are done with a document, the software will freak out and won't save your work. I usually click save every 10 changes just to be safe. 
+Be sure to save as you work. If you wait till you are done with a document, the software will freak out and won't save your work. I usually click save every 5-10 changes just to be safe. 
 
 ## How to review past transcriptions: 
 The past transcriptions use the cts urns to identify pages and page areas. In order to figure out where the transcriptions come from, go to the 
