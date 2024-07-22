@@ -52,7 +52,11 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 4.  **mixed**: lexicon and evoked images produce opposite emotions: it is not possible to find a clearly prevalent emotion.
 
 ### Particulars: jokes, comedy and allusions 
+In Aristophanes comedy, we also documented the comedic aspect through a "fun" score independenty assigned to the sentiment score. 
 
+2: Very fun. The line is mostly for entertainment or a laugh. Possibly relies on the audience’s understanding of a certain politician, event, etc. to make sense.
+1: Fun. The line has unnecessary aspects intended only for style, but still contains a fair amount of plot relevance.
+0: Neutral. The line is straightforward and is intended to advance the plot, lacking unnecessary quips.
 
 ### Particulars: prayers and supplications
 There are different kinds of prayers: 
