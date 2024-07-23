@@ -16,7 +16,6 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Page numbers do not need to be transcribed.
 * The Roman numeral entry numbers at the top of the page do not need to be transcribed.
 * Any typos should be fixed in the transcription and do not need to be tagged.
-* Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute. 
 * All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
 * There is no need to capitalize the second letter at the top of each page. Transcribe the word as it is.
   
@@ -33,8 +32,9 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 * Citations will often contain abbreviated versions of authors names and work titles. These should be resolved as much as it is reasonable in the citation tag. Further research may reveal the correct way to resolve these citations.
 * Quotations will contain any direct quotes and should be tagged as Quotations. 
 * The Quotation tag has space for information about the author of the quote. Instead using the Person tag for a reference, just use the Quotation tag.
+* There is no need to use the Person tag if it is in relation to a quotation or citation that has already been tagged. If the person does not have any reference tied to them in the text, then the Person tag may be used. 
 * Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
-  
+* Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute.
 
 ## Tutorial for researching quotations/words
 First look up the author of the quotation in either library (scaife or philogic)
