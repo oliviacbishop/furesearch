@@ -91,10 +91,24 @@ To see the scan of the page:
 * In order to find that volume and page, you can either go to the [thumbnails]([url](https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/vol1_thumbs.md)) of Volume 1 and look up page 00004, or go to https://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:camerarius1668.2020a:01_00002 and **replace the volume number (01) and the page number (00004)** with the ones of your URN. You should be able to see the page that was transcribed.
 
 ## Text Recognition Models:
-Noscemus GM 6
-* Trained on Antiqua-based print so still has occasional difficulties recognizing hand-written print
-* Recognizes Greek shorthand: long sigma, -ος ending
-* Recognizes Latin shorthand: et symbol, shorthand for atque (atq)
+In order to generate a transcription using an AI text recognition model, you can go about it two ways.
+
+1. For one page:
+* Open the page you want to transcribe and click on the "Start automatic transcription" button
+* This will bring you to a page that lists all available public models to use. For the Camerarius project, we are using the Noscemus GM 6 model.
+* Click on the text model and click "Start Recognition" in the top right corner
+
+2. For multiple pages:
+* Check the box in the bottom left corner of each page you want transcribed
+  
+![image](https://github.com/user-attachments/assets/d07dc0f0-b288-4ff0-a902-0652e5454bf7)
+* Then click the "[T] Recognize" button. This will bring you to the text recognition model page
+* Select AI model and start recognition. 
+
+Information on Noscemus GM 6:
+* Trained on Antiqua-based print 
+* Recognizes Greek shorthand: -ος ending
+* Recognizes Latin shorthand: et symbol, shorthand for atque (atq), long 's'
 * Seems to have the most issues recognizing accents (eg. putting an accent where it isn't, leaving out accents, or putting in the wrong accents)
 * Has problems mixing up lower-case 'e' with 'a' or 'o'
   
