@@ -155,15 +155,12 @@ et
 
 ![image](https://github.com/user-attachments/assets/4ce533cc-1d2f-435c-871c-c9f126398309)
 
-s
+s (in this example, the word would be transcribed as 'sit')
 
 ![image](https://github.com/user-attachments/assets/e57a52cc-9ca4-44ad-ab11-848f67afa581)
 
-(in this example, the word would be transcribed as 'sit')
-
-ae
+ae (in this example, the word would be transcribed as 'Quae')
 
 ![image](https://github.com/user-attachments/assets/c91a025e-546a-426d-b189-b40912e4f27e)
 
-(in this example, the word would be transcribed as 'Quae')
 
