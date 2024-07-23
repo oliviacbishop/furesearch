@@ -161,3 +161,9 @@ s
 
 (in this example, the word would be transcribed as 'sit')
 
+ae
+
+![image](https://github.com/user-attachments/assets/c91a025e-546a-426d-b189-b40912e4f27e)
+
+(in this example, the word would be transcribed as 'Quae')
+
