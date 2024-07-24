@@ -10,6 +10,13 @@ Our transcription guidelines will be updated as we continue.
 
 Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb10575861 
 
+# Using Transkribus 
+
+## Uploading and managing documents 
+
+## Using an automatic transcription and layout model 
+
+## Transcribing a page 
 
 ## Preliminary transcription guidelines
 
@@ -26,15 +33,26 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
 ## Tagging guidelines
 
+### Abbreviations and shorthand 
+
 * All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The fully expanded word should be typed inside the "expansion" field.
+
+### Proper names 
+
 * Names should be tagged using the "person" tag.
-* A Citation is any reference to an outside author or work. For example, Aristotle lib. IV. cap. I.
-* Citations will often contain abbreviated versions of authors names and work titles. These should be resolved as much as it is reasonable in the citation tag. Further research may reveal the correct way to resolve these citations.
-* Quotations will contain any direct quotes and should be tagged as Quotations. 
-* The Quotation tag has space for information about the author of the quote. Instead using the Person tag for a reference, just use the Quotation tag.
 * There is no need to use the Person tag if it is in relation to a quotation or citation that has already been tagged. If the person does not have any reference tied to them in the text, then the Person tag may be used. 
-* Words in a different language than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
-* Unclear elements should be marked with the "unclear" tag. A question may be typed in the "question" attribute.
+
+### Citations and Quotations of other authors
+
+A **Citation** is any reference to an outside author or work. For example, Aristotle lib. IV. cap. I.  
+Citations will often contain abbreviated versions of authors names and work titles. These should be resolved as much as it is reasonable in the citation tag. Further research may reveal the correct way to resolve these citations.  ---- **Perhaps a screenshot here?**
+
+**Quotations** will contain any direct quotes and should be tagged as Quotations. The Quotation tag has space for information about the author of the quote. Instead of using the Person tag for a reference, just use the Quotation tag. ---- **Perhaps a screenshot here?**
+
+### Other 
+
+* **Unclear elements** should be marked with the "unclear" tag. A question may be typed in the "question" attribute.
+* **Words in a different language** than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window). ---- **Perhaps a screenshot here?**
 
 ## Tutorial for researching quotations/words
 First look up the author of the quotation in either library (scaife or philogic)
