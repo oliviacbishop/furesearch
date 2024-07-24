@@ -30,6 +30,8 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
   In this example, 'UT' should be transcribed as 'Ut'.
 
+## Use of Tags 
+
 ### Abbreviations and shorthand 
 
 * All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The fully expanded word should be typed inside the "expansion" field.
