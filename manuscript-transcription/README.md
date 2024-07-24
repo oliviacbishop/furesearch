@@ -1,4 +1,7 @@
 # Digital Camerarius: Moving on Transkribus
+
+These guidelines were authored by Kathryn Wilson at Furman University, with the support of the Office for Undergraduate Research. 
+
 ## Project Documentation 
 
 Original project page: https://github.com/Furman-Editions-In-Progress/camerarius/tree/master    
