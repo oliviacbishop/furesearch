@@ -46,6 +46,8 @@ Citations will often contain abbreviated versions of authors names and work titl
 
 **Quotations** will contain any direct quotes and should be tagged as Quotations. The Quotation tag has space for information about the author of the quote. Instead of using the Person tag for a reference, just use the Quotation tag. ---- **Perhaps a screenshot here?**
 
+See below in this document for researching quotations and citations (https://github.com/ChiaraPalladino/furesearch/blob/main/manuscript-transcription/README.md#tutorial-for-researching-quotationswords)
+
 ### Other 
 
 * **Unclear elements** should be marked with the "unclear" tag. A question may be typed in the "question" attribute.
