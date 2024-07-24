@@ -18,7 +18,7 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
 ## Transcribing a page 
 
-## Preliminary transcription guidelines
+# Preliminary transcription guidelines
 
 * Page numbers do not need to be transcribed.
 * The Roman numeral entry numbers at the top of the page do not need to be transcribed.
@@ -29,9 +29,6 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
   ![image](https://github.com/user-attachments/assets/0920f055-9320-4959-be80-5726886a9d39)
 
   In this example, 'UT' should be transcribed as 'Ut'.
-
-
-## Tagging guidelines
 
 ### Abbreviations and shorthand 
 
