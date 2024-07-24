@@ -1,220 +1,868 @@
-Verse,Sentence number,Segment ,Sentiment class,Translation ,Relevant lexicon 
-,1,"sēgnior Ōceanō quam lēx aeterna vocābat lūctificus Tītān numquam magis aethera contrā ēgit equōs cursumque polō rapiente retorsit, dēfectūsque patī voluit raptaeque labōrēs lūcis, et attrāxit nūbēs nōn pābula flammīs, sed nē Thessalicō pūrus lūcēret in orbe",,,
-,2,"at nox, fēlīcis Magnō pars ultima vītae, sollicitōs vānā dēcēpit imāgine somnōs",,,
-,3,nam Pompeiānī vīsus sibi sēde theātrī innumeram effigiem Rōmānae cernere plēbis attollīque suum laetīs ad sīdera nōmen vōcibus et plausū cuneōs certāre sonantēs,,,
-,4,"seu fīne bonōrum ānxia mēns cūrīs ad tempora laeta refūgit, sīve per ambāgēs solitās contrāria vīsīs vāticināta quiēs magnī tulit ōmina plānctūs, seu vetitō patriās ultrā tibi cernere sēdēs sīc Rōmam Fortūna dedit",,,
-,5,"crāstina dīra quiēs et imāgine maesta diurnā undique fūnestās aciēs feret, undique bellum",,,
-,6,"unde parēs somnōs populī noctemque beātam? ō fēlīx, sī tē vel sīc tua Rōma vidēret! dōnāssent utinam superī patriaeque tibīque ūnum, Magne, diem, quō fātī certus uterque extrēmum tantī frūctum raperētis amōris",,,
-,7,"tū velut Ausoniā vādis moritūrus in urbe, illa ratī semper dē tē sibi cōnscia vōtī hoc scelus haud umquam fātīs haerēre putāvit, sīc sē dīlēctī tumulum quoque perdere Magnī",,,
-,8,"nunc quoque, tēla licet paveant victōris inīquī, nūntiet ipse licet Caesar tua fūnera, flēbunt, sed dum tūra ferunt, dum laurea serta Tonantī",,,
-,9,"ō miserī, quōrum gemitūs ēdēre dolōrem, quī tē nōn plēnō pariter plānxēre theātrō",,,
-,10,"vīcerat astra iubar, cum mixtō murmure turba castrōrum fremuit fātīsque trahentibus orbem signa petit pugnae",,,
-,11,miserī pars maxima vulgī nōn tōtum vīsūra diem tentōria circum ipsa ducis queritur magnōque accēnsa tumultū mortis vīcīnae properantīs admovet hōrās,,,
-,12,"sēgnis pavidusque vocātur ac nimium patiēns socerī Pompeius, et orbis indulgēns rēgnō, quī tot simul undique gentīs iūris habēre suī vellet pācemque timēret",,,
-,13,necnōn et rēgēs populīque queruntur Eōī bella trahī patriāque procul tellūre tenērī,,,
-,14,"hoc placet, ō superī, cum vōbīs vertere cūncta prōpositum, nostrīs errōribus addere crīmen? clādibus irruimus nocitūraque poscimus arma",,,
-,15,"cūnctōrum vōcēs Rōmānī maximus auctor Tullius ēloquiī, cuius sub iūre togāque pācificās saevus tremuit Catilīna secūrīs, pertulit, īrātus bellīs, cum rōstra forumque optāret passus tam longa silentia mīles",,,
-,16,"‘hoc prō tot meritīs sōlum tē, Magne, precātur ūtī sē Fortūna velīs, procerēsque tuōrum castrōrum rēgēsque tuī cum supplice mundō affūsī vincī socerum patiāre rogāmus",,,
-,17,hūmānī generis tam longō tempore bellum Caesar erit? meritō Pompeium vincere lentē gentibus indignum est ā trānscurrente subāctīs,,,
-,18,"quō tibi fervor abit aut quō fīdūcia fātī? dē superīs, ingrāte, timēs causamque senātūs crēdere dīs dubitās? ipsae tua signa revellent prōsilientque aciēs: pudeat vīcisse coāctum",,,
-,19,"sī duce tē iussō, sī nōbīs bella geruntur, sit iūris quōcumque velint concurrere campō",,,
-,20,"quid mundī gladiōs ā sanguine Caesaris arcēs? vibrant tēla manūs, vix signa morantia quisquam exspectat: properā, nē tē tua classica linquant",,,
-,21,’ ingemuit rēctor sēnsitque deōrum esse dolōs et fāta suae contrāria mentī,,,
-,22,"‘sī placet hoc’ inquit ‘cūnctīs, sī mīlite Magnō, nōn duce tempus eget, nīl ultrā fāta morābor: involvat populōs ūnā Fortūna ruīnā sitque hominum magnae lūx ista novissima partī",,,
-,23,"potuit tibi vulnere nūllō stāre labor bellī, potuī sine caede subāctum captīvumque ducem violātae trādere pācī",,,
-,24,"quis furor, ō caecī, scelerum? cīvīlia bella gestūrī metuunt nē nōn cum sanguine vincant? abstulimus terrās, exclūsimus aequore tōtō, ad praemātūrās segetum ieiūna rapīnās agmina compulimus, vōtumque effēcimus hostī ut māllet sternī gladiīs mortemque suōrum permiscēre meīs",,,
-,25,"bellī pars magna perācta est hīs, quibus effectum est nē pugnam tīrō pavēret, sī modo virtūtis stimulīs īraeque calōre signa petunt: multōs in summa perīcula mīsit ventūrī timor ipse malī",,,
-,26,"fortissimus ille est quī, prōmptus metuenda patī sī comminus īnstent, et differre potest",,,
-,27,"placet haec tam prospera rērum trādere fortūnae, gladiō permittere mundī discrīmen",,,
-,28,"rēs mihi Rōmānās dederās, Fortūna, regendās: accipe maiōrēs et caecō in Mārte tuēre",,,
-,29,"quantum scelerum quantumque malōrum in populōs lūx ista feret! quot rēgna iacēbunt! sanguine Rōmānō quam turbidus ībit Enīpeus! prīma velim caput hoc fūnestī lancea bellī, sī sine mōmentō rērum partisque ruīnā cāsūrum est, feriat, neque enim victōria Magnō laetior",,,
-,30,"aut populīs invīsum hāc clāde perāctā aut hodiē Pompeius erit miserābile nōmen: omne malum vīctī, quod sors feret ultima rērum, omne nefās victōris erit",,,
-,31,"’ sīc fātur, et arma permittit populīs frēnōsque furentibus īrā laxat et ut vīctus violentō nāvita Cōrō dat regimen ventīs ignāvumque arte relictā puppis onus trahitur",,,
-,32,"trepidō cōnfūsa tumultū castra fremunt, animīque trucēs sua pectora pulsant ictibus incertīs",,,
-,33,"advēnisse diem quī fātum rēbus in aevum conderet hūmānīs, et quaerī Rōma quid esset illō Mārte palam est",,,
-,34,"quis lītora pontō obruta, quis summīs cernēns in montibus aequor aetheraque in terrās dēiectō sōle cadentem, tot rērum fīnem, timeat sibi? nōn vacat ūllōs prō sē ferre metūs: urbī Magnōque timētur",,,
-,35,"tunc omnis lancea saxō ērigitur, tendunt nervīs meliōribus arcūs, cūra fuit lēctīs pharetrās implēre sagittīs, auget eques stimulōs frēnōrumque artat habēnās",,,
-,36,"sī liceat superīs hominum cōnferre labōrēs, nōn aliter Phlegrā rabidōs tollente gigantas Mārtius incaluit Siculīs incūdibus ēnsis et rubuit flammīs iterum Neptūnia cuspis spīculaque extēnsō Paeān Pȳthōne recoxit, Pallās Gorgoneōs diffūdit in aegida crīnēs, Pallēnaea Iovī mūtāvit fulmina Cyclōps",,,
-,37,"nam Thessala rūra cum peterent, tōtus venientibus obstitit aether adversāsque facēs immēnsōque igne columnās et trabibus mixtīs avidōs tȳphōnas aquārum dētulit atque oculōs ingestō fulgure clausit",,,
-,38,"excussit cristās galeīs capulōsque solūtīs perfūdit gladiīs ēreptaque pīla liquāvit, aetheriōque nocēns fūmāvit sulpure ferrum",,,
-,39,vixque revulsa solō maiōrī pondere pressum signiferī mersēre caput rōrantia flētū ūsque ad Thessaliam Rōmāna et pūblica signa,,,
-,40,"admōtus superīs discussā fūgit ab ārā taurus et Ēmathiōs praeceps sē iēcit in agrōs, nūllaque fūnestīs inventa est victima sacrīs",,,
-,41,inque vicem vultūs tenebrīs mīrantur opertōs et pallēre diem galeīsque incumbere noctem dēfūnctōsque patrēs et iūnctī sanguinis umbrās ante oculōs volitāre suōs,,,
-,42,"sed mentibus ūnum hoc sōlāmen erat, quod vōtī turba nefandī cōnscia, quae patrum iugulōs, quae pectora frātrum spērābat, gaudet mōnstrīs, mentisque tumultum atque ōmen scelerum subitōs putat esse furōrēs",,,
-,43,"dissimilem certē cūnctīs quōs explicat ēgit Thessalicum nātūra diem: sī cūncta perītō augure mēns hominum caelī nova signa notāsset, spectārī tōtō potuit Pharsālia mundō",,,
-,44,"mīles, ut adversō Phoebī radiātus ab ictū dēscendēns tōtōs perfūdit lūmine collēs, nōn temere immissus campīs: stetit ōrdine certō īnfēlīx aciēs",,,
-,45,"cornūs tibi cūra sinistrī, Lentule, cum prīmā, quae tum fuit optima bellō, et quārtā legiōne datur",,,
-,46,"at mediī rōbur bellī fortissima dēnsant agmina, quae Cilicum terrīs dēducta tenēbat Scīpiō, mīles in hōc, Libycō dux prīmus in orbe",,,
-,47,at iuxtā fluviōs et stāgna undantis Enīpeī Cappadocum montāna cohors et largus habēnae Ponticus ībat eques,,,
-,48,siccī sed plūrima campī tetrarchae rēgēsque tenent magnīque tyrannī atque omnis Latiō quae servit purpura ferrō,,,
-,49,"illūc et Libyē Numidās et Crēta Cydōnas mīsit, Itȳraeīs cursus fuit inde sagittīs, inde, trucēs Gallī, solitum prōdīstis in hostem, illīc pugnācēs commōvit Hibēria caetrās",,,
-,50,"ēripe victōrī gentīs et sanguine mundī fūsō, Magne, semel tōtōs cōnsūme triumphōs",,,
-,51,"illō forte diē Caesar statiōne relictā ad segetum raptūs mōtūrus signa repente cōnspicit in plānōs hostem dēscendere campōs, oblātumque videt vōtīs sibi mīlle petītum tempus, in extrēmōs quō mitteret omnia cāsūs",,,
-,52,aeger quippe morae flagrānsque cupīdine rēgnī coeperat exiguō tractū cīvīlia bella ut lentum damnāre nefās,,,
-,53,"discrīmina postquam adventāre ducum suprēmaque proelia vīdit cāsūram et fātīs sēnsit nūtāre ruīnam, illa quoque in ferrum rabiēs prōmptissima paulum languit, et cāsūs audāx spondēre secundōs mēns stetit in dubiō, quam nec sua fāta timēre nec Magnī spērāre sinunt",,,
-,54,"‘ō domitor mundī, rērum fortūna meārum, mīles, adest totiēns optātae cōpia pugnae",,,
-,55,"haec est illa diēs mihi quam Rubicōnis ad undās prōmissam meminī, cuius spē mōvimus arma, in quam distulimus vetitōs remeāre triumphōs",,,
-,56,"sī prō mē patriam ferrō flammīsque petīstis, nunc pugnāte trucēs gladiōque exsolvite culpam: nūlla manus bellī mūtātō iūdice pūra est",,,
-,57,"nōn mihi rēs agitur, sed vōs ut lībera sītis turba, precor gentēs ut iūs habeātis in omnēs",,,
-,58,"ipse ego prīvātae cupidus mē reddere vītae plēbēiāque togā modicum compōnere cīvem, omnia dum vōbīs liceant, nihil esse recūsō",,,
-,59,"nec sanguine multō spem mundī petitis: Graiīs dēlēcta iuventūs gymnasiīs aderit studiōque ignāva palaestrae et vix arma ferēns, aut mixtae dissona turbae barbariēs, nōn illa tubās, nōn agmine mōtō clāmōrem lātūra suum",,,
-,60,cīvīlia paucae bella manūs facient: pugnae pars magna levābit hīs orbem populīs Rōmānumque obteret hostem,,,
-,61,īte per ignāvās gentēs fāmōsaque rēgna et prīmō ferrī mōtū prōsternite mundum,,,
-,62,"sitque palam quās tot dūxit Pompeius in urbem curribus, ūnīus gentēs nōn esse triumphī",,,
-,63,"Armeniōsne movet Rōmāna potentia cuius sit ducis? aut ēmptum minimō vult sanguine quisquam barbarus, Hesperiīs Magnum praepōnere rēbus? Rōmānōs ōdēre omnēs dominōsque gravantur quōs nōvēre magis",,,
-,64,"sed mē fortūna meōrum commīsit manibus, quārum mē Gallia testem tot fēcit bellīs",,,
-,65,cuius nōn mīlitis ēnsem agnōscam? caelumque tremēns cum lancea trānsit dīcere nōn fallar quō sit vibrāta lacertō,,,
-,66,"quodsī signa ducem numquam fallentia vestrum cōnspiciō, faciēsque trucēs oculōsque minācēs, vīcistis",,,
-,67,videor fluviōs spectāre cruōris calcātōsque simul rēgēs sparsumque senātūs corpus et immēnsā populōs in caede natantīs,,,
-,68,"sed mea fāta moror, quī vōs in tēla furentīs vōcibus hīs teneō",,,
-,69,"veniam date bella trahentī: spē trepidō, haud umquam vīdī tam magna datūrōs tam prope mē superōs",,,
-,70,ego sum cui Mārte perāctō quae populī rēgēsque tenent dōnāre licēbit,,,
-,71,"quōne polī mōtū, quō caelī sīdere versō Thessalicae tantum, superī, permittitis ōrae? aut mercēs hodiē bellōrum aut poena parāta: Caesareās spectāte crucēs, spectāte catēnās, et caput hoc positum rōstrīs effūsaque membra Saeptōrumque nefās et clausī proelia Campī",,,
-,72,"vestrī cūra movet, nam mē sēcūra manēbit sors quaesīta manū: fodientem vīscera cernet mē mea quī nōndum vīctō respexerit hoste",,,
-,73,"dī, quōrum cūrās abdūxit ab aethere tellūs Rōmānusque labor, vincat quīcumque necesse nōn putat in vīctōs saevum dēstringere ferrum, quīque suōs cīvēs, quod signa adversa tulērunt, nōn crēdit fēcisse nefās",,,
-,74,"Pompeius in artō agmina vestra locō vetitā virtūte movērī cum tenuit, quantō satiāvit sanguine ferrum! vōs tamen hoc ōrō, iuvenēs, nē caedere quisquam hostis terga velit: cīvis quī fūgerit estō",,,
-,75,"sed, dum tēla micant, nōn vōs pietātis imāgō ūlla nec adversā cōnspectī fronte parentēs commoveant",,,
-,76,"sīve quis īnfēstō cognāta in pectora ferrō ībit, seu nūllum violārit vulnere pignus, ignōtī iugulum tamquam scelus imputet hostis",,,
-,77,"sternite iam vallum fossāsque implēte ruīnā, exeat ut plēnīs aciēs nōn sparsa maniplīs",,,
-,78,parcite nē castrīs: vāllō tendētis in illō unde aciēs peritūra venit,,,
-,79,"’ vix cūncta locūtō Caesare quemque suum mūnus trahit, armaque raptim sūmpta Cerēsque virīs",,,
-,80,"sī totidem Magnī socerōs totidemque petentīs urbis rēgna suae fūnestō in Mārte locāssēs, nōn tam praecipitī ruerent in proelia cursū",,,
-,81,"vīdit ut hostīlēs in rēctum exīre catervās Pompeius nūllāsque morās permittere bellō sed superīs placuisse diem, stat corde gelātō attonitus",,,
-,82,"premit inde metus, tōtumque per agmen sublīmī praevectus equō ‘quem flāgitat’ inquit ‘vestra diem virtūs, fīnis cīvīlibus armīs, quem quaesīstis, adest",,,
-,83,"tōtās effundite vīrēs: extrēmum ferrī superest opus, ūnaque gentīs hōra trahit",,,
-,84,"quisquis patriam cārōsque penātēs, quī subolem ac thalamōs dēsertaque pignora quaerit, ēnse petat: mediō posuit deus omnia campō",,,
-,85,"causa iubet melior superōs spērāre secundōs: ipsī tēla regent per vīscera Caesaris, ipsī Rōmānās sancīre volent hōc sanguine lēgēs",,,
-,86,"sī socerō dare rēgna meō mundumque parārent, praecipitāre meam fātīs potuēre senectam: nōn īrātōrum populīs urbīque deōrum est Pompeium servāre ducem",,,
-,87,"sī Curiōs hīs fāta darent reducēsque Camillōs temporibus Deciōsque caput fātāle voventīs, hinc stārent",,,
-,88,prīmō gentēs oriente coāctae innumeraeque urbēs quantās in proelia numquam excīvēre manūs: tōtō simul ūtimur orbe,,,
-,89,"quidquid signiferī comprēnsum līmite caelī sub Noton et Boreān hominum sumus, arma movēmus",,,
-,90,"nōnne superfūsīs collēctum cornibus hostem in medium dabimus? paucās victōria dextrās exigit, at plūrēs tantum clāmōre catervae bella gerent",,,
-,91,crēdite pendentēs ē summīs moenibus urbis crīnibus effūsīs hortārī in proelia mātrēs,,,
-,92,crēdite grandaevum vetitumque aetāte senātum arma sequī sacrōs pedibus prōsternere cānōs atque ipsam dominī metuentem occurrere Rōmam,,,
-,93,"crēdite quī nunc est populus populumque futūrum permixtās afferre precēs: haec lībera nāscī, haec vult turba morī",,,
-,94,"sī quis post pignora tanta Pompeiō locus est, cum prōle et coniuge supplex, imperiī salvā sī maiestāte licēret, volverer ante pedēs",,,
-,95,"Magnus, nisi vincitis, exul, lūdibrium socerī, vester pudor, ultima fāta dēprecor ac turpēs extrēmī cardinis annōs, nē discam servīre senex",,,
-,96,"’ tam maesta locūtī vōce ducis flagrant animī, Rōmānaque virtūs ērigitur, placuitque morī, sī vēra timēret",,,
-,97,"hae facient dextrae quidquid nōn explicat aetās ūlla nec hūmānum reparet genus omnibus annīs, ut vacet ā ferrō",,,
-,98,gentēs Mārs iste futūrās obruet et populōs aevī venientis in orbem ēreptō nātāle feret,,,
-,99,"tunc omne Latīnum fābula nōmen erit: Gabiōs Veiōsque Coramque pulvere vix tēctae poterunt mōnstrāre ruīnae Albānōsque larēs Laurentīnōsque penātēs, rūs vacuum, quod nōn habitet nisi nocte coāctā invītus questusque Numam iussisse senātor",,,
-,100,nōn aetās haec carpsit edāx monumentaque rērum putria dēstituit: crīmen cīvīle vidēmus tot vacuās urbēs,,,
-,101,generis quō turba redācta est hūmānī! tōtō populī quī nāscimur orbe nec mūrōs implēre virīs nec possumus agrōs: urbs nōs ūna capit,,,
-,102,"vīnctō fossōre coluntur Hesperiae segetēs, stat tēctīs putris avītīs in nūllōs ruitūra domus, nūllōque frequentem cīve suō Rōmam sed mundī faece replētam clādis eō dedimus, nē tantō in corpore bellum iam possit cīvīle gerī",,,
-,103,"quae lātius orbem possēdit, citius per prospera fāta cucurrit? omne tibī bellum gentīs dedit, omnibus annīs tē geminum Tītān prōcēdere vīdit in axem",,,
-,104,"haud multum terrae spatium restābat Eōae ut tibi nox, tibi tōta diēs, tibi curreret aether, omniaque errantēs stēllae Rōmāna vidērent",,,
-,105,sed retrō tua fāta tulit pār omnibus annīs Ēmathiae fūnesta diēs,,,
-,106,"quid tempora lēgum ēgimus aut annōs ā cōnsule nōmen habentīs? fēlīcēs Ārabēs Mēdīque Eōaque tellūs, quam sub perpetuīs tenuērunt fāta tyrannīs",,,
-,107,"ex populīs quī rēgna ferunt sors ultima nostra est, quōs servīre pudet",,,
-,108,"sunt nōbīs nūlla profectō nūmina: cum caecō rapiantur saecula cāsū, mentīmur rēgnāre Iovem",,,
-,109,"clādis tamen huius habēmus vindictam, quantam terrīs dare nūmina fās est: bella parēs superīs facient cīvīlia dīvōs, fulminibus mānēs radiīsque ōrnābit et astrīs inque deum templīs iūrābit Rōma per umbrās",,,
-,110,"ut rapidō cursū fātī suprēma morantem cōnsūmpsēre locum, parvā tellūre dirēmptī, quō sua pīla cadant aut quae sibi fāta minentur inde manūs spectant",,,
-,111,"penitus quō nōscere possent factūrī quae mōnstra forent, vīdēre parentēs frontibus adversīs frāternaque comminus arma, nec libuit mūtāre locum",,,
-,112,"tamen omnia torpor pectora cōnstrīnxit, gelidusque in vīscera sanguis percussā pietāte coit, tōtaeque cohortēs pīla parāta diū tēnsīs tenuēre lacertīs",,,
-,113,"dī tibi nōn mortem, quae cūnctīs poena parātur, sed sēnsum post fāta tuae dent, Crāstine, mortī, cuius torta manū commīsit lancea bellum prīmaque Thessaliam Rōmānō sanguine tīnxit",,,
-,114,"excēpit resonīs clāmōrem vallibus Haemus Pēliacīsque dedit rūrsus gemināre cavernīs, Pindus agit fremitūs Pangaeaque saxa resultant Oetaeaeque gemunt rūpēs, vōcēsque furōris expāvēre suī tōtā tellūre relātās",,,
-,115,"spargitur innumerum dīversīs missile vōtīs: vulnera pars optat, pars terrae fīgere tēla ac pūrās servāre manūs",,,
-,116,"tunc et Ityraeī Mēdīque Ārabēsque solūtī, arcū turba mināx, nusquam rēxēre sagittās, sed petitur sōlus quī campīs imminet āēr",,,
-,117,sceleris sed crīmine nūllō externum maculant chalybem: stetit omne coāctum circā pīla nefās,,,
-,118,sed quota pars clādis iaculīs ferrōque volantī exācta est! odiīs sōlus cīvīlibus ēnsis sufficit et dextrās Rōmāna in vīscera dūcit,,,
-,119,"Pompeiī dēnsīs aciēs stīpāta catervīs iūnxerat in seriem nexīs umbōnibus arma, vixque habitūra locum dextrās ac tēla movendī cōnstiterat gladiōsque suōs compressa timēbat",,,
-,120,"praecipitī cursū vēsānum Caesaris agmen in dēnsōs agitur cuneōs, perque arma, per hostem quaerit iter",,,
-,121,"quā torta gravēs lōrīca catēnās oppōnit tūtōque latet sub tegmine pectus, hāc quoque perventum est ad vīscera, totque per arma extrēmum est quod quisque ferit",,,
-,122,nec Fortūna diū rērum tot pondera vergēns abstulit ingentīs fātō torrente ruīnās,,,
-,123,"ut prīmum tōtō dīdūxit cornua campō Pompeiānus eques bellīque per ultima fūdit, sparsa per extrēmōs levis armātūra maniplōs īnsequitur saevāsque manūs immittit in hostem",,,
-,124,"illīc quaeque suō miscet gēns proelia tēlō, Rōmānus cūnctīs petitur cruor: inde sagittae, inde facēs et saxa volant spatiōque solūtae āeris et calidō liquefactae pondere glandēs",,,
-,125,"cum Caesar, metuēns nē frōns sibi prīma labāret incursū, tenet oblīquās post signa cohortēs, inque latus bellī, quā sē vagus hostis agēbat, ēmittit subitum nōn mōtīs cornibus agmen",,,
-,126,immemorēs pugnae nūllōque pudōre timendī praecipitēs fēcēre palam cīvīlia bella nōn bene barbaricīs umquam commissa catervīs,,,
-,127,"ut prīmum sonipēs trānsfīxus pectora ferrō in caput effūsī calcāvit membra regentis, omnis eques cessit campīs, glomerātaque nūbēs in sua conversīs praeceps ruit agmina frēnīs",,,
-,128,"perdidit inde modum caedēs, ac nūlla secūta est pugna, sed hinc iugulīs, hinc ferrō bella geruntur",,,
-,129,"utinam, Pharsālia, campīs sufficiat cruor iste tuīs quem barbara fundunt pectora",,,
-,130,"aut, sī Rōmānō complērī sanguine māvīs, istīs parce, precor: vīvant Galataeque Syrīque, Cappadocēs Gallīque extrēmīque orbis Hibērī, Armeniī, Cilicēs, nam post cīvīlia bella hic populus Rōmānus erit",,,
-,131,"semel ortus in omnīs it timor, et fātīs datus est prō Caesare cursus",,,
-,132,"quod tōtōs errōre vagō perfūderat agrōs cōnstitit hīc bellum, fortūnaque Caesaris haesit",,,
-,133,nōn illīc rēgum auxiliīs collēcta iuventūs bella gerit ferrumque manūs mōvēre rogātae,,,
-,134,"hanc fuge, mēns, partem bellī tenebrīsque relinque, nūllaque tantōrum discat mē vāte malōrum quam multum bellīs liceat cīvīlibus aetās",,,
-,135,"hīc Caesar, rabiēs populīs stimulusque furōrum, nē quā parte suī pereat scelus, agmina circum it vagus atque ignēs animīs flagrantibus addit",,,
-,136,"īnspicit et gladiōs, quī tōtī sanguine mānent, quī niteant prīmō tantum mucrōne cruentī, quae pressō tremat ēnse manus, quis languida tēla, quis contenta ferat, quis praestet bella iubentī, quem pugnāre iuvet, quis vultum cīve perēmptō mūtet",,,
-,137,"quācumque vagātur, sanguineum velutī quatiēns Bellōna flagellum Bistonas aut Māvors agitāns sī verbere saevō Palladiā stimulet turbātōs aegide currūs, nox ingēns scelerum est",,,
-,138,"caedēs oriuntur et īnstar immēnsae vōcis gemitūs, et pondere lāpsī pectoris arma sonant cōnfrāctīque ēnsibus ēnsēs",,,
-,139,ipse manū subicit gladiōs ac tēla ministrat adversōsque iubet ferrō cōnfundere vultūs,,,
-,140,"prōmovet ipse aciēs, impellit terga suōrum, verbere conversae cessantīs excitat hastae",,,
-,141,"in plēbem vetat īre manūs mōnstratque senātum: scit cruor imperiī quī sit, quae vīscera rērum, unde petat Rōmam, lībertās ultima mundī quō steterit ferienda locō",,,
-,142,"permixta secundō ōrdine nōbilitās venerandaque corpora ferrō urguentur: caedunt Lepidōs caeduntque Metellōs Corvīnōsque simul Torquātaque nōmina, rērum saepe ducēs summōsque hominum tē, Magne, remōtō",,,
-,143,"nōndum attigit arcem, iūris et hūmānī columen quō cūncta premuntur ēgressus meruit fātīs tam nōbile lētum",,,
-,144,hīc patriae perit omne decus: iacet aggere magnō patricium campīs nōn mixtā plēbe cadāver,,,
-,145,"mors tamen ēminuit clārōrum in strāge virōrum pugnācis Domitī, quem clādēs fāta per omnīs dūcēbant",,,
-,146,vīctus totiēns ā Caesare salvā lībertāte perit: tunc mīlle in vulnera laetus lābitur ac veniā gaudet caruisse secundā,,,
-,147,"vīderat in crassō versantem sanguine membra Caesar, et increpitāns ‘iam Magnī dēseris arma, successor Domitī",,,
-,148,"ast illī suffēcit pectora pulsāns spīritus in vōcem morientiaque ōra resolvit: ‘nōn tē fūnestā scelerum mercēde potītum sed dubium fātī, Caesar, generōque minōrem aspiciēns Stygiās Magnō duce līber ad umbrās et sēcūrus eō",,,
-,149,"tē saevō Mārte subāctum Pompeiōque gravīs poenās nōbīsque datūrum, cum moriar, spērāre licet",,,
-,150,"impendisse pudet lacrimās in fūnere mundī mortibus innumerīs, ac singula fāta sequentem quaerere lētiferum per cuius vīscera vulnus exierit, quis fūsa solō vītālia calcet, ōre quis adversō dēmissum faucibus ēnsem expulerit moriēns animā",,,
-,151,quis cruor ēmissīs perrūperit āera vēnīs inque hostis cadat arma suī,,,
-,152,"quis pectora frātris caedat et, ut nōtum possit spoliāre cadāver, abscīsum longē mittat caput, ōra parentis quis laceret nimiāque probet spectantibus īrā quem iugulat nōn esse patrem",,,
-,153,"nōn istās habuit pugnae Pharsālia partēs quās aliae clādēs: illīc per fāta virōrum, per populōs hīc Rōma perit",,,
-,154,"maius ab hāc aciē quam quod sua saecula ferrent vulnus habent populī, plūs est quam vīta salūsque quod perit: in tōtum mundī prōsternimur aevum, vincitur hīs gladiīs omnis quae serviet aetās",,,
-,155,proxima quid subolēs aut quid meruēre nepōtēs in rēgnum nāscī? pavidē num gessimus arma tēximus aut iugulōs? aliēnī poena timōris in nostrā cervīce sedet,,,
-,156,"iam Magnus trānsīsse deōs Rōmānaque fāta sēnserat īnfēlīx, tōtā vix clāde coāctus fortūnam damnāre suam",,,
-,157,"stetit aggere campī, ēminus unde omnīs sparsās per Thessala rūra aspiceret clādēs quae bellō obstante latēbant",,,
-,158,"tot tēlīs sua fāta petī, tot corpora fūsa ac sē tam multō pereuntem sanguine vīdit",,,
-,159,"nec, sīcut mōs est miserīs, trahere omnia sēcum mersa iuvat gentēsque suae miscēre ruīnae",,,
-,160,"ut Latiae post sē vīvat pars maxima turbae sustinuit dignōs etiamnunc crēdere vōtīs caelicolās vōvitque, suī sōlācia cāsūs: ‘parcite,’ ait ‘superī, cūnctās prōsternere gentēs",,,
-,161,"cīvīlīne parum est bellō, sī mēque meōsque obruit? exiguae clādēs sumus orbe remōtō? omnia quid lacerās? quid perdere cūncta labōrās? iam nihil est, Fortūna, meum",,,
-,162,’ sīc fātur et arma signaque et afflīctās omnī iam parte catervās circumit et revocat mātūra in fāta ruentīs sēque negat tantī,,,
-,163,"nec dērat rōbur in ēnsēs īre ducī iugulōque patī vel pectore lētum, sed timuit, strātō mīles nē corpore Magnī nōn fugeret, suprāque ducem prōcumberet orbis",,,
-,164,"sed tū quoque, coniūnx, causa fugae vultūsque tuī, fātīsque negātum parte absente morī",,,
-,165,tum Magnum concitus aufert ā bellō sonipēs nōn tergō tēla paventem ingentīsque animōs extrēma in fāta ferentem,,,
-,166,"nōn gemitus, nōn flētus erat, salvāque verendus maiestāte dolor, quālem tē, Magne, decēbat Rōmānīs praestāre malīs",,,
-,167,nōn impare vultū aspicis Ēmathiam: nec tē vīdēre superbum prospera bellōrum nec frāctum adversa vidēbunt,,,
-,168,quamque fuit laetō per trēs īnfīda triumphōs tam miserō Fortūna minor,,,
-,169,"iam pondere fātī dēpositō sēcūrus abīs, nunc tempora laeta respexisse vacat, spēs numquam implenda recessit, quid fueris nunc scīre licet",,,
-,170,"fuge proelia dīra ac testāre deōs nūllum quī perstet in armīs iam tibi, Magne, morī",,,
-,171,"ceu flēbilis Āfrica damnīs et ceu Munda nocēns Phariōque ā gurgite clādēs, sīc et Thessalicae post tē pars maxima pugnae nōn iam Pompeiī nōmen populāre per orbem nec studium bellī, sed pār quod semper habēmus, lībertās et Caesar, erit",,,
-,172,"nōnne iuvat pulsum bellīs cessisse nec istud perspectāsse nefās? spūmantēs caede catervās respice, turbātōs incursū sanguinis amnēs, et socerī miserēre tuī",,,
-,173,"quō pectore Rōmam intrābit factus campīs fēlīcior istīs? quidquid in ignōtīs sōlus regiōnibus exul, quidquid sub Phariō positus patiēre tyrannō, crēde deīs, longō fātōrum crēde favōrī, vincere peius erat",,,
-,174,"aspice sēcūrus vultū nōn supplice rēgēs, aspice possessās urbēs dōnātaque rēgna, Aegypton Libyamque, et terrās ēlige mortī",,,
-,175,vīdit prīma tuae testis Lārīsa ruīnae nōbile nec vīctum fātīs caput,,,
-,176,"omnibus illa cīvibus effūdit tōtās per moenia vīrēs obvia ceu laetō: prōmittunt mūnera flentēs, pandunt templa, domōs, sociōs sē clādibus optant",,,
-,177,"scīlicet immēnsō superest ex nōmine multum, tēque minor sōlō cūnctās impellere gentēs rūrsus in arma potes rūrsusque in fāta redīre",,,
-,178,"sed ‘quid opus vīctō populīs aut urbibus?’ inquit, ‘victōrī praestāte fidem",,,
-,179,"’ tū, Caesar, in altō caedis adhūc cumulō patriae per vīscera vādis, at tibi iam populōs dōnat gener",,,
-,180,"nunc tibi vēra fidēs quaesītī, Magne, favōris contigit ac frūctus: fēlīx sē nescit amārī",,,
-,181,"Caesar, ut Hesperiō vīdit satis arva natāre sanguine, parcendum ferrō manibusque suōrum iam ratus, ut vīlēs animās peritūraque frūstrā agmina permīsit vītae",,,
-,182,"sed, castra fugātōs nē revocent pellatque quiēs nocturna pavōrem, prōtinus hostīlī statuit succēdere vāllō, dum fortūna calet, dum cōnficit omnia terror, nōn veritus grave nē fessīs aut Mārte subāctīs hoc foret imperium",,,
-,183,"nōn magnō hortāmine mīles in praedam dūcendus erat: ‘victōria nōbīs plēna, virī,’ dīxit, ‘superest prō sanguine mercēs, quam mōnstrāre meum est",,,
-,184,raptum Hesperiīs ē gentibus aurum hīc iacet Ēōāsque premunt tentōria gāzās,,,
-,185,’ nec plūra locūtus impulit āmentēs aurīque cupīdine caecōs īre super gladiōs suprāque cadāvera patrum et caesōs calcāre ducēs,,,
-,186,"quae fossa, quis agger sustineat pretium bellī scelerumque petentīs? scīre ruunt quantā fuerint mercēde nocentēs",,,
-,187,"invēnēre quidem spoliātō plūrima mundō bellōrum in sūmptūs congestae pondera massae, sed nōn implēbit cupientīs omnia mentēs quidquid fōdit Hibēr, quidquid Tagus expulit aurī, quod lēgit dīves summīs Arimaspus harēnīs",,,
-,188,"cum sibi Tarpeiās victor dēsponderit arcēs, cum spē Rōmānae prōmīserit omnia praedae, dēcipitur quod castra rapit",,,
-,189,"capit impia plēbes caespite patriciō somnōs, strātumque cubīle rēgibus īnfandus mīles premit, inque parentum inque torīs frātrum posuērunt membra nocentēs",,,
-,190,"quōs agitat vēsāna quiēs, somnīque furentēs Thessalicam miserīs versant in pectore pugnam",,,
-,191,"invigilat cūnctīs saevum scelus, armaque tōtā mente agitant, capulōque manūs absente moventur",,,
-,192,"ingemuisse putem campōs, terramque nocentem īnspīrāsse animās, īnfectumque āera tōtum mānibus et superam Stygiā formīdine noctem",,,
-,193,"exigit ā meritīs trīstēs victōria poenās, sībilaque et flammās īnfert sopor",,,
-,194,"umbra perēmptī cīvis adest, sua quemque premit terrōris imāgō: ille senum vultūs, iuvenum videt ille figūrās, hunc agitant tōtīs frāterna cadāvera somnīs, pectore in hōc pater est — omnēs in Caesare mānēs",,,
-,195,"haud aliōs nōndum Scythicā pūrgātus in ārā Eumenidum vīdit vultūs Pelopēus Orestēs, nec magis attonitōs animī sēnsēre tumultūs cum fureret Penthēus aut cum dēsīsset Agāvē",,,
-,196,"hunc omnēs gladiī quōs aut Pharsālia vīdit aut ultrīx vīsūra diēs stringente senātū illā nocte premunt, hunc īnfera mōnstra flagellant",,,
-,197,"et quantum poenae miserō mēns cōnscia dōnat, quod Styga, quod mānēs ingestaque Tartara somnīs Pompeiō vīvente videt! tamen omnia passō, postquam clāra diēs Pharsālica damna retēxit, nūlla locī faciēs revocat fērālibus arvīs haerentīs oculōs",,,
-,198,"cernit prōpulsa cruōre flūmina et excelsōs cumulīs aequantia collēs corpora, sīdentīs in tābem spectat acervōs et Magnī numerat populōs, epulīsque parātur ille locus, vultūs ex quō faciēsque iacentum agnōscat",,,
-,199,iuvat Ēmathiam nōn cernere terram et lūstrāre oculīs campōs sub clāde latentēs,,,
-,200,"ac, nē laeta furēns scelerum spectācula perdat, invidet igne rogī miserīs, caelōque nocentī ingerit Ēmathiam",,,
-,201,"nōn illum Poenus humātor cōnsulis et Libycā succēnsae lampade Cannae compellunt hominum rītūs ut servet in hoste, sed meminit nōndum satiātā caedibus īrā cīvēs esse suōs",,,
-,202,"aut, generī sī poena iuvat, nemus exstrue Pindī, ērige congestās Oetaeō rōbore silvās, Thessalicam videat Pompeius ab aequore flammam",,,
-,203,"tābēsne cadāvera solvat an rogus, haud rēfert: placidō nātūra receptat cūncta sinū, fīnemque suī sibi corpora dēbent",,,
-,204,"hōs, Caesar, populōs sī nunc nōn usserit ignis, ūret cum terrīs, ūret cum gurgite pontī",,,
-,205,"nōn altius ībis in aurās, nōn meliōre locō Stygiā sub nocte iacēbis: lībera Fortūnae mors est",,,
-,206,"capit omnia tellūs quae genuit, caelō tegitur quī nōn habet urnam",,,
-,207,"tū, cui dant poenās inhumātō fūnere gentēs, quid fugis hanc clādem? quid olentīs dēseris agrōs? hās trahe, Caesar, aquās, hōc, sī potes, ūtere caelō",,,
-,208,sed tibi tābentēs populī Pharsālica rūra ēripiunt campōsque tenent victōre fugātō,,,
-,209,"nōn sōlum Haemoniī fūnesta ad pābula bellī, Bistoniī vēnēre lupī tābemque cruentae caedis odōrātī Pholoēn līquēre leōnēs",,,
-,210,"tunc ursae latebrās, obscēnī tēcta domōsque dēseruēre canēs, et quidquid nāre sagācī āera nōn sānum mōtumque cadāvere sentit",,,
-,211,"vōs, quae Nīlō mūtāre solētis Thrēiciās hiemēs, ad mollem sērius Austrum īstis, avēs",,,
-,212,numquam tantō sē vulture caelum induit aut plūrēs pressērunt āera pinnae,,,
-,213,omne nemus mīsit volucrēs omnisque cruentā ālite sanguineīs stillāvit rōribus arbor,,,
-,214,saepe super vultūs victōris et impia signa aut cruor aut altō dēflūxit ab aethere tābēs membraque dēiēcit iam lassīs unguibus āles,,,
-,215,"sīc quoque nōn omnis populus pervēnit ad ossa inque ferās discerptus abit: nōn intima cūrant vīscera nec tōtās avidae sorbēre medullās, dēgustant artūs",,,
-,216,"Latiae pars maxima turbae fastīdīta iacet, quam sōl nimbīque diēsque longior Ēmathiīs resolūtam miscuit arvīs",,,
-,217,"omnia maiōrum vertāmus busta licēbit, et stantīs tumulōs et quī rādīce vetustā effūdēre suās vīctīs compāgibus urnās",,,
-,218,plūs cinerum Haemoniae sulcīs tellūris arātur plūraque rūricolīs feriuntur dentibus ossa,,,
-,219,"quid tōtum premitis, quid tōtum absolvitis orbem? Hesperiae clādēs et flēbilis unda Pachȳnī et Mutina et Leucas pūrōs fēcēre Philippōs",,,
+Verse,Sentence number,Segment ,Sentiment class,Translation ,Relevant lexicon ,Comments,Violence
+1-6,1,"sēgnior Ōceanō quam lēx aeterna vocābat lūctificus Tītān numquam magis aethera contrā ēgit equōs cursumque polō rapiente retorsit, dēfectūsque patī voluit raptaeque labōrēs lūcis, et attrāxit nūbēs nōn pābula flammīs, sed nē Thessalicō pūrus lūcēret in orbe",,,,,
+7 - 8 ,2,"at nox, fēlīcis Magnō pars ultima vītae, sollicitōs vānā dēcēpit imāgine somnōs",,,,,
+9 - 12,3,nam Pompeiānī vīsus sibi sēde theātrī innumeram effigiem Rōmānae cernere plēbis attollīque suum laetīs ad sīdera nōmen vōcibus et plausū cuneōs certāre sonantēs,,,,,
+19 - 24,4,"seu fīne bonōrum ānxia mēns cūrīs ad tempora laeta refūgit, sīve per ambāgēs solitās contrāria vīsīs vāticināta quiēs magnī tulit ōmina plānctūs, seu vetitō patriās ultrā tibi cernere sēdēs sīc Rōmam Fortūna dedit",,,,,
+26 - 27 ,5,"crāstina dīra quiēs et imāgine maesta diurnā undique fūnestās aciēs feret, undique bellum",,,,,
+28 - 32,6,"unde parēs somnōs populī noctemque beātam? ō fēlīx, sī tē vel sīc tua Rōma vidēret! dōnāssent utinam superī patriaeque tibīque ūnum, Magne, diem, quō fātī certus uterque extrēmum tantī frūctum raperētis amōris",,,,,
+33- 36 ,7,"tū velut Ausoniā vādis moritūrus in urbe, illa ratī semper dē tē sibi cōnscia vōtī hoc scelus haud umquam fātīs haerēre putāvit, sīc sē dīlēctī tumulum quoque perdere Magnī",,,,,
+40 - 42,8,"nunc quoque, tēla licet paveant victōris inīquī, nūntiet ipse licet Caesar tua fūnera, flēbunt, sed dum tūra ferunt, dum laurea serta Tonantī",,,,,
+43 - 44,9,"ō miserī, quōrum gemitūs ēdēre dolōrem, quī tē nōn plēnō pariter plānxēre theātrō",,,,,
+45 - 47 ,10,"vīcerat astra iubar, cum mixtō murmure turba castrōrum fremuit fātīsque trahentibus orbem signa petit pugnae",,,,,
+47 - 50,11,miserī pars maxima vulgī nōn tōtum vīsūra diem tentōria circum ipsa ducis queritur magnōque accēnsa tumultū mortis vīcīnae properantīs admovet hōrās,,,,,
+52 - 55,12,"sēgnis pavidusque vocātur ac nimium patiēns socerī Pompeius, et orbis indulgēns rēgnō, quī tot simul undique gentīs iūris habēre suī vellet pācemque timēret",,,,,
+56 - 57,13,necnōn et rēgēs populīque queruntur Eōī bella trahī patriāque procul tellūre tenērī,,,,,
+58 - 60 ,14,"hoc placet, ō superī, cum vōbīs vertere cūncta prōpositum, nostrīs errōribus addere crīmen? clādibus irruimus nocitūraque poscimus arma",,,,,
+62 - 66,15,"cūnctōrum vōcēs Rōmānī maximus auctor Tullius ēloquiī, cuius sub iūre togāque pācificās saevus tremuit Catilīna secūrīs, pertulit, īrātus bellīs, cum rōstra forumque optāret passus tam longa silentia mīles",,,,,
+68 - 71,16,"‘hoc prō tot meritīs sōlum tē, Magne, precātur ūtī sē Fortūna velīs, procerēsque tuōrum castrōrum rēgēsque tuī cum supplice mundō affūsī vincī socerum patiāre rogāmus",,,,,
+72 - 74,17,hūmānī generis tam longō tempore bellum Caesar erit? meritō Pompeium vincere lentē gentibus indignum est ā trānscurrente subāctīs,,,,,
+75 - 78 ,18,"quō tibi fervor abit aut quō fīdūcia fātī? dē superīs, ingrāte, timēs causamque senātūs crēdere dīs dubitās? ipsae tua signa revellent prōsilientque aciēs: pudeat vīcisse coāctum",,,,,
+79 - 80,19,"sī duce tē iussō, sī nōbīs bella geruntur, sit iūris quōcumque velint concurrere campō",,,,,
+81 - 83,20,"quid mundī gladiōs ā sanguine Caesaris arcēs? vibrant tēla manūs, vix signa morantia quisquam exspectat: properā, nē tē tua classica linquant",,,,,
+85 - 86 ,21,’ ingemuit rēctor sēnsitque deōrum esse dolōs et fāta suae contrāria mentī,,,,,
+87 - 90 ,22,"‘sī placet hoc’ inquit ‘cūnctīs, sī mīlite Magnō, nōn duce tempus eget, nīl ultrā fāta morābor: involvat populōs ūnā Fortūna ruīnā sitque hominum magnae lūx ista novissima partī",,,,,
+92 - 94 ,23,"potuit tibi vulnere nūllō stāre labor bellī, potuī sine caede subāctum captīvumque ducem violātae trādere pācī",,,,,
+95 - 101,24,"quis furor, ō caecī, scelerum? cīvīlia bella gestūrī metuunt nē nōn cum sanguine vincant? abstulimus terrās, exclūsimus aequore tōtō, ad praemātūrās segetum ieiūna rapīnās agmina compulimus, vōtumque effēcimus hostī ut māllet sternī gladiīs mortemque suōrum permiscēre meīs",,,,,
+101 - 105,25,"bellī pars magna perācta est hīs, quibus effectum est nē pugnam tīrō pavēret, sī modo virtūtis stimulīs īraeque calōre signa petunt: multōs in summa perīcula mīsit ventūrī timor ipse malī",,,,,
+,26,"fortissimus ille est quī, prōmptus metuenda patī sī comminus īnstent, et differre potest",,,,,
+,27,"placet haec tam prospera rērum trādere fortūnae, gladiō permittere mundī discrīmen",,,,,
+,28,"rēs mihi Rōmānās dederās, Fortūna, regendās: accipe maiōrēs et caecō in Mārte tuēre",,,,,
+,29,"quantum scelerum quantumque malōrum in populōs lūx ista feret! quot rēgna iacēbunt! sanguine Rōmānō quam turbidus ībit Enīpeus! prīma velim caput hoc fūnestī lancea bellī, sī sine mōmentō rērum partisque ruīnā cāsūrum est, feriat, neque enim victōria Magnō laetior",,,,,
+,30,"aut populīs invīsum hāc clāde perāctā aut hodiē Pompeius erit miserābile nōmen: omne malum vīctī, quod sors feret ultima rērum, omne nefās victōris erit",,,,,
+,31,"’ sīc fātur, et arma permittit populīs frēnōsque furentibus īrā laxat et ut vīctus violentō nāvita Cōrō dat regimen ventīs ignāvumque arte relictā puppis onus trahitur",,,,,
+,32,"trepidō cōnfūsa tumultū castra fremunt, animīque trucēs sua pectora pulsant ictibus incertīs",,,,,
+,33,"advēnisse diem quī fātum rēbus in aevum conderet hūmānīs, et quaerī Rōma quid esset illō Mārte palam est",,,,,
+,34,"quis lītora pontō obruta, quis summīs cernēns in montibus aequor aetheraque in terrās dēiectō sōle cadentem, tot rērum fīnem, timeat sibi? nōn vacat ūllōs prō sē ferre metūs: urbī Magnōque timētur",,,,,
+,35,"tunc omnis lancea saxō ērigitur, tendunt nervīs meliōribus arcūs, cūra fuit lēctīs pharetrās implēre sagittīs, auget eques stimulōs frēnōrumque artat habēnās",,,,,
+,36,"sī liceat superīs hominum cōnferre labōrēs, nōn aliter Phlegrā rabidōs tollente gigantas Mārtius incaluit Siculīs incūdibus ēnsis et rubuit flammīs iterum Neptūnia cuspis spīculaque extēnsō Paeān Pȳthōne recoxit, Pallās Gorgoneōs diffūdit in aegida crīnēs, Pallēnaea Iovī mūtāvit fulmina Cyclōps",,,,,
+,37,"nam Thessala rūra cum peterent, tōtus venientibus obstitit aether adversāsque facēs immēnsōque igne columnās et trabibus mixtīs avidōs tȳphōnas aquārum dētulit atque oculōs ingestō fulgure clausit",,,,,
+,38,"excussit cristās galeīs capulōsque solūtīs perfūdit gladiīs ēreptaque pīla liquāvit, aetheriōque nocēns fūmāvit sulpure ferrum",,,,,
+,39,vixque revulsa solō maiōrī pondere pressum signiferī mersēre caput rōrantia flētū ūsque ad Thessaliam Rōmāna et pūblica signa,,,,,
+,40,"admōtus superīs discussā fūgit ab ārā taurus et Ēmathiōs praeceps sē iēcit in agrōs, nūllaque fūnestīs inventa est victima sacrīs",,,,,
+,41,inque vicem vultūs tenebrīs mīrantur opertōs et pallēre diem galeīsque incumbere noctem dēfūnctōsque patrēs et iūnctī sanguinis umbrās ante oculōs volitāre suōs,,,,,
+,42,"sed mentibus ūnum hoc sōlāmen erat, quod vōtī turba nefandī cōnscia, quae patrum iugulōs, quae pectora frātrum spērābat, gaudet mōnstrīs, mentisque tumultum atque ōmen scelerum subitōs putat esse furōrēs",,,,,
+,43,"dissimilem certē cūnctīs quōs explicat ēgit Thessalicum nātūra diem: sī cūncta perītō augure mēns hominum caelī nova signa notāsset, spectārī tōtō potuit Pharsālia mundō",,,,,
+,44,"mīles, ut adversō Phoebī radiātus ab ictū dēscendēns tōtōs perfūdit lūmine collēs, nōn temere immissus campīs: stetit ōrdine certō īnfēlīx aciēs",,,,,
+,45,"cornūs tibi cūra sinistrī, Lentule, cum prīmā, quae tum fuit optima bellō, et quārtā legiōne datur",,,,,
+,46,"at mediī rōbur bellī fortissima dēnsant agmina, quae Cilicum terrīs dēducta tenēbat Scīpiō, mīles in hōc, Libycō dux prīmus in orbe",,,,,
+,47,at iuxtā fluviōs et stāgna undantis Enīpeī Cappadocum montāna cohors et largus habēnae Ponticus ībat eques,,,,,
+,48,siccī sed plūrima campī tetrarchae rēgēsque tenent magnīque tyrannī atque omnis Latiō quae servit purpura ferrō,,,,,
+,49,"illūc et Libyē Numidās et Crēta Cydōnas mīsit, Itȳraeīs cursus fuit inde sagittīs, inde, trucēs Gallī, solitum prōdīstis in hostem, illīc pugnācēs commōvit Hibēria caetrās",,,,,
+,50,"ēripe victōrī gentīs et sanguine mundī fūsō, Magne, semel tōtōs cōnsūme triumphōs",,,,,
+,51,"illō forte diē Caesar statiōne relictā ad segetum raptūs mōtūrus signa repente cōnspicit in plānōs hostem dēscendere campōs, oblātumque videt vōtīs sibi mīlle petītum tempus, in extrēmōs quō mitteret omnia cāsūs",,,,,
+,52,aeger quippe morae flagrānsque cupīdine rēgnī coeperat exiguō tractū cīvīlia bella ut lentum damnāre nefās,,,,,
+,53,"discrīmina postquam adventāre ducum suprēmaque proelia vīdit cāsūram et fātīs sēnsit nūtāre ruīnam, illa quoque in ferrum rabiēs prōmptissima paulum languit, et cāsūs audāx spondēre secundōs mēns stetit in dubiō, quam nec sua fāta timēre nec Magnī spērāre sinunt",,,,,
+,54,"‘ō domitor mundī, rērum fortūna meārum, mīles, adest totiēns optātae cōpia pugnae",,,,,
+,55,"haec est illa diēs mihi quam Rubicōnis ad undās prōmissam meminī, cuius spē mōvimus arma, in quam distulimus vetitōs remeāre triumphōs",,,,,
+,56,"sī prō mē patriam ferrō flammīsque petīstis, nunc pugnāte trucēs gladiōque exsolvite culpam: nūlla manus bellī mūtātō iūdice pūra est",,,,,
+,57,"nōn mihi rēs agitur, sed vōs ut lībera sītis turba, precor gentēs ut iūs habeātis in omnēs",,,,,
+,58,"ipse ego prīvātae cupidus mē reddere vītae plēbēiāque togā modicum compōnere cīvem, omnia dum vōbīs liceant, nihil esse recūsō",,,,,
+,59,"nec sanguine multō spem mundī petitis: Graiīs dēlēcta iuventūs gymnasiīs aderit studiōque ignāva palaestrae et vix arma ferēns, aut mixtae dissona turbae barbariēs, nōn illa tubās, nōn agmine mōtō clāmōrem lātūra suum",,,,,
+,60,cīvīlia paucae bella manūs facient: pugnae pars magna levābit hīs orbem populīs Rōmānumque obteret hostem,,,,,
+,61,īte per ignāvās gentēs fāmōsaque rēgna et prīmō ferrī mōtū prōsternite mundum,,,,,
+,62,"sitque palam quās tot dūxit Pompeius in urbem curribus, ūnīus gentēs nōn esse triumphī",,,,,
+,63,"Armeniōsne movet Rōmāna potentia cuius sit ducis? aut ēmptum minimō vult sanguine quisquam barbarus, Hesperiīs Magnum praepōnere rēbus? Rōmānōs ōdēre omnēs dominōsque gravantur quōs nōvēre magis",,,,,
+,64,"sed mē fortūna meōrum commīsit manibus, quārum mē Gallia testem tot fēcit bellīs",,,,,
+,65,cuius nōn mīlitis ēnsem agnōscam? caelumque tremēns cum lancea trānsit dīcere nōn fallar quō sit vibrāta lacertō,,,,,
+,66,"quodsī signa ducem numquam fallentia vestrum cōnspiciō, faciēsque trucēs oculōsque minācēs, vīcistis",,,,,
+,67,videor fluviōs spectāre cruōris calcātōsque simul rēgēs sparsumque senātūs corpus et immēnsā populōs in caede natantīs,,,,,
+,68,"sed mea fāta moror, quī vōs in tēla furentīs vōcibus hīs teneō",,,,,
+,69,"veniam date bella trahentī: spē trepidō, haud umquam vīdī tam magna datūrōs tam prope mē superōs",,,,,
+,70,ego sum cui Mārte perāctō quae populī rēgēsque tenent dōnāre licēbit,,,,,
+,71,"quōne polī mōtū, quō caelī sīdere versō Thessalicae tantum, superī, permittitis ōrae? aut mercēs hodiē bellōrum aut poena parāta: Caesareās spectāte crucēs, spectāte catēnās, et caput hoc positum rōstrīs effūsaque membra Saeptōrumque nefās et clausī proelia Campī",,,,,
+,72,"vestrī cūra movet, nam mē sēcūra manēbit sors quaesīta manū: fodientem vīscera cernet mē mea quī nōndum vīctō respexerit hoste",,,,,
+,73,"dī, quōrum cūrās abdūxit ab aethere tellūs Rōmānusque labor, vincat quīcumque necesse nōn putat in vīctōs saevum dēstringere ferrum, quīque suōs cīvēs, quod signa adversa tulērunt, nōn crēdit fēcisse nefās",,,,,
+,74,"Pompeius in artō agmina vestra locō vetitā virtūte movērī cum tenuit, quantō satiāvit sanguine ferrum! vōs tamen hoc ōrō, iuvenēs, nē caedere quisquam hostis terga velit: cīvis quī fūgerit estō",,,,,
+,75,"sed, dum tēla micant, nōn vōs pietātis imāgō ūlla nec adversā cōnspectī fronte parentēs commoveant",,,,,
+,76,"sīve quis īnfēstō cognāta in pectora ferrō ībit, seu nūllum violārit vulnere pignus, ignōtī iugulum tamquam scelus imputet hostis",,,,,
+,77,"sternite iam vallum fossāsque implēte ruīnā, exeat ut plēnīs aciēs nōn sparsa maniplīs",,,,,
+,78,parcite nē castrīs: vāllō tendētis in illō unde aciēs peritūra venit,,,,,
+,79,"’ vix cūncta locūtō Caesare quemque suum mūnus trahit, armaque raptim sūmpta Cerēsque virīs",,,,,
+,80,"sī totidem Magnī socerōs totidemque petentīs urbis rēgna suae fūnestō in Mārte locāssēs, nōn tam praecipitī ruerent in proelia cursū",,,,,
+337-340,81,"vīdit ut hostīlēs in rēctum exīre catervās Pompeius nūllāsque morās permittere bellō sed superīs placuisse diem, stat corde gelātō attonitus",Negative,"When Pompey saw the enemy army advance directly,
+
+to further the battle without delay, he stood appalled,
+
+his blood froze, knowing this day chosen by the gods.",,,
+341-344,82,"premit inde metus, tōtumque per agmen sublīmī praevectus equō ‘quem flāgitat’ inquit ‘vestra diem virtūs, fīnis cīvīlibus armīs, quem quaesīstis, adest",Positive,"But swallowing his fears he rode along the line on his
+
+great war-horse. ‘Behold the day,’ he cried, ‘that your
+
+virtue demanded, the end of the civil war you sought. ",,,
+344 - 346,83,"tōtās effundite vīrēs: extrēmum ferrī superest opus, ūnaque gentīs hōra trahit",Positive,"Expend all your strength; one last trial of arms is left;
+
+a single hour that draws all nations here. ",,,
+346 - 348,84,"quisquis patriam cārōsque penātēs, quī subolem ac thalamōs dēsertaque pignora quaerit, ēnse petat: mediō posuit deus omnia campō",Neutral,"Whoever
+
+longs for his house and homeland, his wife, children,
+
+dear ones left behind, must wield the sword: heaven
+
+sets all on this one battle.",,,
+349 - 351,85,"causa iubet melior superōs spērāre secundōs: ipsī tēla regent per vīscera Caesaris, ipsī Rōmānās sancīre volent hōc sanguine lēgēs",Positive,"Ours, the better cause, gives
+
+hope of the gods’ favour: they will guide our spears
+
+to Caesar’s heart, they wish to sanctify Rome’s laws
+
+with his blood.",,,1
+352 - 355,86,"sī socerō dare rēgna meō mundumque parārent, praecipitāre meam fātīs potuēre senectam: nōn īrātōrum populīs urbīque deōrum est Pompeium servāre ducem",Neutral,"If they chose to grant my father-in-law
+
+the command of the world, they could hasten this grey
+
+head of mine into the grave: but if they let Pompey lead
+
+they cannot be angry with Rome or the nations.",,,
+358 - 360,87,"sī Curiōs hīs fāta darent reducēsque Camillōs temporibus Deciōsque caput fātāle voventīs, hinc stārent",Neutral,"such that Curius, and Camillus,
+
+and the Decii, those lives devoted to death, if the fates
+
+had restored them to our times, would stand beside us.",,,
+360 - 362,88,prīmō gentēs oriente coāctae innumeraeque urbēs quantās in proelia numquam excīvēre manūs: tōtō simul ūtimur orbe,Positive,"The nations of the eastern dawn, of countless cities, are
+
+gathered, such hosts as never were summoned before.
+
+A whole world at once is for us.",,,
+363- 364,89,"quidquid signiferī comprēnsum līmite caelī sub Noton et Boreān hominum sumus, arma movēmus",Positive,"Whoever is bounded
+
+by the zodiac to north and south make up our army,",,,
+365 - 368,90,"nōnne superfūsīs collēctum cornibus hostem in medium dabimus? paucās victōria dextrās exigit, at plūrēs tantum clāmōre catervae bella gerent",Positive,"and shall we not encircle the enemy forces, outflank
+
+them with our wings? Victory demands but few to fight,
+
+mere shouting is all the rest of our army requires to do:",,,
+369 - 370,91,crēdite pendentēs ē summīs moenibus urbis crīnibus effūsīs hortārī in proelia mātrēs,Neutral," Imagine Rome’s
+
+mothers leaning with dishevelled hair from the high
+
+walls of the city urging you to battle",,,
+371 - 373,92,crēdite grandaevum vetitumque aetāte senātum arma sequī sacrōs pedibus prōsternere cānōs atque ipsam dominī metuentem occurrere Rōmam,Positive,"imagine those
+
+aged senators prevented from fighting by their years,
+
+bowing their venerable grey heads before you; that
+
+Rome herself fearful of tyranny comes to greet you;",,,
+374 - 376,93,"crēdite quī nunc est populus populumque futūrum permixtās afferre precēs: haec lībera nāscī, haec vult turba morī",Mixed,"imagine that present generations and those to come
+
+both address their prayers to you: the latter desiring
+
+to be born free, the former to die in freedom.",,,
+376 - 379,94,"sī quis post pignora tanta Pompeiō locus est, cum prōle et coniuge supplex, imperiī salvā sī maiestāte licēret, volverer ante pedēs",Neutral," If with
+
+such at stake, there is still room for Pompey, then
+
+with my wife and sons, I would kneel at your feet in
+
+supplication, ",,,
+379 - 382,95,"Magnus, nisi vincitis, exul, lūdibrium socerī, vester pudor, ultima fāta dēprecor ac turpēs extrēmī cardinis annōs, nē discam servīre senex",Mixed,"Except you conquer, Pompey is
+
+exiled, scorned by Caesar, bringing shame on you,
+
+and I pray to escape that final misery, in my closing
+
+years, and not learn, an old man, to bear the yoke.",,,
+382 - 384,96,"’ tam maesta locūtī vōce ducis flagrant animī, Rōmānaque virtūs ērigitur, placuitque morī, sī vēra timēret",,,,,
+387 - 389,97,"hae facient dextrae quidquid nōn explicat aetās ūlla nec hūmānum reparet genus omnibus annīs, ut vacet ā ferrō",,,,,
+389 - 391,98,gentēs Mārs iste futūrās obruet et populōs aevī venientis in orbem ēreptō nātāle feret,,,,,
+391 - 396,99,"tunc omne Latīnum fābula nōmen erit: Gabiōs Veiōsque Coramque pulvere vix tēctae poterunt mōnstrāre ruīnae Albānōsque larēs Laurentīnōsque penātēs, rūs vacuum, quod nōn habitet nisi nocte coāctā invītus questusque Numam iussisse senātor",,,,,
+397 - 399,100,nōn aetās haec carpsit edāx monumentaque rērum putria dēstituit: crīmen cīvīle vidēmus tot vacuās urbēs,,,,,
+399 - 402,101,generis quō turba redācta est hūmānī! tōtō populī quī nāscimur orbe nec mūrōs implēre virīs nec possumus agrōs: urbs nōs ūna capit,,,,,
+402 - 407 ,102,"vīnctō fossōre coluntur Hesperiae segetēs, stat tēctīs putris avītīs in nūllōs ruitūra domus, nūllōque frequentem cīve suō Rōmam sed mundī faece replētam clādis eō dedimus, nē tantō in corpore bellum iam possit cīvīle gerī",,,,,
+419 - 422,103,"quae lātius orbem possēdit, citius per prospera fāta cucurrit? omne tibī bellum gentīs dedit, omnibus annīs tē geminum Tītān prōcēdere vīdit in axem",,,,,
+423 - 425 ,104,"haud multum terrae spatium restābat Eōae ut tibi nox, tibi tōta diēs, tibi curreret aether, omniaque errantēs stēllae Rōmāna vidērent",,,,,
+426 - 427 ,105,sed retrō tua fāta tulit pār omnibus annīs Ēmathiae fūnesta diēs,,,,,
+440 - 443,106,"quid tempora lēgum ēgimus aut annōs ā cōnsule nōmen habentīs? fēlīcēs Ārabēs Mēdīque Eōaque tellūs, quam sub perpetuīs tenuērunt fāta tyrannīs",,,,,
+444 - 445,107,"ex populīs quī rēgna ferunt sors ultima nostra est, quōs servīre pudet",,,,,
+445 - 447 ,108,"sunt nōbīs nūlla profectō nūmina: cum caecō rapiantur saecula cāsū, mentīmur rēgnāre Iovem",,,,,
+455 - 459 ,109,"clādis tamen huius habēmus vindictam, quantam terrīs dare nūmina fās est: bella parēs superīs facient cīvīlia dīvōs, fulminibus mānēs radiīsque ōrnābit et astrīs inque deum templīs iūrābit Rōma per umbrās",,,,,
+460 - 463,110,"ut rapidō cursū fātī suprēma morantem cōnsūmpsēre locum, parvā tellūre dirēmptī, quō sua pīla cadant aut quae sibi fāta minentur inde manūs spectant",Neutral,"When both armies had swiftly crossed the open ground
+
+that lay between them and that final act of destiny, and
+
+were only separated by a little space, each man looked
+
+to see where his javelin might fall,",,,1
+463- 466 ,111,"penitus quō nōscere possent factūrī quae mōnstra forent, vīdēre parentēs frontibus adversīs frāternaque comminus arma, nec libuit mūtāre locum",Negative,"or whose arm fate
+
+might raise to threaten him. There they could see fathers’
+
+and brothers’ faces opposite, weapons at their side, yet
+
+chose to hold position.",,,1
+466 - 469 ,112,"tamen omnia torpor pectora cōnstrīnxit, gelidusque in vīscera sanguis percussā pietāte coit, tōtaeque cohortēs pīla parāta diū tēnsīs tenuēre lacertīs dī tibi nōn mortem, quae cūnctīs poena parātur,",Mixed,"But their blood ran cold, torpor
+
+seized them, numbed at the heart from that blow to all
+
+natural affection, and whole companies grasped their
+
+motionless javelins in a rigid grip.",,,
+470 - 473 ,113,"sed sēnsum post fāta tuae dent, Crāstine, mortī, cuius torta manū commīsit lancea bellum prīmaque Thessaliam Rōmānō sanguine tīnxit",Negative,"And may the gods
+
+grant you, Cratinus, whose spear-blow began the battle,
+
+staining Thessaly with Roman blood, not mere death,
+
+which lies in store for all, but the pains beyond death.",,,
+480 - 484,114,"excēpit resonīs clāmōrem vallibus Haemus Pēliacīsque dedit rūrsus gemināre cavernīs, Pindus agit fremitūs Pangaeaque saxa resultant Oetaeaeque gemunt rūpēs, vōcēsque furōris expāvēre suī tōtā tellūre relātās",Negative,"The Haemus range’s echoing gorges took up the cry
+
+and passed it onwards for Pelion’s caverns to repeat.
+
+Pindus growled, and the Pangaean rocks resounded,
+
+while Oeta’s cliffs bellowed, till all were terrified by
+
+that sound of wild voices returned by Mother Earth.",,,
+485 - 487,115,"spargitur innumerum dīversīs missile vōtīs: vulnera pars optat, pars terrae fīgere tēla ac pūrās servāre manūs",Mixed,"Innumerable spears were thrown, with differing aim;
+
+some hoping to wound, some to bury the spearhead
+
+in the ground and keep their hands unstained
+",,,
+514 - 516 ,116,"tunc et Ityraeī Mēdīque Ārabēsque solūtī, arcū turba mināx, nusquam rēxēre sagittās, sed petitur sōlus quī campīs imminet āēr Inde cadunt mortes.",Negative,"The Ituraeans, Medes and lone Arabs,
+
+formidable with the bow, firing at no specific mark,
+
+aimed only at the sky over the battlefield, and death
+
+rained down,",,,
+517 - 519 ,117,sceleris sed crīmine nūllō externum maculant chalybem: stetit omne coāctum circā pīla nefās,Neutral,"but no guilt stained their foreign steel,
+
+all evil was confined to the Roman javelins. The air
+
+was thick with metal, the gloom of the interweaving
+
+weapons masked the plain.",,,
+489 - 491 ,118,sed quota pars clādis iaculīs ferrōque volantī exācta est! odiīs sōlus cīvīlibus ēnsis sufficit et dextrās Rōmāna in vīscera dūcit,Neutral,"But the least part of that
+
+slaughter was due to the flying metal hurled or fired!
+
+The sword alone could satisfy the civil war’s hatreds,
+
+drawing right hands towards the hearts of Romans.",,,
+492 - 495 ,119,"Pompeiī dēnsīs aciēs stīpāta catervīs iūnxerat in seriem nexīs umbōnibus arma, vixque habitūra locum dextrās ac tēla movendī cōnstiterat gladiōsque suōs compressa timēbat",Negative,"Pompey’s forces packed in close ranks, linked arms,
+
+shield-boss after shield-boss, in an unbroken line;
+
+with barely space where they stood to move hand
+
+or weapon, so crowded they feared their own swords.",,,0
+496 - 498,120,"praecipitī cursū vēsānum Caesaris agmen in dēnsōs agitur cuneōs, perque arma, per hostem quaerit iter",Neutral,"Caesar’s force, with wild and headlong speed, charged
+
+the dense ranks, finding a way through shields and men;
+
+where the woven mail presents its heavy links, where
+
+the breast is protected by the armour, even to the vitals,
+
+all that lies beneath, the blows they delivered penetrated.",,,2
+498- 501,121,"quā torta gravēs lōrīca catēnās oppōnit tūtōque latet sub tegmine pectus, hāc quoque perventum est ad vīscera, totque per arma extrēmum est quod quisque ferit",,,,,
+504 - 505,122,nec Fortūna diū rērum tot pondera vergēns abstulit ingentīs fātō torrente ruīnās,,,,,
+506 - 509,123,"ut prīmum tōtō dīdūxit cornua campō Pompeiānus eques bellīque per ultima fūdit, sparsa per extrēmōs levis armātūra maniplōs īnsequitur saevāsque manūs immittit in hostem",Neutral,"When Pompey’s two cavalry wings extended their arc
+
+over the plain beyond the flanks of infantry, his light
+
+troops pushed on in loose order into the opposing men,
+
+and launched fierce attacks against Caesar’s front ranks.",,,1
+510 - 513,124,"illīc quaeque suō miscet gēns proelia tēlō, Rōmānus cūnctīs petitur cruor: inde sagittae, inde facēs et saxa volant spatiōque solūtae āeris et calidō liquefactae pondere glandēs",Neutral,"Each soldier wielded his usual weapons, all alike after
+
+Roman blood, with flights of arrows, brands and stones,
+
+and weighted bullets melted and fused by their passage.",,,2
+521- 524,125,"cum Caesar, metuēns nē frōns sibi prīma labāret incursū, tenet oblīquās post signa cohortēs, inque latus bellī, quā sē vagus hostis agēbat, ēmittit subitum nōn mōtīs cornibus agmen",Negative,"But Caesar, fearing his vanguard might be broken, sent
+
+the cohorts in reserve, positioned at an angle to his lines
+
+behind the standards, into attack, while the wings waited,
+
+against that part of the battlefield where all was in chaos.",,,1
+525 - 527 ,126,immemorēs pugnae nūllōque pudōre timendī praecipitēs fēcēre palam cīvīlia bella nōn bene barbaricīs umquam commissa catervīs,Negative,"Pompey’s cavalry fled headlong, in shameless cowardice,
+
+showing the folly of entrusting civil conflict to barbarians.
+",,,0
+528 - 531,127,"ut prīmum sonipēs trānsfīxus pectora ferrō in caput effūsī calcāvit membra regentis, omnis eques cessit campīs, glomerātaque nūbēs in sua conversīs praeceps ruit agmina frēnīs",Neutral,"As the first warhorse, pierced in the chest, threw its rider
+
+headlong and trampled on his body, the rest fled the field,
+
+their horses charging, a dense mass, into their own ranks.
+
+",,,2
+532 - 533,128,"perdidit inde modum caedēs, ac nūlla secūta est pugna, sed hinc iugulīs, hinc ferrō bella geruntur",Negative,"Countless deaths ensued, a slaughter not a battle, as here
+
+the steel blades waged war, and there the throats were cut.",,"(CP) this is one of those cases where it's hard to figure out if the author is simply stating a fact or creating an emotional response, but I think it's safe to assume it's a negative connotation.  ",2
+535 - 537 ,129,"utinam, Pharsālia, campīs sufficiat cruor iste tuīs quem barbara fundunt pector",Neutral,"Would that Pharsalia’s plain might have been content
+
+with the blood of foreigners, theirs the gore that stained
+
+her springs, ",,,1
+539 - 543 ,130,"aut, sī Rōmānō complērī sanguine māvīs, istīs parce, precor: vīvant Galataeque Syrīque, Cappadocēs Gallīque extrēmīque orbis Hibērī, Armeniī, Cilicēs, nam post cīvīlia bella hic populus Rōmānus erit",Positive,"Or that, desiring to be glutted with Roman blood, she
+
+might spare Galatian lives, and those of the Syrians,
+
+Cappadocians, Gauls, Iberians from afar, Armenians
+
+Cilicians, for when the war was ended these would
+
+form the Roman people.",,,1
+543 - 544,131,"semel ortus in omnīs it timor, et fātīs datus est prō Caesare cursus",Negative,"Panic, now spread to all
+
+Pompey’s force, and fate declared itself for Caesar.",,,
+546 - 547 ,132,"quod tōtōs errōre vagō perfūderat agrōs cōnstitit hīc bellum, fortūnaque Caesaris haesit",Mixed,"The fight which had raged at random over the whole field
+
+was here concentrated, and fortune checked Caesar’s attack.",,"(CP) this seems mixed - fortuna suggests positive, errore vago and bellum suggest negative",1
+548 - 549 ,133,nōn illīc rēgum auxiliīs collēcta iuventūs bella gerit ferrumque manūs mōvēre rogātae,Negative,"Those who plied arms and waged war there were not men
+
+drawn as auxiliaries from foreign armies; here men faced
+
+fathers and brothers.",,There is a sense of despair as the indivduals are being forced to fight their own people there is a sense of deep regret that is felt through having to fight against ones own people. ,
+552 - 554,134,"hanc fuge, mēns, partem bellī tenebrīsque relinque, nūllaque tantōrum discat mē vāte malōrum quam multum bellīs liceat cīvīlibus aetās",Negative,"Would that my mind might
+
+shun these acts of war, give them to darkness, that no age
+
+might learn from me, in verse, of such horrors, or the full
+
+depths of civil conflict.",,"(CP) i think this is negative. the lexicon is quite telling and the desire to forget does not express hope, but the lack of choice in this circumstance",1
+557 - 559 ,135,"hīc Caesar, rabiēs populīs stimulusque furōrum, nē quā parte suī pereat scelus, agmina circum it vagus atque ignēs animīs flagrantibus addit",Negative,"For Caesar, rousing his soldiers’ madness and fury, went
+
+here and there among the lines, adding fire to their burning
+
+ardour, so that nowhere was free of guilt",,,2
+560 - 565,136,"īnspicit et gladiōs, quī tōtī sanguine mānent, quī niteant prīmō tantum mucrōne cruentī, quae pressō tremat ēnse manus, quis languida tēla, quis contenta ferat, quis praestet bella iubentī, quem pugnāre iuvet, quis vultum cīve perēmptō mūtet",Negative," He noted whose
+
+blade was all blood, whose glittered with only its tip red,
+
+whose sword-hand trembled, whose grip on his spear was
+
+firm, whose was slack, who delighted in warfare, and who
+
+merely obeyed orders, whose countenance changed when
+
+he killed a countryman",,Lucan is clearly communicating that there was no positive soilder in this war. There were those being forced to simply obey and then those who were enjoying killing - regardless there is not a positive to either type of soilder,1
+567 - 571,137,"quācumque vagātur, sanguineum velutī quatiēns Bellōna flagellum Bistonas aut Māvors agitāns sī verbere saevō Palladiā stimulet turbātōs aegide currūs, nox ingēns scelerum est",Neutral,"Like Bellona brandishing the blood-stained scourge, or
+
+like Mars urging on the Bistones, lashing his horses with
+
+savage blows as they run in fear of Pallas and her aegis,
+
+",,,1
+571 - 573,138,"caedēs oriuntur et īnstar immēnsae vōcis gemitūs, et pondere lāpsī pectoris arma sonant cōnfrāctīque ēnsibus ēnsēs",Negative," so wherever Caesar goes darkness of crime and slaughter
+
+loom, groaning of great voices, heavy sounds of armour
+
+falling, and the blows of steel against steel. ",,"(CP) I think the translation is suggesting a sentiment that is not as clear in the Latin. The lexicon is much more negative in english, and there is a ton of addition of detail that is not even in the original. This is still negative because of caedes and gemitus, but pay attention to this because there is no equivalent to darkness, crime or slaughter in Latin (caedes is not as charged) ",1
+574 - 575 ,139,ipse manū subicit gladiōs ac tēla ministrat adversōsque iubet ferrō cōnfundere vultūs,Negative,"His the hands
+
+that grant fresh blades, new missiles, commanding that
+
+they hack with swords the faces of the foe. ",,,2
+576 - 577 ,140,"prōmovet ipse aciēs, impellit terga suōrum, verbere conversae cessantīs excitat hastae",Neutral,"He himself
+
+leads the advance and, urging on the stragglers, rouses
+
+the laggards with blows from the butt-end of his spear.",,,1
+578 - 581,141,"in plēbem vetat īre manūs mōnstratque senātum: scit cruor imperiī quī sit, quae vīscera rērum, unde petat Rōmam, lībertās ultima mundī quō steterit ferienda locō",Negative,"Telling them to spare the rank and file, he points out
+
+to them the senators, knowing the arteries of the state,
+
+the heart of power, how to strike at Rome, and where
+
+Liberty might be wounded, making her last stand here.",,,2
+581 - 585,142,"permixta secundō ōrdine nōbilitās venerandaque corpora ferrō urguentur: caedunt Lepidōs caeduntque Metellōs Corvīnōsque simul Torquātaque nōmina, rērum saepe ducēs summōsque hominum tē, Magne, remōtō",Neutral,"Senators, knights and noblemen are put to the sword;
+
+The Lepidi and Metelli are slain, the Corvini, the house
+
+of Torquatus, once leaders of the state, ruling all men
+
+Pompey, except only you.",,seems to be descriptive ,2
+593 - 595,143,"nōndum attigit arcem, iūris et hūmānī columen quō cūncta premuntur ēgressus meruit fātīs tam nōbile lētum",Positive,"To aim at Caesar’s life
+
+is useless here: he has not reached the summit yet, not
+
+risen far enough beyond those lawful heights of human
+
+power that constrain all, to earn of fate so noble a death.
+",,,
+597 - 598,144,hīc patriae perit omne decus: iacet aggere magnō patricium campīs nōn mixtā plēbe cadāver,Negative,"There all the glory of our country perished: a great pile
+
+of noble corpses, unmixed with common soldiers lay
+
+there on that field. ",,,0
+599 - 601,145,"mors tamen ēminuit clārōrum in strāge virōrum pugnācis Domitī, quem clādēs fāta per omnīs dūcēbant",Mixed,"Yet one death was most noteworthy
+
+in that carnage, that of Domitius, the stubborn warrior,
+
+whom fate led from defeat to defeat",,While at first inspection I felt that the sentiment of this senentece was negative there seems to be glory established.,1
+602 - 604 ,146,vīctus totiēns ā Caesare salvā lībertāte perit: tunc mīlle in vulnera laetus lābitur ac veniā gaudet caruisse secundā,Mixed,"Conquered so often by Caesar,
+
+still he died here without loss of his liberty.Thus he fell
+
+to a host of wounds, glad not to suffer a second pardon.",,Even though he faced defeat and death he died with his freedom in tact. ,2
+605 - 607 ,147,"vīderat in crassō versantem sanguine membra Caesar, et increpitāns ‘iam Magnī dēseris arma, successor Domitī",Negative,"Caesar found him weltering in a pool of blood, taunting
+
+him: ‘Domitius, my successor in Gaul, now you desert
+
+Pompey’s cause",,,2
+608 - 613 ,148,"ast illī suffēcit pectora pulsāns spīritus in vōcem morientiaque ōra resolvit: ‘nōn tē fūnestā scelerum mercēde potītum sed dubium fātī, Caesar, generōque minōrem aspiciēns Stygiās Magnō duce līber ad umbrās et sēcūrus eō",Positive,"So he spoke, but the courage still beating in Domitius’
+
+breast sufficed for speech; in dying he opened his lips:
+
+‘The fatal reward for your crimes, is not yet yours,
+
+Caesar! Knowing your fate is undecided, and your
+
+inferiority to your son-in-law, I go free, untroubled,
+
+to the Stygian shades, with Pompey still my leader.",,This sentence is interesting. The indivdial is dying but he is dying without fear and with courage. This seems to be a death with glory being added to the indivduals cause. This leads me to classify the sentence as positive. ,
+613 - 615 ,149,"tē saevō Mārte subāctum Pompeiōque gravīs poenās nōbīsque datūrum, cum moriar, spērāre licet",Negative,"Though I die, I yet can hope that you, submerged
+
+by savage conflict, will pay Pompey and myself
+
+a heavy reckoning.’",,Since this falls in the context of a curse the sentence is negative. ,1
+617 - 622 ,150,"impendisse pudet lacrimās in fūnere mundī mortibus innumerīs, ac singula fāta sequentem quaerere lētiferum per cuius vīscera vulnus exierit, quis fūsa solō vītālia calcet, ōre quis adversō dēmissum faucibus ēnsem expulerit moriēns animā",Negative,"When a whole world died there, it seems shameful
+
+to spend tears on each of the innumerable dead,
+
+follow individual fates to ask whose vital organs
+
+the death-dealing sword penetrated, who trampled
+
+on his own bloody entrails, who facing his enemy
+
+pulled the buried blade from his own throat, with
+
+his last gasp, in dying. ",,,2
+625 - 626,151,quis cruor ēmissīs perrūperit āera vēnīs inque hostis cadat arma suī,Neutral,"some fell on the enemy weapons, spouting blood
+
+from their veins;",,While violent there does not seem to be a negative sentiment attached here. ,1
+626 - 630,152,"quis pectora frātris caedat et, ut nōtum possit spoliāre cadāver, abscīsum longē mittat caput, ōra parentis quis laceret nimiāque probet spectantibus īrā quem iugulat nōn esse patrem",Negative," one stabbed his brother’s breast,
+
+then to spoil the body of his kin, severed the head
+
+and flung it far off; while another slashed at his
+
+father’s face, trying in wild fury to show those
+
+looking-on the man he slew was not his father.
+",,,
+632 - 634,153,"nōn istās habuit pugnae Pharsālia partēs quās aliae clādēs: illīc per fāta virōrum, per populōs hīc Rōma perit",Negative," This
+
+battle of Pharsalia was different than all other
+
+disasters: Rome suffered many deaths elsewhere,
+
+here Rome perished in the deaths of nations;",,,
+638 - 641,154,"maius ab hāc aciē quam quod sua saecula ferrent vulnus habent populī, plūs est quam vīta salūsque quod perit: in tōtum mundī prōsternimur aevum, vincitur hīs gladiīs omnis quae serviet aetās",Negative,"The nations in this conflict were dealt
+
+a wound too heavy for their age alone to bear;
+
+here more than simply life and limb it was that
+
+perished: we were laid low for centuries, all
+
+generations doomed to slavery were conquered
+
+by those swords.",,,
+642 - 645,155,proxima quid subolēs aut quid meruēre nepōtēs in rēgnum nāscī? pavidē num gessimus arma tēximus aut iugulōs? aliēnī poena timōris in nostrā cervīce sedet,Negative,"What fault did we, their sons,
+
+their grandsons, commit that we deserved to be
+
+born under tyranny? Did we fight fearfully or
+
+shield our throats from the sword? The guilt
+
+for others’ cowardice is pinned to our necks.",,,
+647 - 649,156,"iam Magnus trānsīsse deōs Rōmānaque fāta sēnserat īnfēlīx, tōtā vix clāde coāctus fortūnam damnāre suam",Negative,"By now, wretched Pompey had realised the god’s
+
+no longer favoured him, nor was the fate of Rome
+
+in his hands, compelled against his will by such
+
+disaster to despair of his fortunes.",,,0
+649 - 651,157,"stetit aggere campī, ēminus unde omnīs sparsās per Thessala rūra aspiceret clādēs quae bellō obstante latēbant",Negative,"He stood far off
+
+on rising ground, from where he saw the carnage
+
+grip a Thessaly darkened by the clouds of battle.",,,1
+652 - 653,158,"tot tēlīs sua fāta petī, tot corpora fūsa ac sē tam multō pereuntem sanguine vīdit",Negative,"He saw the missiles aimed towards him, the piles
+
+of corpses, his own end presaged by all that blood.",,,1
+654 - 655,159,"nec, sīcut mōs est miserīs, trahere omnia sēcum mersa iuvat gentēsque suae miscēre ruīnae",Negative,"Yet he did not delight, as the wretched so often do,
+
+in drawing the whole world to destruction with him,
+
+and involving all mankind in his ruin.",,,1
+656 - 659,160,"ut Latiae post sē vīvat pars maxima turbae sustinuit dignōs etiamnunc crēdere vōtīs caelicolās vōvitque, suī sōlācia cāsūs: ‘parcite,’ ait ‘superī, cūnctās prōsternere gentēs",Mixed,"He still saw
+
+the gods as deserving of his prayer that the majority
+
+of Romans might survive him, a solace to him in
+
+his downfall. ‘Refrain, you gods,’ he cried, ‘from
+
+the destruction of the nations. ",,"Given the criteria that we established for dealing with prayers, I fell that this sentence should be mixed. His plea does not necessarily feel as if it is rooted in fear but the argument can be made that he is fearful for the future of Rome and that is the emotion leading to his prayer. ",0
+663 - 666,161,"cīvīlīne parum est bellō, sī mēque meōsque obruit? exiguae clādēs sumus orbe remōtō? omnia quid lacerās? quid perdere cūncta labōrās? iam nihil est, Fortūna, meum",Negative,"Is it not enough
+
+that this civil war has destroyed me and mine. Is all
+
+the world’s destruction insufficient? Why lacerate
+
+all things? Why work at universal destruction? Now,
+
+nothing of mine is left me, Fortune.’",,,
+666 - 669 ,162,’ sīc fātur et arma signaque et afflīctās omnī iam parte catervās circumit et revocat mātūra in fāta ruentīs sēque negat tantī,Positive,"So saying, he
+
+then rode through the shattered ranks, all amongst
+
+the troops, rallying them to the standards, halting
+
+their flight to imminent death, saying he was not
+
+worthy of their sacrifice",,,0
+669 - 672,163,"nec dērat rōbur in ēnsēs īre ducī iugulōque patī vel pectore lētum, sed timuit, strātō mīles nē corpore Magnī nōn fugeret, suprāque ducem prōcumberet orbis",Mixed," He had no fear of facing
+
+those enemy swords, offering his chest or throat
+
+to the fatal blow; but dreading lest if he was killed
+
+his men might refuse to flee, and a whole world
+
+be heaped above his corpse",,This sentence begins with a positive senteiment as he is content with dying for his cause. ,
+675 - 677,164,"sed tū quoque, coniūnx, causa fugae vultūsque tuī, fātīsque negātum parte absente morī",Positive,"But you,
+
+his wife, and your beloved face, are a further
+
+cause for flight, the fates decreeing that he shall
+
+not die with his better part absent.",,,1
+677 - 679 ,165,tum Magnum concitus aufert ā bellō sonipēs nōn tergō tēla paventem ingentīsque animōs extrēma in fāta ferentem,Positive,"Thus Pompey
+
+rode swiftly from the field, oblivious to the spears
+
+around him, passing with high courage to his final
+
+doom, ",,The sentence appears negative but it is a sentence of glory and riding to death without fear - therfore the sentence gets classified as positive. This sentence is similar to sentence 148.,2
+680 - 682,166,"nōn gemitus, nōn flētus erat, salvāque verendus maiestāte dolor, quālem tē, Magne, decēbat Rōmānīs praestāre malīs",Positive,"without groans or tears, only a noble sorrow
+
+filled with respect, as it was right for you to show
+
+towards Rome’s ills, Pompey.",,,2
+682 - 684 ,167,nōn impare vultū aspicis Ēmathiam: nec tē vīdēre superbum prospera bellōrum nec frāctum adversa vidēbunt,Positive,"With unchanged face
+
+you gazed on Pharsalia: victory in war never saw
+
+you arrogant, nor defeat downhearted, ",,,0
+685 - 686,168,quamque fuit laetō per trēs īnfīda triumphōs tam miserō Fortūna minor,Positive,"as superior
+
+in your fall to faithless Fortune as you were when
+
+delighting in your triumphs",,The primary emotion that is being conveyed in this sentence is pride and joy at a leader who remained true to himself. ,
+686 - 689,169,"iam pondere fātī dēpositō sēcūrus abīs, nunc tempora laeta respexisse vacat, spēs numquam implenda recessit, quid fueris nunc scīre licet",Positive," Now Pompey goes
+
+along released from care, free of the burden of fate;
+
+now he can reflect on happier times; his unfulfilled
+
+hopes receding, now he can dwell on what he was.",,,
+689 - 691,170,"fuge proelia dīra ac testāre deōs nūllum quī perstet in armīs iam tibi, Magne, morī",Neutral,"Flee from the fatal conflict, and summon the gods
+
+to witness, Pompey, none who fight on die for you.",,,
+691 - 696,171,"ceu flēbilis Āfrica damnīs et ceu Munda nocēns Phariōque ā gurgite clādēs, sīc et Thessalicae post tē pars maxima pugnae nōn iam Pompeiī nōmen populāre per orbem nec studium bellī, sed pār quod semper habēmus, lībertās et Caesar, erit",Negative,"As in the later sad losses in Africa, as in the disaster
+
+at Munda, and the slaughter by the Nile, most of
+
+the fighting after Pharsalia and your flight, Pompey,
+
+indicated not the world’s support for Pompey, nor
+
+a passion for war, but was what we see endlessly,
+
+the battle between power and freedom.",,,
+698 - 701,172,"nōnne iuvat pulsum bellīs cessisse nec istud perspectāsse nefās? spūmantēs caede catervās respice, turbātōs incursū sanguinis amnēs, et socerī miserēre tuī",Mixed,"Was it not joy to you, Pompey, to have desisted
+
+in defeat from war, and not to have witnessed
+
+the final horror?Look back at the ranks drowned
+
+in death, the rivers turbid with the flow of blood,
+
+and pity Caesar.",,,
+701 - 706,173,"quō pectore Rōmam intrābit factus campīs fēlīcior istīs? quidquid in ignōtīs sōlus regiōnibus exul, quidquid sub Phariō positus patiēre tyrannō, crēde deīs, longō fātōrum crēde favōrī, vincere peius erat",Negative,"With what feelings will he enter
+
+Rome, owing his power to such a battle as this?
+
+Whatever you had yet to suffer, exiled and alone,
+
+in foreign lands, whatever you had to endure from
+
+a tyrant Pharaoh, believe the word of the gods, and
+
+fortune that long favoured you, victory was worse.",,This sentence is difficult due to the end of the sentence apearing to have a twist. That twist being that the other fate would have been worse. Despite this I chose to classify the sentence as negative.,
+709 - 711,174,"aspice sēcūrus vultū nōn supplice rēgēs, aspice possessās urbēs dōnātaque rēgna, Aegypton Libyamque, et terrās ēlige mortī",Negative,"No suppliant, gaze calmly on kings, gaze on the cities
+
+you seized, the thrones of Egypt and Libya you gave,
+
+and choose a place to die.",,,
+712 - 713,175,vīdit prīma tuae testis Lārīsa ruīnae nōbile nec vīctum fātīs caput,Neutral," Larissa first witnessed your
+
+fallen greatness, and that noble head unbowed by fate.",,,
+713 - 716,176,"omnibus illa cīvibus effūdit tōtās per moenia vīrēs obvia ceu laetō: prōmittunt mūnera flentēs, pandunt templa, domōs, sociōs sē clādibus optant",Mixed,"She poured out all her citizens through her gates, met
+
+Pompey with all her people like a victor; with weeping,
+
+promised him gifts; opened their homes and temples
+
+to him, begging to share in his disaster.",,,
+717 - 719,177,"scīlicet immēnsō superest ex nōmine multum, tēque minor sōlō cūnctās impellere gentēs rūrsus in arma potes rūrsusque in fāta redīre",Neutral,"In fact, much
+
+of his vast authority remained and, all being inferior
+
+to him except his former self, he might have roused
+
+the nations again to arms, once again tempted fate.",,,
+720 - 721,178,"sed ‘quid opus vīctō populīs aut urbibus?’ inquit, ‘victōrī praestāte fidem",Negative,"Yet: ‘What use have the defeated for cities or nations,’
+
+he cried, ‘offer your loyalty to the victor!’",,,
+721 - 723,179,"’ tū, Caesar, in altō caedis adhūc cumulō patriae per vīscera vādis, at tibi iam populōs dōnat gener",Negative,"You, Caesar,
+
+were still trampling the life out of your country, wading
+
+through corpses piled high, while your son-in-law was
+
+granting you whole nations as a gift.",,,
+726 - 727,180,"nunc tibi vēra fidēs quaesītī, Magne, favōris contigit ac frūctus: fēlīx sē nescit amārī",Mixed,"That day was proof, Pompey, of the affection you enjoyed,
+
+and of its fruits: for the victor never knows if he is loved.",,,
+728 - 731,181,"Caesar, ut Hesperiō vīdit satis arva natāre sanguine, parcendum ferrō manibusque suōrum iam ratus, ut vīlēs animās peritūraque frūstrā agmina permīsit vītae",Negative,"When Caesar thought the battlefield drenched enough in
+
+Roman blood, he curbed the swords in soldiers’ hands,
+
+granting their lives to those abject souls in the ranks
+
+whose death would serve no purpose.",,,
+731 - 736,182,"sed, castra fugātōs nē revocent pellatque quiēs nocturna pavōrem, prōtinus hostīlī statuit succēdere vāllō, dum fortūna calet, dum cōnficit omnia terror, nōn veritus grave nē fessīs aut Mārte subāctīs hoc foret imperium",Negative,"But fearing they
+
+might still rally to their opposing camp, and their fear
+
+be quelled by a night’s rest, he chose to advance on
+
+the enemy ramparts, striking while the iron was hot
+
+and terror gripped the foe.He felt no fear that this
+
+order of his would tire his battle-hardened troops",,,
+736 - 739,183,"nōn magnō hortāmine mīles in praedam dūcendus erat: ‘victōria nōbīs plēna, virī,’ dīxit, ‘superest prō sanguine mercēs, quam mōnstrāre meum est",Positive,".The soldiers needed little exhortation to be led
+
+towards the spoils.‘The victory is complete, lads,’
+
+he cried, ‘all that remains is the repayment for all
+
+our blood they shed, that is for me to point you to;",,The sentence is positive due to the completion of the war and the sense of getting what is owed to the soilders.,1
+741 - 742,184,raptum Hesperiīs ē gentibus aurum hīc iacet Ēōāsque premunt tentōria gāzās,Positive,"Before you lies their camp and a wealth
+
+of precious metal; all the gold stolen from the West
+
+is there, tents crammed with the treasure of the East.",,,
+746- 749,185,’ nec plūra locūtus impulit āmentēs aurīque cupīdine caecōs īre super gladiōs suprāque cadāvera patrum et caesōs calcāre ducēs,,,,,
+749 - 751,186,"quae fossa, quis agger sustineat pretium bellī scelerumque petentīs? scīre ruunt quantā fuerint mercēde nocentēs",Negative," What ditch
+
+or rampart could impede his men, seeking the spoils
+
+of war and wickedness?They rushed off to discover
+
+the wages of their sin",,,
+752 - 756,187,"invēnēre quidem spoliātō plūrima mundō bellōrum in sūmptūs congestae pondera massae, sed nōn implēbit cupientīs omnia mentēs quidquid fōdit Hibēr, quidquid Tagus expulit aurī, quod lēgit dīves summīs Arimaspus harēnīs",Negative,"finding indeed many a weighty
+
+mass torn from a plundered world, against the costs
+
+of war; but not enough to satisfy their greedy minds. Though they had seized what Spain mines or Tagus
+
+yields, or rich Arimaspians gather from the surface
+
+of Scythian sands",,The sentence is painting the indivduals in a negative light. ,
+758 - 760 ,188,"cum sibi Tarpeiās victor dēsponderit arcēs, cum spē Rōmānae prōmīserit omnia praedae, dēcipitur quod castra rapit",Negative,"They’d promised all in hopes
+
+of plundering Rome, expecting the Tarpeian citadel
+
+would fall to the victor, these men who now pillaged
+
+a mere camp! ",,,
+760 - 763,189,"capit impia plēbes caespite patriciō somnōs, strātumque cubīle rēgibus īnfandus mīles premit, inque parentum inque torīs frātrum posuērunt membra nocentēs",Negative,"Impious soldiers slept on turf piled high
+
+for patricians, blood-stained commoners lay on beds
+
+fit for kings, and the guilty rested their bodies where
+
+fathers and brothers had lain. ",,,
+764 - 765,190,"quōs agitat vēsāna quiēs, somnīque furentēs Thessalicam miserīs versant in pectore pugnam",Negative,"But nightmares troubled
+
+their sleep, frenzied images of the battlefield disturbed
+
+their tormented minds. ",,,
+766 - 767,191,"invigilat cūnctīs saevum scelus, armaque tōtā mente agitant, capulōque manūs absente moventur",Negative,"The guilt for their savage crimes
+
+awake in every heart, their minds were still absorbed
+
+by war, their restless hands grasping at absent swords.",,,
+768 - 770,192,"ingemuisse putem campōs, terramque nocentem īnspīrāsse animās, īnfectumque āera tōtum mānibus et superam Stygiā formīdine noctem",Negative,"I can well believe the land groaned, the guilty earth
+
+breathed forth spirits, the air was thick with ghosts,
+
+night in the upper world full of the terrors of hell.",,,
+771 - 772,193,"exigit ā meritīs trīstēs victōria poenās, sībilaque et flammās īnfert sopor",Negative,"Their victory rightly demands a grim retribution,
+
+sleep bringing them flames and the serpents’ hiss.",,Feelings of regret plague the soilders showing distaste towards the war.,
+772 - 776,194,"umbra perēmptī cīvis adest, sua quemque premit terrōris imāgō: ille senum vultūs, iuvenum videt ille figūrās, hunc agitant tōtīs frāterna cadāvera somnīs, pectore in hōc pater est — omnēs in Caesare mānēs",Negative,"The shades of dead countrymen stand beside them;
+
+each man has his own shape of terror to haunt him:
+
+one sees an old man’s face, another that of youth,
+
+one is troubled all night by his brother’s corpse,
+
+while a father’s ghost weighs on another’s breast,
+
+and every phantom invaded Caesar’s dreams.",,,
+777 - 780,195,"haud aliōs nōndum Scythicā pūrgātus in ārā Eumenidum vīdit vultūs Pelopēus Orestēs, nec magis attonitōs animī sēnsēre tumultūs cum fureret Penthēus aut cum dēsīsset Agāvē",Negative,"So Pelopean Orestes gazed on the Furies’ faces,
+
+before he had been cleansed at the Scythian altar.
+
+Neither Pentheus raving nor Agave newly sane
+
+were subject to greater horror or mental turmoil.
+",,,
+781 - 783,196,"hunc omnēs gladiī quōs aut Pharsālia vīdit aut ultrīx vīsūra diēs stringente senātū illā nocte premunt, hunc īnfera mōnstra flagellant",Negative,"That night, all those swords Pharsalia saw, all those
+
+the day of vengeance would see drawn by senators,
+
+were aimed at him; that night, the monsters of hell
+
+scourged him.",,,
+784 - 789,197,"et quantum poenae miserō mēns cōnscia dōnat, quod Styga, quod mānēs ingestaque Tartara somnīs Pompeiō vīvente videt! tamen omnia passō, postquam clāra diēs Pharsālica damna retēxit, nūlla locī faciēs revocat fērālibus arvīs haerentīs oculōs",Negative,"Yet how much that guilty conscience
+
+of his could not yet punish, since Pompey still lived
+
+when Caesar viewed the ghosts of the Styx, and all
+
+of Hell, invading his sleep! All this he experienced,
+
+yet when the clear light of day revealed Pharsalia’s
+
+slaughter no feature of the land could drag his eyes
+
+from that fatal field, and he gazed his fill on rivers
+
+running with blood, and mighty mounds of corpses.",,,
+789 - 794,198,"cernit prōpulsa cruōre flūmina et excelsōs cumulīs aequantia collēs corpora, sīdentīs in tābem spectat acervōs et Magnī numerat populōs, epulīsque parātur ille locus, vultūs ex quō faciēsque iacentum agnōscat",Negative,"He beheld the heaps of bodies sliding to corruption,
+
+counted nations of dead who had followed Pompey,
+
+while a place was prepared for his meal, from which
+
+he might study the faces and features of those corpses.",,,
+794 - 795,199,iuvat Ēmathiam nōn cernere terram et lūstrāre oculīs campōs sub clāde latentēs,Mixed,"He rejoiced that the soil of Emathia was hidden from
+
+view, the plain his eyes gazed on shrouded by corpses.",,,
+797 - 799,200,"ac, nē laeta furēns scelerum spectācula perdat, invidet igne rogī miserīs, caelōque nocentī ingerit Ēmathiam",Negative,"And loath to lose, in his madness,
+
+the spectacle of that crime, he refused the wretched
+
+dead a pyre and forced Emathia on a guilty heaven.",,,
+799 - 803,201,"nōn illum Poenus humātor cōnsulis et Libycā succēnsae lampade Cannae compellunt hominum rītūs ut servet in hoste, sed meminit nōndum satiātā caedibus īrā cīvēs esse suōs",Negative,"Cannae was lit by Libyan torches when Hannibal
+
+buried Aemilius Paullus, but that example did not
+
+serve to prompt Caesar to show humanity to his foe,
+
+for his anger was not yet sated by slaughter against
+
+these who he knew were his own countrymen.",,,1
+806- 808,202,"aut, generī sī poena iuvat, nemus exstrue Pindī, ērige congestās Oetaeō rōbore silvās, Thessalicam videat Pompeius ab aequore flammam",Neutral,"or if he had wished to punish his son-in-law, Caesar
+
+might have heaped up Pindus’ timber and piled high
+
+the oaks from Oeta’s forests, for Pompey, aboard
+
+his ship, to view Pharsalia in flames.",,,0
+809 - 811,203,"tābēsne cadāvera solvat an rogus, haud rēfert: placidō nātūra receptat cūncta sinū, fīnemque suī sibi corpora dēbent",Positive,"Still, such
+
+anger achieved nothing; it mattered not whether
+
+fire or putrefaction dissolved those corpses; nature
+
+receives all in her gentle arms, and the dead grant
+
+themselves their own end.",,,0
+812 - 813,204,"hōs, Caesar, populōs sī nunc nōn usserit ignis, ūret cum terrīs, ūret cum gurgite pontī",Neutral,"If the flames do not take
+
+them now, they will consume them with the earth
+
+and the ocean waters later, ",,,0
+816 - 818,205,"nōn altius ībis in aurās, nōn meliōre locō Stygiā sub nocte iacēbis: lībera Fortūnae mors est",Positive,"nor seize a higher place
+
+in Stygian darkness.The dead are free from fate;",,,0
+818 - 819 ,206,"capit omnia tellūs quae genuit, caelō tegitur quī nōn habet urnam",Neutral,"earth takes back all she bears; he who has no urn
+
+has the sky to cover him.",,,0
+820 - 822,207,"tū, cui dant poenās inhumātō fūnere gentēs, quid fugis hanc clādem? quid olentīs dēseris agrōs? hās trahe, Caesar, aquās, hōc, sī potes, ūtere caelō",Negative,"You, who punish these
+
+soldiers by denying them burial, why should you
+
+flee this carnage, or desert these stinking fields?Drink the water, Caesar; breathe the air if you can.",,,0
+823 - 824,208,sed tibi tābentēs populī Pharsālica rūra ēripiunt campōsque tenent victōre fugātō,Neutral,"For the men who decompose there have snatched
+
+Pharsalia from you, routed the victor, hold the field.",,,0
+825 - 827 ,209,"nōn sōlum Haemoniī fūnesta ad pābula bellī, Bistoniī vēnēre lupī tābemque cruentae caedis odōrātī Pholoēn līquēre leōnēs",Neutral,"Not only Bistonian wolves were drawn to the dark
+
+feast Pharsalia offered, but lions too from Pholoe,
+
+scenting the rotting corpses",,,0
+828 - 830 ,210,"tunc ursae latebrās, obscēnī tēcta domōsque dēseruēre canēs, et quidquid nāre sagācī āera nōn sānum mōtumque cadāvere sentit",Negative,"Bears left their dens
+
+and vile dogs came from the villages, every beast
+
+that scents foul air tainted by the smell of corruption.
+",,,0
+832 - 834 ,211,"vōs, quae Nīlō mūtāre solētis Thrēiciās hiemēs, ad mollem sērius Austrum īstis, avēs",Neutral,"Cranes that migrate
+
+to the Nile in Thracian winter delayed their flight
+
+to the warm south.",,,0
+834 - 835,212,numquam tantō sē vulture caelum induit aut plūrēs pressērunt āera pinnae,Negative,"Never did the sky so shroud itself
+
+with vultures nor a greater host of wings beat the air.",,,0
+836 - 837 ,213,omne nemus mīsit volucrēs omnisque cruentā ālite sanguineīs stillāvit rōribus arbor,Negative,"Every tree sent its birds, and their branches dripped
+
+with crimson dew from those blood-stained feathers.",,,0
+838 - 840 ,214,saepe super vultūs victōris et impia signa aut cruor aut altō dēflūxit ab aethere tābēs membraque dēiēcit iam lassīs unguibus āles,Negative,"When the birds grew weary and dropped dead meat
+
+from their talons, rotting flesh and drops of blood
+
+fell on the victor’s face and his accursed standards.
+",,,0
+841 - 844,215,"sīc quoque nōn omnis populus pervēnit ad ossa inque ferās discerptus abit: nōn intima cūrant vīscera nec tōtās avidae sorbēre medullās, dēgustant artūs",Negative,"That host of dead were not all picked to the bones
+
+nor wholly devoured by those predatory creatures;
+
+for though eating the limbs they ignored the vital
+
+organs, not desirous of prying at the bone-marrow.",,,0
+844 - 846 ,216,"Latiae pars maxima turbae fastīdīta iacet, quam sōl nimbīque diēsque longior Ēmathiīs resolūtam miscuit arvīs",Neutral,"A greater part of the host they left to lie untouched;
+
+corpses days of sun and rain dissolved, blending
+
+them with the soil of Emathia.",,,0
+855 - 857 ,217,"omnia maiōrum vertāmus busta licēbit, et stantīs tumulōs et quī rādīce vetustā effūdēre suās vīctīs compāgibus urnās",Neutral,"Though we should empty the tombs of our ancestors,
+
+those that still stand and those split by ancient roots
+
+whose urns are broken,",,,0
+858 - 859 ,218,plūs cinerum Haemoniae sulcīs tellūris arātur plūraque rūricolīs feriuntur dentibus ossa,Neutral,"those ploughs of Thessaly
+
+will turn up a greater heap of relics from the furrow,
+
+and the harrows that till the fields strike still more.",,,0
+870 - 872,219,"quid tōtum premitis, quid tōtum absolvitis orbem? Hesperiae clādēs et flēbilis unda Pachȳnī et Mutina et Leucas pūrōs fēcēre Philippōs",Mixed,"Why burden the whole earth so, and then absolve it?The slaughter at Munda, the mournful sea off Sicily,
+
+Mutina (Modena) and Actium have cleansed Pharsalia.
+",,,1
