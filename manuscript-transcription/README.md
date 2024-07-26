@@ -90,11 +90,62 @@ Information on Noscemus GM 6:
 * All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
 * There is no need to capitalize the second letter at the top of each page. Transcribe the word as it is.
   
-  ![image](https://github.com/user-attachments/assets/0920f055-9320-4959-be80-5726886a9d39)
+![image](https://github.com/user-attachments/assets/0920f055-9320-4959-be80-5726886a9d39)
 
   In this example, 'UT' should be transcribed as 'Ut'.
 
 ## Use of Tags 
+
+### How to enable tags
+* To tag something in your transcription, you must enable tags first. To do so, go to the bar on the far right of your transcription page and click the arrow that says "Tags". 
+
+![image](https://github.com/user-attachments/assets/6a71b28b-3276-47f3-90e6-c8faceeef9f9)
+
+* Highlight your desired word(s) with your mouse. This will pull up an array of tags you can use.
+
+![image](https://github.com/user-attachments/assets/2bf0168a-8d8e-47ea-bc0d-ab61c23e82eb)
+
+* In this example, you would use the "Language" tag
+* Simply click on the desired tag and fill whatever information that tag needs.
+
+![image](https://github.com/user-attachments/assets/8c595c08-e31a-4c85-b928-39e74fe1d286)
+
+* Here, the you would enter "Ancient Greek" as the language. Information about Wikidata ID is explained further in the "Other" section below.
+
+### Creating and Editing tags
+* To create tags, click on the "Tags" button in the top left of your dashboard.
+* Select the "Digital Camerarius" collection.
+* It will bring you to a page that allows you to manage your tags, change elements from pre-existing tags, create, and delete tags.
+* There are two kinds of tags we use: textual, and structural
+
+![image](https://github.com/user-attachments/assets/ec0349fc-096e-4d26-9908-b9fd54da2cd2)
+
+* The drop down allows you to switch between viewing your structural tags, and your textual tags.
+* Textual tags are what you use on the textual page of Camerarius entries
+* Structural tags are what you use on the emblem page of Camerarius entries
+
+* To create new tags, simply click on the "Create New" button right next to the drop down.
+* You can name the tag, choose the color it will show up as, and add atributes to the tag.
+
+![image](https://github.com/user-attachments/assets/908c2c95-e020-42a4-8b78-134fcddb1126)
+
+* When you are satisfied with your tag, click the "Create" button at the bottom of the page. You may need to refresh Transkribus a few times before it shows up in your collection.
+* To edit tags, simply click the pencil on whatever tag you want to change. Once done, click "Save".
+
+![image](https://github.com/user-attachments/assets/fb7fbda1-1cd5-4774-8f22-7d92c1394a57)
+
+### Getting your new tags in text
+* When you create a new tag, it will not show up immediately on your page. You must open your transcription first, and highlight the word(s) you want to tag.
+* Instead of choosing a tag, click on "Tag Settings"
+
+![image](https://github.com/user-attachments/assets/9c083500-e652-4278-a56c-c8c63147222d)
+
+* This will bring you to a page comprizing of all the tags you have made for that collection. Just like the big Tag section, you can also switch between textual and structural tags using the drop down.
+* Then, click the button in the "Visibility" column. This will make that tag "visible" in your collection.
+
+![image](https://github.com/user-attachments/assets/d8db13ea-f4fa-47be-b1a5-e639786d6fb9)
+
+
 
 ### Abbreviations and shorthand 
 
