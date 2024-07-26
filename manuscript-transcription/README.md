@@ -82,6 +82,9 @@ Information on Noscemus GM 6:
 
 ## Transcribing a page 
 
+* To add/create a line, go to the far left toolbar and click on "Add a Line"
+* Click once on the place you want your line to start, then click twice where you want your line to stop. 
+
 # Preliminary transcription guidelines
 
 * Page numbers do not need to be transcribed.
