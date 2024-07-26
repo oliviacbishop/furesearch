@@ -17,11 +17,32 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 
 # Using Transkribus 
 
+## First Use Information
+This is how your homepage should look after logging into Transkribus
+
+![image](https://github.com/user-attachments/assets/0674fcc6-90f7-4ca7-ba31-68cd5295bc4f)
+
+* In the top left corner, there are 3 main sections you can go to in Transkribus: "Home", "Collections", and "Tags"  
+
+![image](https://github.com/user-attachments/assets/8ad32762-6a16-41d7-a4cf-d84b84da9868)
+
+* To access all Camerarius documents, click on "Collections". You will find a personal collection, a test, and the "Digital Camerarius" collection.
+* The Digital Camerarius collection is currently where all our transcription work is being done.
+* The "Test" collection is available for first-time users to play around with the tools Transkribus offers, without having to worry about messing up pages we are currently working on. Anything in the "Test" collection is allowed to be modified, deleted, or changed. 
+
+![image](https://github.com/user-attachments/assets/262716fc-6a0c-44c3-8d72-fc99f94bb546)
+
+* The Camerarius collection is divided into sections to maintain order with page/emblem transcription. When uploading new pages, be sure to 
+
 ## Uploading and managing documents 
 
-* Click on "Upload Files"
+* Click on "Upload Files" in the top right corner
+  
+![image](https://github.com/user-attachments/assets/4a405bb7-7d9b-4ec3-bedf-03ef2794dffb)
+
 * There is a box to name your documents
-* You can either drag and drop your files into Transkribus, or click browse and choose from your own files.
+* You can either drag and drop your files directly into Transkribus, or click browse and choose from your own files.
+* Click submit and wait for your files to upload.
 
 ## Using an automatic transcription and layout model 
 In order to generate a transcription using an AI text recognition model, you can go about it two ways.
