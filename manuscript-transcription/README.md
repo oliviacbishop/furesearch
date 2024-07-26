@@ -32,7 +32,18 @@ This is how your homepage should look after logging into Transkribus
 
 ![image](https://github.com/user-attachments/assets/262716fc-6a0c-44c3-8d72-fc99f94bb546)
 
-* The Camerarius collection is divided into sections to maintain order with page/emblem transcription. When uploading new pages, be sure to 
+* The Camerarius collection is divided into sections to maintain order with page/emblem transcription. When uploading entries (emblem and page(s)), be sure to do the same.
+  
+* To change the name of the sections, simply click the three dots on the bottom right of the section
+
+![image](https://github.com/user-attachments/assets/7967cd91-f67f-4d9a-ba88-85b7a22a2ffa)
+
+* Then, click "Edit Metadata"
+* From there you can change the Title, add a description, etc.
+
+![image](https://github.com/user-attachments/assets/178754a3-5e08-4fdb-a94f-f1fa4fbf6dde)
+
+* Scroll to the bottom of the page and click "Save"
 
 ## Uploading and managing documents 
 
@@ -57,6 +68,9 @@ In order to generate a transcription using an AI text recognition model, you can
   
 ![image](https://github.com/user-attachments/assets/d07dc0f0-b288-4ff0-a902-0652e5454bf7)
 * Then click the "[T] Recognize" button. This will bring you to the text recognition model page
+  
+![image](https://github.com/user-attachments/assets/4765e735-1261-404a-8ce6-7ce636fefa38)
+  
 * Select AI model and start recognition. 
 
 Information on Noscemus GM 6:
