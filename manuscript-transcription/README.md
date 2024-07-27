@@ -200,7 +200,6 @@ Look up word in Logeion to see if Camerarius made a spelling error or if he's ju
 https://logeion.uchicago.edu/%CE%BB%CE%BF%CE%B3%CE%B5%E1%BF%96%CE%BF%CE%BD 
 
 ## Transkribus shortcuts and info:
-----**Add screenshots here**
 
 To divide a region or line:
 * click on region/line of interest
