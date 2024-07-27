@@ -35,7 +35,7 @@
 ![image](https://github.com/ChiaraPalladino/furesearch/assets/170905706/960f8233-eb27-4b1a-bae4-ea3184da4b82)
 
 
-## Latin manuscript shorthand guide:
+# Latin manuscript shorthand guide:
 
 et
 
