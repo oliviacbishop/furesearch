@@ -20,11 +20,11 @@ Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb1057
 ## First Use Information
 This is how your homepage should look after logging into Transkribus
 
-![image](https://github.com/user-attachments/assets/0674fcc6-90f7-4ca7-ba31-68cd5295bc4f)
+<img src="https://github.com/user-attachments/assets/0674fcc6-90f7-4ca7-ba31-68cd5295bc4f" width=60% height=60%>
 
 * In the top left corner, there are 3 main sections you can go to in Transkribus: "Home", "Collections", and "Tags"  
 
-![image](https://github.com/user-attachments/assets/8ad32762-6a16-41d7-a4cf-d84b84da9868)
+<img src="https://github.com/user-attachments/assets/8ad32762-6a16-41d7-a4cf-d84b84da9868" width=30% height=30%>
 
 * To access all Camerarius documents, click on "Collections". You will find a personal collection, a test, and the "Digital Camerarius" collection.
 * The Digital Camerarius collection is currently where all our transcription work is being done.
