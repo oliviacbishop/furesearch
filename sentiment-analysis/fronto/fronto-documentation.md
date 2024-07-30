@@ -3,6 +3,11 @@ Curator: Elizabeth Gunner
 
 ### Project summary 
 
+A short project report: 
+* what you have done
+* what you have learned
+* useful case studies, etc. 
+
 ### Important resources in this folder: 
 * Text in machine-readable format
 * Annotations export in CSV
