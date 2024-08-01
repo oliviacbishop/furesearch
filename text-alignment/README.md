@@ -51,7 +51,7 @@ The introduction to Pope’s translation, written by Theodore Alois Buckley, ref
 #### Paragraph 4
 Butler’s _Odyssey_ translation from 1900 had a highest percentage value of 62% and a lowest value of 40%. The majority of passages from this translation lie between 55-59%. This translation is unlike all the others because it was written in prose, with no line breaks or rhyming. It follows Chapman’s and Pope’s translations, and of these, it is the easiest to comprehend. It does not add many sentences or phrases that are not present in the Greek. It also made some segments more concise. The passage of 9.378-397 that was especially difficult in Chapman’s translation is made much simpler in Butler’s, though this comes at the cost of leaving some Greek words out. ![butler1](https://github.com/user-attachments/assets/2efeedcd-be92-40fd-a648-2210d831ab4a)
 
-Another example of this can be seen in a screenshot of lines 9.529-531, in which the words highlighted in green have equivalents in both languages, but a few phrases of the Greek text in blue are not present in English. It also seems that the text at the end of the second paragraph in English was added in later. ![butler2](https://github.com/user-attachments/assets/4a254e3a-0352-49d2-a271-8c777a6b51f0)
+Another example of this can be seen in a screenshot of lines 9.525-531, in which the words highlighted in green have equivalents in both languages, but a few phrases of the Greek text in blue are not present in English. It also seems that the text at the end of the second paragraph in English was added in later. ![butler2](https://github.com/user-attachments/assets/4a254e3a-0352-49d2-a271-8c777a6b51f0)
 
 For people who are wanting an older but more readable translation, Butler’s is a good selection.
 
