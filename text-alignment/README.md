@@ -1,6 +1,7 @@
 # Text Alignment: _Odyssey_ Book 9  
 
 Project Curator: Maria Curley 
+
 Email: curlma0@furman.edu
 
 This folder will contain the exported files and guidelines for the alignment of Greek and Latin texts. 
