@@ -4,7 +4,6 @@ Project Curator: Maria Curley
 
 Email: curlma0@furman.edu
 
-
 This folder will contain the exported files and guidelines for the alignment of Greek and Latin texts. 
 
 The structure of this folder is as follows: 
