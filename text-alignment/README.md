@@ -22,9 +22,9 @@ The structure of this folder is as follows:
 
 “Odyssey 9.” _The Odyssey_, trans. by Stanley Lombardo, Hackett Publishing Company, Inc., Indianapolis, Indiana, 2000, pp. 134–140. 
 
-“The Project Gutenberg eBook of The Odyssey, by Homer.” Trans. by Alexander Pope, _Project Gutenberg_, 18 July 2021, www.gutenberg.org/files/3160/3160-h/3160-h.htm. Accessed 01 Aug. 2024. 
+“The Project Gutenberg eBook of The Odyssey, by Homer.” Trans. by Alexander Pope, _Project Gutenberg_, 18 July 2021, Accessed 01 Aug. 2024. 
 
-“The Project Gutenberg eBook of The Odysseys of Homer, by Homer.” Trans. by George Chapman, _Project Gutenberg_, 18 July 2021, www.gutenberg.org/files/48895/48895-h/48895-h.htm. Accessed 01 Aug. 2024. 
+“The Project Gutenberg eBook of The Odysseys of Homer, by Homer.” Trans. by George Chapman, _Project Gutenberg_, 18 July 2021, Accessed 01 Aug. 2024. 
 
 ## Other references: 
 * Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, <i>Journal of Open Humanities Data</i>, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.
