@@ -20,14 +20,30 @@ Translations of Book II of the _Histories_ are available at the following links:
 
 In chapter 79, Herodotus speaks of a Greek song which is named after a mythological figure. It is unclear in the multiple mentions and iterations of this name (Λίνος) whether Herodotus is speaking in reference to the work or the figure. Similarly, when Herodotus introduces the Egyptian version of the name, Μανερῶς, it is unclear if Herodotus is speaking of a song or mythological figure. 
 
-**Unresolved Locations**
-* 33.3
-   * Κελτῶν
-   * Κυνησίοισι
-* 50.2
-   * Πελασγῶν
-* 91.1
-   * Νέης πόλιος
+**Unresolved/Flagged Locations (does not include temples)**
+* Ἀραβίης ὄρος ~ _The location of the Arabian mountains is unresolved._
+   * 8.1
+   * 8.3
+* Λιβύης ~ _The ancient region of Libya is in reference to the modern continent of Africa._
+   * 8.2
+   * 12.2
+   * 12.3
+   * 15.1
+   * 16.1
+   * 16.2 x3
+   * 17.1
+   * 17.2
+* Εὐρώπην ~ _The ancient continent of Europe does not have defined boundaries._
+   * 16.1
+* Ἀσίην ~ _The ancient continent of Asia does not have defined boundaries._
+   * 16.1
+   * 16.2 x3
+   * 17.1
+   * 17.2
+* Βουκολικὸν ~ _The Bucolic mouth of the Nile does not have a resolved location_
+   * 17.6
+
+
 
 **Collective vs. Singular/Descriptor**
 * 3.1
