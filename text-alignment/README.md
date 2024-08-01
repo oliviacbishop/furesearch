@@ -14,7 +14,17 @@ The structure of this folder is as follows:
 * Another useful resource is Logeion, to look up specific words: https://logeion.uchicago.edu/
 
 ## List of translations of _Odyssey_ Book 9 
-George Chapman (1615), Alexander Pope (1725), Samuel Butler (1900), Robert Fitzgerald (1961), Stanley Lombardo (2000), and Emily Wilson (2017)
+“Book 9: A Pirate in a Shepherd’s Cave.” _The Odyssey_, trans. by Emily Wilson, W. W. Norton & Company, Inc., New York, New York, 2017, pp. 214–224. 
+
+“Book Nine: New Coasts and Poseidon’s Son.” _The Odyssey_, trans. by Robert Fitzgerald, Anchor Books, Doubleday & Company, Inc., Garden City, New York, 1963, pp. 155–162.
+
+“The Internet Classics Archive: The Odyssey by Homer.” Trans. by Samuel Butler, _The Internet Classics Archive | The Odyssey by Homer,_ MIT, classics.mit.edu/Homer/odyssey.9.ix.html. Accessed 01 Aug. 2024. 
+
+“Odyssey 9.” _The Odyssey_, trans. by Stanley Lombardo, Hackett Publishing Company, Inc., Indianapolis, Indiana, 2000, pp. 134–140. 
+
+“The Project Gutenberg eBook of The Odyssey, by Homer.” Trans. by Alexander Pope, _Project Gutenberg_, 18 July 2021, www.gutenberg.org/files/3160/3160-h/3160-h.htm. Accessed 01 Aug. 2024. 
+
+“The Project Gutenberg eBook of The Odysseys of Homer, by Homer.” Trans. by George Chapman, _Project Gutenberg_, 18 July 2021, www.gutenberg.org/files/48895/48895-h/48895-h.htm. Accessed 01 Aug. 2024. 
 
 ## Other references: 
 * Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, <i>Journal of Open Humanities Data</i>, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.
