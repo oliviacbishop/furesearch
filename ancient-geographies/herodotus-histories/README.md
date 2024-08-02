@@ -37,8 +37,26 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * 19.1
    * 20.3
    * 22.1
+   * 24.1
+   * 25.1
+   * 26.1
+   * 26.2
+   * 28.1
+   * 30.2
+   * 32.2
+   * 32.3 x2
+   * 32.4 x5
+   * 33.2 x2
+   * 34.1
+   * 34.2
+   * 50.2
+   * 50.3
 * Εὐρώπην ~ _The ancient continent of Europe does not have defined boundaries._
    * 16.1
+   * 26.2 x2
+   * 33.3 x2
+   * 33.4
+   * 44.4
 * Ἀσίην ~ _The ancient continent of Asia does not have defined boundaries._
    * 16.1
    * 16.2 x3
@@ -48,6 +66,22 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * 17.6
 * Ὠκεανοῦ ~ _This is the ancient Greek ocean that was understood to surround the Earth._
    * 21.1 x2
+   * 23.1 x2
+* Κρῶφι, Μῶφι ~ _The location of the mountain Crophi/Mophi is unresolved._ 
+   * 28.2
+* Περσέων ~ _The ancient empire of Persia spanned across much of Asia minor and further east._
+   * 30.3 x2
+* Νασαμῶνας ~ _The Nasamonians were a nomadic tribe that inhabited ancient Libya._
+   * 32.1
+   * 32.3
+   * 32.6 x2
+   * 33.1
+* Κελτῶν ~ _The Celtae lived in celtral Europe and were also refered to as the Gauls._
+   * 33.3 x2
+* Κυνησίοισι ~ _The Cynesii were an ancient ethnic group that lived in the Iberian Peninsula._
+   * 33.3
+* Πελασγῶν ~ _Pelasgians refers to the pre-Grecian inhabitants of the Hellenic region._
+   * 50.2
 
 **Collective vs. Singular/Descriptor**
 * 3.1
