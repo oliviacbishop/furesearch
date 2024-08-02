@@ -33,6 +33,10 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * 16.2 x3
    * 17.1
    * 17.2
+   * 18.2 x2
+   * 19.1
+   * 20.3
+   * 22.1
 * Εὐρώπην ~ _The ancient continent of Europe does not have defined boundaries._
    * 16.1
 * Ἀσίην ~ _The ancient continent of Asia does not have defined boundaries._
@@ -42,8 +46,8 @@ In chapter 79, Herodotus speaks of a Greek song which is named after a mythologi
    * 17.2
 * Βουκολικὸν ~ _The Bucolic mouth of the Nile does not have a resolved location_
    * 17.6
-
-
+* Ὠκεανοῦ ~ _This is the ancient Greek ocean that was understood to surround the Earth._
+   * 21.1 x2
 
 **Collective vs. Singular/Descriptor**
 * 3.1
