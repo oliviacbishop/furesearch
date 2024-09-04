@@ -9,14 +9,7 @@ The authors are:
 * Caroline Orr
 * Alexis Spainhour
 
-# Project Instructions 
-
-* You will conduct work mainly in your respective Google spreadsheets. At the end of the research, you will export your spreadsheet and upload it in your project folder. 
-* At the end of each week, mark your week or task as "done" in the FU Research Project Management page (https://github.com/users/ChiaraPalladino/projects/6), with additional comments to report on the status of what you did, or questions/issues. **This is very important!! Do not forget to do this**  
-* As you go, make sure to document your choices and open questions in the relevant documentation and guidelines files that are available in your personal folder. **This is very important!! Do not forget to do this**
-* For questions, issues and bugs use the Issues page: https://github.com/ChiaraPalladino/furesearch/issues
-
-## Structure of the spreadsheet 
+## Creation of the Datasets
 
 ### Text Units 
 Each text in this corpus has been preprocessed and split into sentences of 10 words min., 40 words max., taking punctuation into account. 
@@ -53,9 +46,10 @@ The purpose of this project is to create a dataset of Sentiment Analysis for Lat
 
 ### Particulars: imagery with no explicit sentiment 
 
+These are marked as neutral. 
 
 ### Particulars: jokes, comedy and allusions 
-In Aristophanes comedy, we also documented the comedic aspect through a "fun" score independenty assigned to the sentiment score. 
+In Aristophanes' comedy, we also documented the comedic aspect through a "fun" score independenty assigned to the sentiment score. This could be useful to investigate, for example, correlation between jokes and sentiments in further research. 
 
 2: Very fun. The line is mostly for entertainment or a laugh. Possibly relies on the audience’s understanding of a certain politician, event, etc. to make sense.
 1: Fun. The line has unnecessary aspects intended only for style, but still contains a fair amount of plot relevance.
