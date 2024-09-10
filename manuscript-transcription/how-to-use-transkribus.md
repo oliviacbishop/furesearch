@@ -4,6 +4,8 @@ Author: Kathryn Wilson at Furman University, with the support of the Office for 
 
 email: wilska2@furman.edu
 
+Note: Useful tutorials and instructions are on the Youtube channel of Transkribus: https://www.youtube.com/@transkribus/videos. 
+
 ## First Use Information
 This is how your homepage should look after logging into Transkribus
 
