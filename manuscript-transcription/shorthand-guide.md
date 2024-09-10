@@ -1,4 +1,10 @@
-# Greek manuscript shorthand guide:
+# Manuscript shorthand guide
+
+Author: Kathryn Wilson at Furman University, with the support of the Office for Undergraduate Research.
+
+email: wilska2@furman.edu
+
+## Greek shorthand guide:
 
 τοῦ <img src="https://github.com/ChiaraPalladino/furesearch/assets/170905706/4b054e7e-676c-470a-9600-a563d8b8ab42" width="40" height="40">
 
@@ -17,7 +23,7 @@
 -ος <img src="https://github.com/ChiaraPalladino/furesearch/assets/170905706/960f8233-eb27-4b1a-bae4-ea3184da4b82" width="40" height="40">
 
 
-# Latin manuscript shorthand guide:
+## Latin shorthand guide:
 
 et <img src="https://github.com/user-attachments/assets/4ce533cc-1d2f-435c-871c-c9f126398309" width="40" height="40">
 
