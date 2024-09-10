@@ -1,5 +1,9 @@
 # How to Use Transkribus 
 
+Author: Kathryn Wilson at Furman University, with the support of the Office for Undergraduate Research.
+
+email: wilska2@furman.edu
+
 ## First Use Information
 This is how your homepage should look after logging into Transkribus
 
