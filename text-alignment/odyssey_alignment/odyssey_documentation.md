@@ -2,6 +2,8 @@
 
 Curator: Maria Curley (curlma0@furman.edu)
 
+Visualize the alignments of this project at: https://ugarit.ialigner.com/userProfile.php?userid=185533
+
 #### Introduction
 This summer, I participated in Classics research with Dr. Palladino. My task was to look at a 205-line segment from the _Odyssey_ Book 9 and analyze how this section was handled by six different translators. These were: George Chapman (1615), Alexander Pope (1725), Samuel Butler (1900), Robert Fitzgerald (1961), Stanley Lombardo (2000), and Emily Wilson (2017). To do this, I used a website called Ugarit (https://ugarit.ialigner.com/index.php), which displayed the original Greek text on the left side of the screen and a passage from each translation on the right side. Using Ugarit, I made pairs of each Greek word and its English equivalent for all the translations. The Greek sides and English sides each had their own percentage of words that corresponded with the other side. From this work, I was able to determine which of the translations were closest to the original Greek and think more broadly about what makes a “good” translation.
 
