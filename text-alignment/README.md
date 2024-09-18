@@ -10,13 +10,17 @@ Structure of this folder:
 
 ## Facts and numbers
 
-Odyssey: 
-72 Individual Alignments
-6 Translators
-205 Odyssey Lines
-5448 Translation Pairs
+#### Odyssey:   
+72 Individual Alignments   
+6 Translators   
+205 Odyssey Lines   
+5448 Translation Pairs   
 
-Royal Inscriptions: 
+<img src="https://github.com/user-attachments/assets/24ee21e7-9f21-406e-b973-8b9f1e1a2a87" width=50% height=50%>
+
+
+
+#### Royal Inscriptions: 
   
 ## Other references: 
 * Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, <i>Journal of Open Humanities Data</i>, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.
