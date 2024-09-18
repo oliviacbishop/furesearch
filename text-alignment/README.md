@@ -7,7 +7,8 @@ Structure of this folder:
 * odyssey-alignment: a folder containing the output of the project _History of the Odyssey through Translation Alignment_, by Maria Curley (Furman). Visualize the alignments of this project at: https://ugarit.ialigner.com/userProfile.php?userid=185533
 * royal-inscriptions: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions_ by Alex Forbes (Furman). Visualize the alignments of this project at: https://www.ugarit.ialigner.com/userProfile.php?userid=58211&tgid=10282
 * royal-letters: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions: Letters_ by Alex Forbes (Furman). Visualize the alignments of this project at: https://www.ugarit.ialigner.com/userProfile.php?userid=58211&tgid=10162
-* euripides-bacchae: a folder containing the output of the project _Investigating the tradition of Euripides' Bacchae with translation alignment_ by Anna Muh and Josh Kemp (Furman)
+* euripides-bacchae: a folder containing the output of the project _Investigating the tradition of Euripides' Bacchae with translation alignment_ by Josh Kemp (Furman). Visualize the alignments at https://ugarit.ialigner.com/userProfile.php?userid=135954&tgid=14552 
+* transphobia-in-bacchae: a folder containing the output of the project _Transphobia in Bacchae_ by Anna Muh (University of Washington). Visualize the alignments at https://ugarit.ialigner.com/userProfile.php?userid=135952&tgid=14721
 
 ## Facts and numbers
 
@@ -24,7 +25,10 @@ Structure of this folder:
 #### Royal Inscriptions: 
 
 
-#### Bacchae   
+#### Euripides' _Bacchae_: 
+
+
+#### Transphobia in _Bacchae_:
 
   
 ## Other references: 
