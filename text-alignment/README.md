@@ -4,8 +4,9 @@ This folder contains the exported files and guidelines for the alignment of Gree
 
 Structure of this folder: 
 * Alignment Guidelines: authoritative guidelines used to align ancient languages to modern languages. 
-* odyssey-alignment: a folder containing the output of the project _History of the Odyssey through Translation Alignment_, by Maria Curley (Furman)
-* royal-inscriptions: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions_ by Alex Forbes (Furman)
+* odyssey-alignment: a folder containing the output of the project _History of the Odyssey through Translation Alignment_, by Maria Curley (Furman). Visualize the alignments of this project at: https://ugarit.ialigner.com/userProfile.php?userid=185533
+* royal-inscriptions: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions_ by Alex Forbes (Furman). Visualize the alignments of this project at: https://www.ugarit.ialigner.com/userProfile.php?userid=58211&tgid=10282
+* royal-letters: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions: Letters_ by Alex Forbes (Furman). Visualize the alignments of this project at: https://www.ugarit.ialigner.com/userProfile.php?userid=58211&tgid=10162
 
 ## Facts and numbers
 
