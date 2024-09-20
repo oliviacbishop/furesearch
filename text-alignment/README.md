@@ -21,16 +21,11 @@ Structure of this folder:
 <img src="https://github.com/user-attachments/assets/24ee21e7-9f21-406e-b973-8b9f1e1a2a87" width=50% height=50%>
 
 
-#### Royal Inscriptions: 
-86 inscriptions
-8148 Translation Pairs
+#### Akkadian Inscriptions: 
+86 inscriptions, 10 letters
+8383 Translation Pairs
 
-
-
-#### Royal Letters:
-10 Letters
-235 Translation Pairs
-
+<img src="image.png" width=50% height=50%>
 
 #### Euripides' _Bacchae_: 
 
