@@ -22,8 +22,7 @@ Structure of this folder:
 
 
 #### Akkadian Inscriptions: 
-86 inscriptions, 10 letters
-8383 Translation Pairs
+86 inscriptions, 10 letters, 8383 Translation Pairs
 
 <img src="image.png" width=80% height=80%>
 
