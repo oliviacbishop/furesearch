@@ -18,13 +18,13 @@ Structure of this folder:
 205 Odyssey Lines   
 5347 Translation Pairs   
 
-<img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/odyssey_alignment/odyssey_stats.png" width=80% height=80%>
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/odyssey_alignment/odyssey_stats.png" width=60% height=60%>
 
 
 #### Akkadian Inscriptions: 
 86 inscriptions, 10 letters, 8383 Translation Pairs
 
-<img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/royal_inscriptions/royal_inscriptions_stats.png" width=80% height=80%>   
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/royal_inscriptions/royal_inscriptions_stats.png" width=60% height=60%>   
 
 #### Parodos of _Bacchae_: 
 6 Individual Alignments  
@@ -32,7 +32,7 @@ Structure of this folder:
 105 lines from the Parodos of _Bacchae_   
 567 total Translation Pairs   
 
-<img src="https://github.com/ChiaraPalladino/furesearch/blob/8bee93a73b6f8de526108d4f6e440982d240f7b6/text-alignment/euripides_bacchae/parodos_stats.png" width=80% height=80%>
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/8bee93a73b6f8de526108d4f6e440982d240f7b6/text-alignment/euripides_bacchae/parodos_stats.png" width=60% height=60%>
 
 #### Transphobia in _Bacchae_:
 12 Individual Alignments   
@@ -40,7 +40,7 @@ Structure of this folder:
 162 lines of Euripides _Bacchae_    
 2365 total Translation Pairs  
 
-<img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/transphobia_in_bacchae/transphobia_bacchae_stats.png" width=80% height=80%>   
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/transphobia_in_bacchae/transphobia_bacchae_stats.png" width=60% height=60%>   
 
 ## How to cite: 
 
