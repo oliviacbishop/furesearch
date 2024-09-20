@@ -7,7 +7,7 @@ Structure of this folder:
 * odyssey-alignment: a folder containing the output of the project _History of the Odyssey through Translation Alignment_, by Maria Curley (Furman). Visualize the alignments of this project at: https://ugarit.ialigner.com/userProfile.php?userid=185533
 * royal-inscriptions: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions_ by Alex Forbes (Furman). The folder is further divided according to the chronology of each subcorpus. Visualize the alignments of this project at: https://www.ugarit.ialigner.com/userProfile.php?userid=58211&tgid=10282
 * royal-letters: a folder containing the output of the project _Aligning the Royal Akkadian Inscriptions: Letters_ by Alex Forbes (Furman). Visualize the alignments of this project at: https://www.ugarit.ialigner.com/userProfile.php?userid=58211&tgid=10162
-* euripides-bacchae: a folder containing the output of the project _Investigating the tradition of Euripides' Bacchae with translation alignment_ by Josh Kemp (Furman). Visualize the alignments at https://ugarit.ialigner.com/userProfile.php?userid=135954&tgid=14552 
+* euripides-bacchae: a folder containing the output of the project _Investigating the tradition of the Parodos in Euripides' Bacchae with translation alignment_ by Josh Kemp (Furman). Visualize the alignments at https://ugarit.ialigner.com/userProfile.php?userid=135954&tgid=14552 
 * transphobia-in-bacchae: a folder containing the output of the project _Transphobia in Bacchae_ by Anna Muh (University of Washington). Visualize the alignments at https://ugarit.ialigner.com/userProfile.php?userid=135952&tgid=14721
 
 ## Facts and numbers
@@ -27,6 +27,11 @@ Structure of this folder:
 <img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/royal_inscriptions/royal_inscriptions_stats.png" width=80% height=80%>
 
 #### Euripides' _Bacchae_: 
+6 Individual Alignments  
+6 Translators   
+105 lines from the Parodos of _Bacchae_   
+567 total Translation Pairs   
+
 
 
 #### Transphobia in _Bacchae_:
