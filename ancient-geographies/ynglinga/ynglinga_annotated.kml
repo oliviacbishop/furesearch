@@ -1,0 +1,657 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <Placemark>
+        <name>Norway</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3144096</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Norway</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Norway</value>
+          </Data>
+          <Data name="comments">
+                <value>Meant in a regional sense, as Norway wasn't a unified country until the 9th century
+
+Meant in a regional sense, as Norway wasn't a unified country until the 9th century
+
+in this specific instance, Norway refers to Upplond specifically - as evident by King Ali inn upplenzki's name</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>14.496988882580519,65.05464219752928,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Denmark</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>9</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/2623032</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Denmark</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Denmark</value>
+          </Data>
+          <Data name="comments">
+                <value>likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE
+
+likely mentioned in a regional sense in this context, as Denmark wouldn't be a unified kingdom until the 8th century CE</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>10.018244984954958,55.99261328451904,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Nǫrvasund</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/256198</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Herakleios Porthmos/Gaditanum Fretum</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Nǫrvasund</value>
+          </Data>
+          <Data name="comments">
+                <value>aka 'Narvesund'</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>-5.485833,35.971667,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Bláland,Bláland it mikla</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/6255146</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Africa</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Bláland,Bláland it mikla</value>
+          </Data>
+          <Data name="comments">
+                <value>&quot;Blacks-land the Great&quot;: Africa</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>18.274639053061836,6.42577000602419,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Hleiðra</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>6</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/2617832</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Lejre</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Hleiðra</value>
+          </Data>
+          <Data name="comments">
+                <value>Capital of the Kingdom of Lejre/Hleidra-(?), a large Danish kingdom ; considered the Danish (Skjoldungene Dynasty's) equivalent of Uppsala in Svithjod
+
+Capital of the Kingdom of Lejre/Hleidra-(?), a large Danish kingdom ; considered the Danish (Skjoldungene Dynasty's) equivalent of Uppsala in Svithjod
+
+Capital of the Kingdom of Lejre/Hleidra-(?), a large Danish kingdom ; considered the Danish (Skjoldungene Dynasty's) equivalent of Uppsala in Svithjod
+
+Capital of the Kingdom of Lejre/Hleidra-(?), a large Danish kingdom ; considered the Danish (Skjoldungene Dynasty's) equivalent of Uppsala in Svithjod
+
+Capital of the Kingdom of Lejre/Hleidra-(?), a large Danish kingdom ; considered the Danish (Skjoldungene Dynasty's) equivalent of Uppsala in Svithjod
+
+Capital of the Kingdom of Lejre/Hleidra-(?), a large Danish kingdom ; considered the Danish (Skjoldungene Dynasty's) equivalent of Uppsala in Svithjod</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>11.97477,55.60461,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Saxland</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>4</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/2862926</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Lower Saxony</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Saxland</value>
+          </Data>
+          <Data name="comments">
+                <value>Northern Germany in general; see associated links for more info
+
+Northern Germany in general; see associated links for more info
+
+Northern Germany in general; see associated links for more info
+
+Northern Germany in general; see associated links for more info</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>9.148210423821387,52.76321817392337,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Vestfold</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>10</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3132015</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Vestfold</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Vestfold</value>
+          </Data>
+          <Data name="comments">
+                <value>Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details
+
+Generally, it's the area to the west of Oslofjord. At this time in history it was a larger regional term made up of several petty kingdoms.
+
+Vestfold in this context is a larger area than just the historical county (thus larger than the associated GeoNames entry). It also included the area around Drammen, and possibly as far south as Lindesnes. See associated sources for more details</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>10.118056988454926,59.33778825841318,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Selund,sea-ring homeland,plundered isle</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>7</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/6418541</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Zealand</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Selund,sea-ring homeland,plundered isle</value>
+          </Data>
+          <Data name="comments">
+                <value>aka Zealand or Sjaelland
+
+aka Zealand or Sjaelland
+
+aka Zealand or Sjaelland
+
+aka Zealand or Sjaelland
+
+aka Zealand or Sjaelland</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>11.708896291909333,55.289394597440136,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Tanakvísl,Tanais,Vanakvísl</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>4</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/825398</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Tanais (river)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Tanakvísl,Tanais,Vanakvísl</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>40.7291755,47.5437096,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Eistland</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/453733</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Estonia</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Eistland</value>
+          </Data>
+          <Data name="comments">
+                <value>most likely used in a general/regional sense, not referring to a kingdom or polity
+
+most likely used in a general/regional sense, not referring to a kingdom or polity</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>25.480882166781306,58.67091918971263,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Svíþjóð,Svíþjóð in mikla,Goðheimar,Svíþjóð inn mikla,in kalda</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>52</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/2661886</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Sweden</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Svíþjóð,Svíþjóð in mikla,Goðheimar,Svíþjóð inn mikla,in kalda</value>
+          </Data>
+          <Data name="comments">
+                <value>Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+&quot;Sweden the Great&quot;
+
+&quot;Sweden the Great&quot;
+
+&quot;Sweden the Great&quot;
+
+&quot;World of the Gods&quot; ; another name for 'Svithjod in(n) mikla', or 'Sweden the Great'
+
+'Sweden the Great'
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+&quot;World of the Gods&quot; ; another name for 'Svithjod in(n) mikla', or 'Sweden the Great'
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+&quot;Sweden the Cold&quot;
+
+&quot;Sweden the Great&quot;
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people
+
+Kingdom in modern day Sweden, centered around Uppsala; homeland of the Sviar people</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>16.753693037543123,62.7925483465048,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Baltic</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>3</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/20618</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Suebicum Mare</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Baltic</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>20.0,58.0,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Jórsalaland</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/293198</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Jerusalem</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Jórsalaland</value>
+          </Data>
+          <Data name="comments">
+                <value>The larger region of Judea/Palestine, not just the city itself</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>35.0043676975945,31.74321305841924,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Svartahaf</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>3</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/1224</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Pontus Euxinus</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Svartahaf</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>34.7425505,43.0786852,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>great mountain range</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/863766</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Caucasus (mountain range)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>great mountain range</value>
+          </Data>
+          <Data name="comments">
+                <value>Caucasus Mountains?</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>42.4378759,43.3525468,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Óðinsey</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/2615876</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Odense</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Óðinsey</value>
+          </Data>
+          <Data name="comments">
+                <value>&quot;Odin's Sanctuary&quot;: Odense
+
+&quot;Odin's Sanctuary&quot;: Odense</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>10.38831,55.39594,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Tyrkland</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/837</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Asia Minor</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Tyrkland</value>
+          </Data>
+          <Data name="comments">
+                <value>&quot;Land of the Turks&quot;: Asia Minor
+
+&quot;Land of the Turks&quot;: Asia Minor</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>31.033254534662,39.640147491386,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Uppsalir,large temple,Freyr built a great temple at Uppsalir and made it his
+capital, directing [24] to it all his taxes in land and movable property.</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>36</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/2712993</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Gamla Uppsala</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Uppsalir,large temple,Freyr built a great temple at Uppsalir and made it his
+capital, directing [24] to it all his taxes in land and movable property.</value>
+          </Data>
+          <Data name="comments">
+                <value>Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+aka Temple at Uppsala, near modern-day Gamla Uppsala
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+aka Temple at Uppsala, near modern-day Gamla Uppsala
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people
+
+Capital of the Kingdom of Svithjod, and of the Sviar people</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>17.63386,59.89817,0</coordinates>
+            </Point>
+      </Placemark>
+      </Document>
+    </kml>

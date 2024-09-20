@@ -1,0 +1,212 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.69583, 36.91198 ]
+    },
+    "properties" : {
+      "titles" : "Pylos/Koryphasion",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570640" ],
+    "titles" : [ "Pylos/Koryphasion" ],
+    "names" : [ "Pylos", "Koryphasion", "Pylios", "Pylios" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πύλον", "Πύλου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.23873, 39.9577 ]
+    },
+    "properties" : {
+      "titles" : "Ilium/Troia",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550595" ],
+    "titles" : [ "Ilium/Troia" ],
+    "names" : [ "Ilium", "Troia", "Troia", "Troy", "Troy", "Troja", "Τροία", "Troía, Troia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Τροίῃ", "Τρώων", "Τρώων", "Ἴλιον", "Τρώων" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.37493, 37.89131 ]
+    },
+    "properties" : {
+      "titles" : "Elis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570220" ],
+    "titles" : [ "Elis" ],
+    "names" : [ "Elis", "Ἠλεῖοι", "Eleioi, Eleĩoi" ],
+    "place_types" : [ "settlement", "theatre" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἤλιδα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.6222206, 38.5348857 ]
+    },
+    "properties" : {
+      "titles" : "Parnassus M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541012" ],
+    "titles" : [ "Parnassus M." ],
+    "names" : [ "Parnassus M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παρνησῷ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.59, 38.2 ]
+    },
+    "properties" : {
+      "titles" : "Cephallania (island)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530826" ],
+    "titles" : [ "Cephallania (island)" ],
+    "names" : [ "Cephallania" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κεφαλλήνεσσιν", "Κεφαλλήνων", "Κεφαλλήνων" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.719464, 37.631561 ]
+    },
+    "properties" : {
+      "titles" : "Argos",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570106" ],
+    "titles" : [ "Argos" ],
+    "names" : [ "Argos", "Pelasgia", "Ἄργος", "Árgos, Argos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Δαναοὶ", "Δαναῶν", "Ἀργείων", "Ἀργείων", "Ἄργεος", "Ἀργεῖοι" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.3584897, 40.0862269 ]
+    },
+    "properties" : {
+      "titles" : "Olympos (mountain in Greece)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/491677" ],
+    "titles" : [ "Olympos (mountain in Greece)" ],
+    "names" : [ "Ὄλυμπος", "Olympos, Ólympos, Olumpos", "Οὔλυμπος", "Oulympos, Oulumpos", "Olympus M.", "Olympus", "Olympus" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Οὐλύμποιο", "Ὄλυμπον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.3957984, 37.9391027 ]
+    },
+    "properties" : {
+      "titles" : "Kyllene (mountain)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570391" ],
+    "titles" : [ "Kyllene (mountain)" ],
+    "names" : [ "Κυλλήνη", "Kyllene" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κυλλήνιος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.735417, 38.792331 ]
+    },
+    "properties" : {
+      "titles" : "Nerikos?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/531012" ],
+    "titles" : [ "Nerikos?" ],
+    "names" : [ "Nerikos", "Neritos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Νήρικον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.64944, 38.70819 ]
+    },
+    "properties" : {
+      "titles" : "Leucas (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530975" ],
+    "titles" : [ "Leucas (island)" ],
+    "names" : [ "Leucas", "Leukadia" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λευκάδα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.638399, 38.44193 ]
+    },
+    "properties" : {
+      "titles" : "Ithaca Ins.",
+      "annotations" : 8
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530906" ],
+    "titles" : [ "Ithaca Ins." ],
+    "names" : [ "Ithaca" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἰθάκῃ", "Ἰθακήσιοι", "Ἰθάκης", "Ἰθακήσιοι", "Ἰθάκην", "Ἰθακήσιοι", "Ἰθακήσιοι", "Ἰθάκης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.224585911364, 38.102121472776 ]
+    },
+    "properties" : {
+      "titles" : "Achaea/Achaia (region)",
+      "annotations" : 12
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570028" ],
+    "titles" : [ "Achaea/Achaia (region)" ],
+    "names" : [ "Achaea", "Achaea", "Aigialos", "Achaia", "Achaia", "Ἀχαία", "Achaia", "Αἰγιάλεια", "Aigialeia", "Ἀχαιοί", "Achaioi" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀχαιῶν", "Ἀχαιοί", "Ἀχαιῶν", "Ἀχαιϊάδων", "Ἀχαιούς", "Ἀχαιούς", "Ἀχαιοί", "Ἀχαιοὶ", "Ἀχαιούς", "Ἀχαιῶν", "Παναχαιοί", "Ἀχαιούς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    },
+    "properties" : {
+      "titles" : "Sicilia (island)",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462492" ],
+    "titles" : [ "Sicilia (island)" ],
+    "names" : [ "Sicilia", "Sicily", "Sicily", "Trinacria", "Trinacria", "Σικελία", "Sikelía, Sikelia", "Sizilien", "Sizilien" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σικανίης", "Σικελὴ", "Σικελὴ", "Σικελή" ]
+  } ]
+}

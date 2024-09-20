@@ -1,0 +1,116 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.23873, 39.9577 ]
+    },
+    "properties" : {
+      "titles" : "Ilium/Troia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550595" ],
+    "titles" : [ "Ilium/Troia" ],
+    "names" : [ "Ilium", "Troia", "Troia", "Troy", "Troy", "Troja", "Τροία", "Troía, Troia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κακοΐλιον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.719464, 37.631561 ]
+    },
+    "properties" : {
+      "titles" : "Argos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570106" ],
+    "titles" : [ "Argos" ],
+    "names" : [ "Argos", "Pelasgia", "Ἄργος", "Árgos, Argos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀργείη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.3584897, 40.0862269 ]
+    },
+    "properties" : {
+      "titles" : "Olympos (mountain in Greece)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/491677" ],
+    "titles" : [ "Olympos (mountain in Greece)" ],
+    "names" : [ "Ὄλυμπος", "Olympos, Ólympos, Olumpos", "Οὔλυμπος", "Oulympos, Oulumpos", "Olympus M.", "Olympus", "Olympus" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὀλύμπια", "Ὀλύμπιος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.638399, 38.44193 ]
+    },
+    "properties" : {
+      "titles" : "Ithaca Ins.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530906" ],
+    "titles" : [ "Ithaca Ins." ],
+    "names" : [ "Ithaca" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἰθάκῃ", "Ἰθάκης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.224585911364, 38.102121472776 ]
+    },
+    "properties" : {
+      "titles" : "Achaea/Achaia (region)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570028" ],
+    "titles" : [ "Achaea/Achaia (region)" ],
+    "names" : [ "Achaea", "Achaea", "Aigialos", "Achaia", "Achaia", "Ἀχαία", "Achaia", "Αἰγιάλεια", "Aigialeia", "Ἀχαιοί", "Achaioi" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀχαιΐδος", "Ἀχαιῶν", "Ἀχαιοὶ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.255096, 38.318092 ]
+    },
+    "properties" : {
+      "titles" : "Thebai/Thebae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541138" ],
+    "titles" : [ "Thebai/Thebae" ],
+    "names" : [ "Thebae", "Thebae", "Θήβα", "Thiva, Thíva", "Thebes", "Thebes", "Θῆβαι", "Thebai, Thēbai" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Θηβαίου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    },
+    "properties" : {
+      "titles" : "Sicilia (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462492" ],
+    "titles" : [ "Sicilia (island)" ],
+    "names" : [ "Sicilia", "Sicily", "Sicily", "Trinacria", "Trinacria", "Σικελία", "Sikelía, Sikelia", "Sizilien", "Sizilien" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λαιστρυγονίην" ]
+  } ]
+}

@@ -1,0 +1,549 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <Placemark>
+        <name>Πύλονδʼ,Πύλον,Πύλου,Πυλίοισιν,Πυλίων</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>5</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570640</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Pylos/Koryphasion</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Πύλονδʼ,Πύλον,Πύλου,Πυλίοισιν,Πυλίων</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>21.69583,36.91198,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Τρώων,Τροίηνδε,Τρώων πόλιν,Τρωσὶν,Πριάμοιο πόλιν,Τροίηθεν,ἄστυ μέγα Πριάμοιο</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>9</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/550595</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Ilium/Troia</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Τρώων,Τροίηνδε,Τρώων πόλιν,Τρωσὶν,Πριάμοιο πόλιν,Τροίηθεν,ἄστυ μέγα Πριάμοιο</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>26.23873,39.9577,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Τένεδον</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/550912</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Tenedos (island)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Τένεδον</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>26.05,39.816667,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Εὔβοιαν</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/540775</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Euboea (island)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Εὔβοιαν</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>23.87,38.53,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Γερήνιος</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>10</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570261</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Geren(i)a</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Γερήνιος</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.208656,36.927195,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ἀλφειὸς</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570067</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Alphe(i)os (river)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ἀλφειὸς</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>21.25,37.75,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Φηρὰς</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/541044</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Pherai</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Φηρὰς</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.737728,39.384163,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Σούνιον</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/579884</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Athena, T.</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Σούνιον</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>24.0359195,37.683423,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Μίμαντα</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/550744</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Mimas M.</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Μίμαντα</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>26.5013,38.55674,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ἀθηνάων,ἄκρον Ἀθηνέων</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/579885</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Athenae</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ἀθηνάων,ἄκρον Ἀθηνέων</value>
+          </Data>
+          <Data name="comments">
+                <value>&quot;cape of Athens&quot;</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>23.726464,37.971687,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Φαιστόν</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/589987</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Phaistos</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Φαιστόν</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>24.8143,35.05138,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ἄργεϊ,Ἀργείοισιν,Ἄργεος</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>6</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570106</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Argos</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ἄργεϊ,Ἀργείοισιν,Ἄργεος</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.719464,37.631561,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Αἰγύπτῳ</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/357994</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Egypt</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Αἰγύπτῳ</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>29.880796169773134,26.4902014068366,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ὀλύμπια</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/491677</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Olympos (mountain in Greece)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ὀλύμπια</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.3584897,40.0862269,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Μυκήνης</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570491</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Mycenae</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Μυκήνης</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.756111,37.730833,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Γεραιστὸν</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570259</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Geraistos Pr.</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Γεραιστὸν</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>24.5117,37.94963,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Χίοιο</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/550497</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Chios (island)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Χίοιο</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>26.053,38.414,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Λέσβῳ</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/550696</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Lesbos (island)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Λέσβῳ</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>26.10052,39.20874,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Κύδωνες</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/589886</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Kydonia</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Κύδωνες</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>24.019611,35.517333,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ἰθάκης</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/530906</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Ithaca Ins.</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ἰθάκης</value>
+          </Data>
+          <Data name="comments">
+                <value>ithaca</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>20.638399,38.44193,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ἀχαιοὶ,Ἀχαιῶν,Ἀχαιοί,Ἀχαιιάδων,Ἀχαιικοῦ,Ἀχαιούς,Ἀχαιοὺς,Ἀργείοις</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>18</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570028</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Achaea/Achaia (region)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ἀχαιοὶ,Ἀχαιῶν,Ἀχαιοί,Ἀχαιιάδων,Ἀχαιικοῦ,Ἀχαιούς,Ἀχαιοὺς,Ἀργείοις</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.224585911364,38.102121472776,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Κρήτην,Κρήτῃ</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/589748</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Creta (island)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Κρήτην,Κρήτῃ</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>24.995769971495,35.219844391733,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Μαλειάων</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570455</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Malea Pr.</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Μαλειάων</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>23.19975,36.43603,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Γόρτυνος</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/589796</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Gortyn(a)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Γόρτυνος</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>24.9469437222,35.0627201667,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ψυρίης</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/550846</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Psyra (island)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ψυρίης</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>25.586,38.567,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Λακεδαίμονα</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/570406</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Lacedaemon/Laconia</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Λακεδαίμονα</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>22.25,37.25,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Ἰαρδάνου</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://pleiades.stoa.org/places/687932</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Iordanes (river)</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Ἰαρδάνου</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>35.6191595,33.1864496,0</coordinates>
+            </Point>
+      </Placemark>
+      </Document>
+    </kml>
