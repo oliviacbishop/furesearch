@@ -26,13 +26,13 @@ Structure of this folder:
 
 <img src="https://github.com/ChiaraPalladino/furesearch/blob/84722428468d618bf6cd62a7cb89e3e8795f3713/text-alignment/royal_inscriptions/royal_inscriptions_stats.png" width=80% height=80%>
 
-#### Euripides' _Bacchae_: 
+#### Parodos of _Bacchae_: 
 6 Individual Alignments  
 6 Translators   
 105 lines from the Parodos of _Bacchae_   
 567 total Translation Pairs   
 
-
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/8bee93a73b6f8de526108d4f6e440982d240f7b6/text-alignment/euripides_bacchae/parodos_stats.png" width=80% height=80%>
 
 #### Transphobia in _Bacchae_:
 12 Individual Alignments   
