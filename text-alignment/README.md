@@ -16,9 +16,9 @@ Structure of this folder:
 72 Individual Alignments   
 6 Translators   
 205 Odyssey Lines   
-5448 Translation Pairs   
+5347 Translation Pairs   
 
-<img src="https://github.com/user-attachments/assets/24ee21e7-9f21-406e-b973-8b9f1e1a2a87" width=80% height=80%>
+<img src="image-1.png" width=80% height=80%>
 
 
 #### Akkadian Inscriptions: 
