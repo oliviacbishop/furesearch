@@ -18,20 +18,28 @@ Structure of this folder:
 205 Odyssey Lines   
 5347 Translation Pairs   
 
-<img src="image-1.png" width=80% height=80%>
+<img src="odyssey_stats.png" width=80% height=80%>
 
 
 #### Akkadian Inscriptions: 
 86 inscriptions, 10 letters, 8383 Translation Pairs
 
-<img src="image.png" width=80% height=80%>
+<img src="royal_inscriptions_stats.png" width=80% height=80%>
 
 #### Euripides' _Bacchae_: 
 
 
 #### Transphobia in _Bacchae_:
+12 Individual Alignments   
+4 Translators   
+162 lines of Euripides _Bacchae_    
+2365 total Translation Pairs  
 
-  
+<img src="transphobia_bacchae_stats.png" width=80% height=80%>   
+
+If you would like to use or cite this project, please use this presentation: 
+* C. Palladino, A. Muh, 2024. “Translation Alignment and Machine Learning for Ancient Languages”. Digital Classics Panel 2024 – AIA/SCS 2024 Annual Meeting, Chicago, January 7.
+
 ## Other references: 
 * Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, <i>Journal of Open Humanities Data</i>, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.
 
