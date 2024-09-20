@@ -22,6 +22,14 @@ Structure of this folder:
 
 
 #### Royal Inscriptions: 
+86 inscriptions
+8148 Translation Pairs
+
+
+
+#### Royal Letters:
+10 Letters
+235 Translation Pairs
 
 
 #### Euripides' _Bacchae_: 
