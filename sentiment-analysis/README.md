@@ -13,8 +13,9 @@ The datasets have been created in the course of several Research Fellowships, sp
 The ancient Greek repository contains the following annotated datasets: 
 
 * Aristophanes, _Clouds_ : 142 text units; 1501 lines of poetry; 
-* Aristophanes, _Wasps_
+* Aristophanes, _Wasps_: 142 text units; 1537 lines of poetry; 
 
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/4585ef84fcd6dec1a737e8b2e313e77ea858fe26/sentiment-analysis/aristophanes/aristophanes-counts.png" width=60% height=60%>   
 
 
 #### Latin 
