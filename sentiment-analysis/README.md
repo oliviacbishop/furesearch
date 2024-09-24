@@ -17,6 +17,7 @@ Each sentiment analysis dataset in the repository contains the following values:
 * Relevant Lexicon: lemmatized words that have been used to identify the sentiment class.
 * Comments: documentation on specific choices. 
 
+Note that Aristophanes and Lucan also include a "Fun Score" and a "Violence Score", respectively. 
 
 #### Ancient Greek
 
