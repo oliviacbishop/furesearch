@@ -8,6 +8,16 @@ The datasets have been created in the course of several Research Fellowships, sp
 
 ### Facts and Figures
 
+Each sentiment analysis dataset in the repository contains the following values: 
+* Citation: the line number, paragraph, or other text unit. 
+* Text unit: a unique number identifying individual text units.
+* Text: a transcription of the text unit.
+* Sentiment class: the identified sentiment class, according to the four values "Negative", "Positive", "Neutral", and "Mixed".
+* Translation: a translation of the text unit.
+* Relevant Lexicon: lemmatized words that have been used to identify the sentiment class.
+* Comments: documentation on specific choices. 
+
+
 #### Ancient Greek
 
 The ancient Greek repository contains the following annotated datasets: 
@@ -22,7 +32,7 @@ The ancient Greek repository contains the following annotated datasets:
 
 The Latin repository contains the following annotated datasets: 
 
-* Fronto, _Letters to Marcus Aurelius_
-* Lucan, _Pharsalia_
-* Virgil, _Georgics_
+* Fronto, _Letters to Marcus Aurelius_: 6 letters; 32 text units; 
+* Lucan, _Pharsalia_: 122 text units; 535 lines of poetry;
+* Virgil, _Georgics_: 50 text units; 263 lines of poetry;
 
