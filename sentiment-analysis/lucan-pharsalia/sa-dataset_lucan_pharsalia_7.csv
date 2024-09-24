@@ -1,4 +1,4 @@
-Verse,Sentence number,Segment ,Sentiment class,Translation ,Relevant lexicon ,Comments,Violence
+Verse,Sentence number,Segment,Sentiment class,Translation,Relevant lexicon,Comments,Violence score
 337-340,81,"vīdit ut hostīlēs in rēctum exīre catervās Pompeius nūllāsque morās permittere bellō sed superīs placuisse diem, stat corde gelātō attonitus",Negative,"When Pompey saw the enemy army advance directly,/to further the battle without delay, he stood appalled,/his blood froze, knowing this day chosen by the gods.",,,
 341-344,82,"premit inde metus, tōtumque per agmen sublīmī praevectus equō ‘quem flāgitat’ inquit ‘vestra diem virtūs, fīnis cīvīlibus armīs, quem quaesīstis, adest",Positive,"But swallowing his fears he rode along the line on his\great war-horse. ‘Behold the day,’ he cried, ‘that your\virtue demanded, the end of the civil war you sought. ",,,
 344 - 346,83,"tōtās effundite vīrēs: extrēmum ferrī superest opus, ūnaque gentīs hōra trahit",Positive,Expend all your strength; one last trial of arms is left;\a single hour that draws all nations here. ,,,
