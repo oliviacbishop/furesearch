@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+<id>31409</id>
+<title>Cusas 13 - 170</title>
+<translator>Alex Forbes</translator>
+<aligned-text>
+	<language lnum="L1" xml:lang="AKK" />
+	<language lnum="L2" xml:lang="ENG" />
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n="1-1" tp="sen_0">
+				<text>en-ma#</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2" tp="sen_1">
+				<text>na-bi2-um</text>
+				<refs nrefs="2-2 2-4" />
+			</w>
+			<w n="1-3" tp="sen_2">
+				<text>a-na</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-4" tp="sen_3">
+				<text>szu-i3-li2-su</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-5" tp="sen_4">
+				<text>2</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-6" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-7" tp="sen_4">
+				<text>u@c</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-8" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-9" tp="sen_5">
+				<text>_sze</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-10" tp="sen_6">
+				<text>gur_</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-11" tp="sen_6">
+				<text>sza</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-12" tp="">
+				<text>ur-sa6</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-13" tp="sen_7">
+				<text>a-na</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-14" tp="sen_8">
+				<text>im-ri-im</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-15" tp="sen_9">
+				<text>u-su-bi-lam</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-16" tp="sen_10">
+				<text>a-na</text>
+				<refs nrefs="2-16" />
+			</w>
+			<w n="1-17" tp="sen_12">
+				<text>nibru</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-18" tp="">
+				<text>{</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-19" tp="sen_12">
+				<text>ki</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-20" tp="">
+				<text>}</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-21" tp="sen_13">
+				<text>su-bi#-lam</text>
+				<refs nrefs="2-23 2-24" />
+			</w>
+			<w n="1-22" tp="">
+				<text>mes-ba-lik-da</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-23" tp="sen_14">
+				<text>isz-ma2</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-24" tp="sen_15">
+				<text>ma-li-BU</text>
+				<refs nrefs="2-27 2-28" />
+			</w>
+			<w n="1-25" tp="">
+				<text>u-s</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-26" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-27" tp="">
+				<text>i-u3</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n="2-1" tp="sen_0">
+				<text>From</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2" tp="sen_1">
+				<text>Nabi</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3" tp="">
+				<text>'</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-4" tp="sen_1">
+				<text>um</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-5" tp="sen_2">
+				<text>to</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-6" tp="sen_3">
+				<text>Shu-ilisu</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-7" tp="">
+				<text>:</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-8" tp="sen_4">
+				<text>2</text>
+				<refs nrefs="1-5 1-7" />
+			</w>
+			<w n="2-9" tp="sen_5">
+				<text>of</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-10" tp="">
+				<text>the</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-11" tp="sen_6">
+				<text>chapel</text>
+				<refs nrefs="1-10 1-11" />
+			</w>
+			<w n="2-12" tp="">
+				<text>are</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-13" tp="sen_9">
+				<text>gathering</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-14" tp="sen_7">
+				<text>with</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-15" tp="sen_8">
+				<text>Imrim</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-16" tp="sen_10">
+				<text>to</text>
+				<refs nrefs="1-16" />
+			</w>
+			<w n="2-17" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-18" tp="">
+				<text>go</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-19" tp="">
+				<text>to</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-20" tp="">
+				<text>?</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-21" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-22" tp="sen_12">
+				<text>Nippur</text>
+				<refs nrefs="1-17 1-19" />
+			</w>
+			<w n="2-23" tp="sen_13">
+				<text>to</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-24" tp="sen_13">
+				<text>gather</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-25" tp="">
+				<text>at</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-26" tp="">
+				<text>the</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-27" tp="sen_15">
+				<text>burial</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-28" tp="sen_15">
+				<text>mound</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-29" tp="sen_14">
+				<text>for</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-30" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-31" tp="">
+				<text>worship</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-32" tp="">
+				<text>?</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-33" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-34" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
+</document>

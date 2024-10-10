@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+<id>31410</id>
+<title>Cusas 13 - 197</title>
+<translator>Alex Forbes</translator>
+<aligned-text>
+	<language lnum="L1" xml:lang="AKK" />
+	<language lnum="L2" xml:lang="ENG" />
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n="1-1" tp="sen_0">
+				<text>en-ma</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2" tp="sen_1">
+				<text>wa-tar2-za-at</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3" tp="sen_2">
+				<text>a-na</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4" tp="sen_3">
+				<text>_ensi2#_</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5" tp="sen_4">
+				<text>qi2#-bi2#-ma#</text>
+				<refs nrefs="2-6 2-7" />
+			</w>
+			<w n="1-6" tp="sen_5">
+				<text>_ARAD2-su2_</text>
+				<refs nrefs="2-11 2-12" />
+			</w>
+			<w n="1-7" tp="">
+				<text>[</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-8" tp="">
+				<text>n</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-9" tp="">
+				<text>]</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-10" tp="sen_6">
+				<text>_udu_</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-11" tp="sen_7">
+				<text>isz#-ri-ik#</text>
+				<refs nrefs="2-17" />
+			</w>
+			<w n="1-12" tp="sen_8">
+				<text>li#-li-kam-ma</text>
+				<refs nrefs="2-18 2-19 2-20" />
+			</w>
+			<w n="1-13" tp="sen_9">
+				<text>li#-wa#-ti-isz</text>
+				<refs nrefs="2-22" />
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n="2-1" tp="sen_0">
+				<text>From</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2" tp="sen_1">
+				<text>Watarzat</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3" tp="sen_2">
+				<text>to</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4" tp="sen_3">
+				<text>Ensi</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5" tp="">
+				<text>:</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-6" tp="sen_4">
+				<text>My</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-7" tp="sen_4">
+				<text>statement</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-8" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-9" tp="">
+				<text>about</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-10" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-11" tp="sen_5">
+				<text>your</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-12" tp="sen_5">
+				<text>slave</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-13" tp="">
+				<text>'</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-14" tp="">
+				<text>s</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-15" tp="sen_6">
+				<text>troubles</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-16" tp="">
+				<text>:</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-17" tp="sen_7">
+				<text>10%</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-18" tp="sen_8">
+				<text>of</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-19" tp="sen_8">
+				<text>my</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-20" tp="sen_8">
+				<text>colocynths</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-21" tp="">
+				<text>are</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-22" tp="sen_9">
+				<text>packaged</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-23" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
+</document>
