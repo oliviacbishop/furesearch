@@ -43,7 +43,7 @@ This is how your homepage should look after logging into Transkribus
 * Select the collection you want your documents to go to
 * There is a box to name your documents
 * You can either drag and drop your files directly into Transkribus, or click browse and choose from your own files.
-* Click submit and wait for your files to upload.
+* Click submit and wait for your documents to upload.
 
 ## Using an automatic transcription and layout model 
 In order to generate a transcription using an AI text recognition model, you can go about it two ways.
