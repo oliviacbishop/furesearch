@@ -22,7 +22,7 @@ This is how your homepage should look after logging into Transkribus
 <img src="https://github.com/user-attachments/assets/262716fc-6a0c-44c3-8d72-fc99f94bb546" width=80% height=80%>
 
 * The Camerarius collection is divided into sections to maintain order with page/emblem transcription. When uploading entries (emblem and page(s)), be sure to do the same.
-  
+![image](https://github.com/user-attachments/assets/05c12479-53c7-4824-bda8-336fbf103fea)
 * To change the name of the sections, simply click the three dots on the bottom right of the section
 
 <img src="https://github.com/user-attachments/assets/7967cd91-f67f-4d9a-ba88-85b7a22a2ffa" width=40% height=40%>
