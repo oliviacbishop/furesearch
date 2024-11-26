@@ -50,8 +50,12 @@ In order to generate a transcription using an AI text recognition model, you can
 
 1. For one page:
 * Open the page you want to transcribe and click on the "Start automatic transcription" button
+![image](https://github.com/user-attachments/assets/0471e2c7-74cf-444d-a115-3cb0ded2f650)
+
 * This will bring you to a page that lists all available public models to use. For the Camerarius project, we are using the Noscemus GM 6 model.
-* Click on the text model and click "Start Recognition" in the top right corner
+* Select the text model and click "Start Recognition" in the top right corner
+![image](https://github.com/user-attachments/assets/cccf092e-162c-42f4-8a7b-860423ce3a0f)
+
 
 2. For multiple pages:
 * Check the box in the bottom left corner of each page you want transcribed
@@ -62,7 +66,7 @@ In order to generate a transcription using an AI text recognition model, you can
   
 <img src="https://github.com/user-attachments/assets/4765e735-1261-404a-8ce6-7ce636fefa38" width=40% height=40%>
   
-* Select AI model and start recognition. 
+* Select text model and start recognition. 
 
 Information on Noscemus GM 6:
 * Trained on Antiqua-based print 
@@ -74,7 +78,8 @@ Information on Noscemus GM 6:
 ## Transcribing a page 
 
 * To add/create a line, go to the far left toolbar and click on "Add a Line"
-* Click once on the place you want your line to start, then click twice where you want your line to stop. 
+* Click once on the place you want your line to start, then click twice where you want your line to stop.
+* The same applies when creating a region
 
 # Preliminary transcription guidelines
 
@@ -134,8 +139,8 @@ Information on Noscemus GM 6:
 
 <img src="https://github.com/user-attachments/assets/9c083500-e652-4278-a56c-c8c63147222d" width=60% height=60%>   
 
-* This will bring you to a page comprizing of all the tags you have made for that collection. Just like the big Tag section, you can also switch between textual and structural tags using the drop down.
-* Then, click the button in the "Visibility" column. This will make that tag "visible" in your collection.
+* This will bring you to a page comprising of all the tags you have made for that collection. Just like the big Tag section, you can also switch between textual and structural tags using the drop down.
+* Then, click the button in the "Visibility" column. This will make the tag "visible" in your collection.
 
 <img src="https://github.com/user-attachments/assets/d8db13ea-f4fa-47be-b1a5-e639786d6fb9" width=60% height=60%>   
 
@@ -180,7 +185,7 @@ First look up the author of the quotation in either library (scaife or philogic)
 
 Using Scaife, 
 * Searching for the author will pull up their bibliography
-* Sometimes the spelling doesnt match the citation
+* Sometimes the spelling doesn't match the citation
 * Usually the longer the quotation the more accurate the spelling
 
 Using Philogic,
