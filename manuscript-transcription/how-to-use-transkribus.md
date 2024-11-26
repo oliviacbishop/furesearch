@@ -36,10 +36,11 @@ This is how your homepage should look after logging into Transkribus
 
 ## Uploading and managing documents 
 
-* Click on "Upload Files" in the top right corner
+* From the Homepage, click on "Upload Files" in the top right corner
   
 <img src="https://github.com/user-attachments/assets/4a405bb7-7d9b-4ec3-bedf-03ef2794dffb" width=40% height=40%>
 
+* Select the collection you want your documents to go to
 * There is a box to name your documents
 * You can either drag and drop your files directly into Transkribus, or click browse and choose from your own files.
 * Click submit and wait for your files to upload.
