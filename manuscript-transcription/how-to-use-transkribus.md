@@ -66,7 +66,7 @@ In order to generate a transcription using an AI text recognition model, you can
 
 * Then click the "[T] Recognize" button. This will bring you to the text recognition model page
   
-<img src="https://github.com/user-attachments/assets/4765e735-1261-404a-8ce6-7ce636fefa38" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/4765e735-1261-404a-8ce6-7ce636fefa38" width=20% height=20%>
   
 * Select text model and start recognition. 
 
@@ -86,52 +86,45 @@ In order to generate a transcription using an AI text recognition model, you can
 ## How to enable tags
 * To tag something in your transcription, you must enable tags first. To do so, go to the bar on the far right of your transcription page and click the arrow that says "Tags".  
 
-<img src="https://github.com/user-attachments/assets/6a71b28b-3276-47f3-90e6-c8faceeef9f9" width=70% height=70%>
+<img src="https://github.com/user-attachments/assets/6a71b28b-3276-47f3-90e6-c8faceeef9f9" width=15% height=15%>   
 
-* Highlight your desired word(s) with your mouse. This will pull up an array of tags you can use.  
+* Highlight your desired word(s) with your mouse. This will generate an array of available tags. In this example, you would use the "Language" tag   
 
-<img src="https://github.com/user-attachments/assets/2bf0168a-8d8e-47ea-bc0d-ab61c23e82eb" width=60% height=60%>   
+<img src="https://github.com/user-attachments/assets/2bf0168a-8d8e-47ea-bc0d-ab61c23e82eb" width=40% height=40%>    
 
-* In this example, you would use the "Language" tag
-* Simply click on the desired tag and fill whatever information that tag needs.   
-
-<img src="https://github.com/user-attachments/assets/8c595c08-e31a-4c85-b928-39e74fe1d286" width=60% height=60%>   
-
-* Here, the you would enter "Ancient Greek" as the language. Information about Wikidata ID is explained further in the "Other" section below.
+* Simply click on the desired tag and fill whatever information that tag needs. Here, the you would enter "Ancient Greek" as the language. For more information on how to use the specific tags, see the Transcription Guidelines.
+    
+<img src="https://github.com/user-attachments/assets/8c595c08-e31a-4c85-b928-39e74fe1d286" width=30% height=30%>    
 
 ### Creating and Editing tags
 * To create tags, click on the "Tags" button in the top left of your dashboard.
 * Select the "Digital Camerarius" collection.
 * It will bring you to a page that allows you to manage your tags, change elements from pre-existing tags, create, and delete tags.
-* There are two kinds of tags we use: textual, and structural
+* There are two kinds of tags we use: textual and structural
 
-<img src="https://github.com/user-attachments/assets/ec0349fc-096e-4d26-9908-b9fd54da2cd2" width=60% height=60%>   
+<img src="https://github.com/user-attachments/assets/ec0349fc-096e-4d26-9908-b9fd54da2cd2" width=30% height=30%>   
 
-* The drop down allows you to switch between viewing your structural tags, and your textual tags.
-* Textual tags are what you use on the textual page of Camerarius entries
-* Structural tags are what you use on the emblem page of Camerarius entries
+* The drop down allows you to switch between viewing your structural tags, and your textual tags. **Textual tags** are used for semantic markup, e.g. indicating persons, authors, citations and quotations, while **Structural tags** are used to markup the text layour and structure, including headers, titles, captions, and figures. 
 
 * To create new tags, simply click on the "Create New" button right next to the drop down.
 * You can name the tag, choose the color it will show up as, and add atributes to the tag.
 
-<img src="https://github.com/user-attachments/assets/908c2c95-e020-42a4-8b78-134fcddb1126" width=60% height=60%>   
+<img src="https://github.com/user-attachments/assets/908c2c95-e020-42a4-8b78-134fcddb1126" width=35% height=35%>   
 
 * When you are satisfied with your tag, click the "Create" button at the bottom of the page. You may need to refresh Transkribus a few times before it shows up in your collection.
-* To edit tags, simply click the pencil on whatever tag you want to change. Once done, click "Save".
-
-<img src="https://github.com/user-attachments/assets/fb7fbda1-1cd5-4774-8f22-7d92c1394a57" width=60% height=60%>   
+* To edit tags, simply click the pencil on whatever tag you want to change. Once done, click "Save". <img src="https://github.com/user-attachments/assets/fb7fbda1-1cd5-4774-8f22-7d92c1394a57" width=5% height=5%>   
 
 ### Getting your new tags in text  
 
 * When you create a new tag, it will not show up immediately on your page. You must open your transcription first, and highlight the word(s) you want to tag.
 * Instead of choosing a tag, click on "Tag Settings"
 
-<img src="https://github.com/user-attachments/assets/9c083500-e652-4278-a56c-c8c63147222d" width=60% height=60%>   
+<img src="https://github.com/user-attachments/assets/9c083500-e652-4278-a56c-c8c63147222d" width=30% height=30%>   
 
 * This will bring you to a page comprising of all the tags you have made for that collection. Just like the big Tag section, you can also switch between textual and structural tags using the drop down.
 * Then, click the button in the "Visibility" column. This will make the tag "visible" in your collection.
 
-<img src="https://github.com/user-attachments/assets/d8db13ea-f4fa-47be-b1a5-e639786d6fb9" width=60% height=60%>   
+<img src="https://github.com/user-attachments/assets/d8db13ea-f4fa-47be-b1a5-e639786d6fb9" width=30% height=30%>   
 
 ## Transkribus shortcuts and info:
 
