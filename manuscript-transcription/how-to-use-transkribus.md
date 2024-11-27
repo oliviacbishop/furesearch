@@ -22,17 +22,19 @@ This is how your homepage should look after logging into Transkribus
 <img src="https://github.com/user-attachments/assets/262716fc-6a0c-44c3-8d72-fc99f94bb546" width=80% height=80%>
 
 * The Camerarius collection is divided into sections to maintain order with page/emblem transcription. When uploading entries (emblem and page(s)), be sure to do the same.
-![image](https://github.com/user-attachments/assets/05c12479-53c7-4824-bda8-336fbf103fea)
+<img src="https://github.com/user-attachments/assets/05c12479-53c7-4824-bda8-336fbf103fea" width=60% height=60%>  
+
 * To change the name of the sections, simply click the three dots on the bottom right of the section
 
-<img src="https://github.com/user-attachments/assets/7967cd91-f67f-4d9a-ba88-85b7a22a2ffa" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/7967cd91-f67f-4d9a-ba88-85b7a22a2ffa" width=40% height=40%>  
 
-* Then, click "Edit Metadata"
-* From there you can change the Title, add a description, etc.
+* Then, click "Edit Metadata".
+  
+* From there you can change the Title, add a description, etc.  
 
-<img src="https://github.com/user-attachments/assets/178754a3-5e08-4fdb-a94f-f1fa4fbf6dde" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/178754a3-5e08-4fdb-a94f-f1fa4fbf6dde" width=50% height=50%>  
 
-* Scroll to the bottom of the page and click "Save"
+* Scroll to the bottom of the page and click "Save". 
 
 ## Uploading and managing documents 
 
@@ -40,24 +42,24 @@ This is how your homepage should look after logging into Transkribus
   
 <img src="https://github.com/user-attachments/assets/4a405bb7-7d9b-4ec3-bedf-03ef2794dffb" width=40% height=40%>
 
-* Select the collection you want your documents to go to
-* There is a box to name your documents
+* Select the collection for your documents and add appropriate metadata in the boxes  
 * You can either drag and drop your files directly into Transkribus, or click browse and choose from your own files.
-* Click submit and wait for your documents to upload.
+* Click submit and wait for your documents to upload.  
 
 ## Using an automatic transcription and layout model 
 In order to generate a transcription using an AI text recognition model, you can go about it two ways.
 
-1. For one page:
+#### For one page
 * Open the page you want to transcribe and click on the "Start automatic transcription" button
-![image](https://github.com/user-attachments/assets/0471e2c7-74cf-444d-a115-3cb0ded2f650)
+<img src="https://github.com/user-attachments/assets/0471e2c7-74cf-444d-a115-3cb0ded2f650" width=40% height=40%>
 
 * This will bring you to a page that lists all available public models to use. For the Camerarius project, we are using the Noscemus GM 6 model.
 * Select the text model and click "Start Recognition" in the top right corner
-![image](https://github.com/user-attachments/assets/cccf092e-162c-42f4-8a7b-860423ce3a0f)
+<img src="https://github.com/user-attachments/assets/cccf092e-162c-42f4-8a7b-860423ce3a0f" width=40% height=40%>
 
 
-2. For multiple pages:
+#### For multiple pages 
+
 * Check the box in the bottom left corner of each page you want transcribed
   
 <img src="https://github.com/user-attachments/assets/d07dc0f0-b288-4ff0-a902-0652e5454bf7" width=40% height=40%>
@@ -68,7 +70,7 @@ In order to generate a transcription using an AI text recognition model, you can
   
 * Select text model and start recognition. 
 
-Information on Noscemus GM 6:
+#### Information on Noscemus GM 6
 * Trained on Antiqua-based print 
 * Recognizes Greek shorthand: -ος ending
 * Recognizes Latin shorthand: et symbol, shorthand for atque (atq), long 's'
@@ -81,22 +83,8 @@ Information on Noscemus GM 6:
 * Click once on the place you want your line to start, then click twice where you want your line to stop.
 * The same applies when creating a region
 
-# Preliminary transcription guidelines
-
-* Page numbers do not need to be transcribed.
-* The Roman numeral entry numbers at the top of the page do not need to be transcribed.
-* Any typos should be fixed in the transcription and do not need to be tagged.
-* All Greek symbols should be fully resolved in the transcription and do not need to be tagged.
-* There is no need to capitalize the second letter at the top of each page. Transcribe the word as it is.
-  
-<img src="https://github.com/user-attachments/assets/0920f055-9320-4959-be80-5726886a9d39" width=60% height=60%>
-
-  In this example, 'UT' should be transcribed as 'Ut'.
-
-## Use of Tags 
-
-### How to enable tags
-* To tag something in your transcription, you must enable tags first. To do so, go to the bar on the far right of your transcription page and click the arrow that says "Tags". 
+## How to enable tags
+* To tag something in your transcription, you must enable tags first. To do so, go to the bar on the far right of your transcription page and click the arrow that says "Tags".  
 
 <img src="https://github.com/user-attachments/assets/6a71b28b-3276-47f3-90e6-c8faceeef9f9" width=70% height=70%>
 
@@ -133,7 +121,8 @@ Information on Noscemus GM 6:
 
 <img src="https://github.com/user-attachments/assets/fb7fbda1-1cd5-4774-8f22-7d92c1394a57" width=60% height=60%>   
 
-### Getting your new tags in text
+### Getting your new tags in text  
+
 * When you create a new tag, it will not show up immediately on your page. You must open your transcription first, and highlight the word(s) you want to tag.
 * Instead of choosing a tag, click on "Tag Settings"
 
@@ -143,57 +132,6 @@ Information on Noscemus GM 6:
 * Then, click the button in the "Visibility" column. This will make the tag "visible" in your collection.
 
 <img src="https://github.com/user-attachments/assets/d8db13ea-f4fa-47be-b1a5-e639786d6fb9" width=60% height=60%>   
-
-
-
-### Abbreviations and shorthand 
-
-* All abbreviations and shorthand must be resolved using the Transkribus "abbr" tag. The fully expanded word should be typed inside the "expansion" field.
-
-### Proper names 
-
-* Names should be tagged using the "person" tag.
-* There is no need to use the Person tag if it is in relation to a quotation or citation that has already been tagged. If the person does not have any reference tied to them in the text, then the Person tag may be used. 
-
-### Citations and Quotations of other authors
-
-A **Citation** is any reference to an outside author or work. For example, Aristotle lib. IV. cap. I.  
-Citations will often contain abbreviated versions of authors names and work titles. These should be resolved as much as it is reasonable in the citation tag. Further research may reveal the correct way to resolve these citations.  
-
-<img src="https://github.com/user-attachments/assets/f13dd89b-4270-481e-9927-98169966bfd3" width=50% height=50%>
-
-
-**Quotations** will contain any direct quotes and should be tagged as Quotations. The Quotation tag has space for information about the author of the quote. Instead of using the Person tag for a reference, just use the Quotation tag. 
-
-<img src="https://github.com/user-attachments/assets/12457bfc-f869-4841-8219-3efe025c2e00" width=50% height=50%>   
-
-
-See below in this document for researching quotations and citations (https://github.com/ChiaraPalladino/furesearch/blob/main/manuscript-transcription/README.md#tutorial-for-researching-quotationswords)
-
-### Other 
-
-* **Unclear elements** should be marked with the "unclear" tag. A question may be typed in the "question" attribute.
-* **Words in a different language** than Latin need to be marked with the "language" tag on Transkribus and the language needs to be specified in the "language" attribute. This will often be Ancient Greek. You may also use the Wikidata identifier Q35497 (click on Wikidata ID and type "Ancient Greek" in the search window).
-
-<img src="https://github.com/user-attachments/assets/904cceb4-756c-4f0a-869a-05f686b52669" width=50% height=50%>   
-
-
-## Tutorial for researching quotations/words
-First look up the author of the quotation in either library (scaife or philogic)
-* Scaife: https://scaife.perseus.org/search/?q=neredum&kind=form&format=instances&p=1
-* Philogic: https://artflsrv03.uchicago.edu/philologic4/Greek/ 
-
-Using Scaife, 
-* Searching for the author will pull up their bibliography
-* Sometimes the spelling doesn't match the citation
-* Usually the longer the quotation the more accurate the spelling
-
-Using Philogic,
-* You have to search by the lemma
-* It will pull up a bunch of options to choose from
-
-Look up word in Logeion to see if Camerarius made a spelling error or if he's just using another form of the word
-https://logeion.uchicago.edu/%CE%BB%CE%BF%CE%B3%CE%B5%E1%BF%96%CE%BF%CE%BD 
 
 ## Transkribus shortcuts and info:
 
