@@ -6,7 +6,7 @@ The creation of the datasets and the guidelines followed are illustrated here: .
 
 The datasets have been created in the course of several Research Fellowships, sponsored by the Furman Undergraduate Research fund. 
 
-### Facts and Figures
+## Facts and Figures
 
 Each sentiment analysis dataset in the repository contains the following values: 
 * Citation: the line number, paragraph, or other text unit. 
@@ -19,7 +19,7 @@ Each sentiment analysis dataset in the repository contains the following values:
 
 Note that Aristophanes and Lucan also include a "Fun Score" and a "Violence Score", respectively. 
 
-#### Ancient Greek
+## Ancient Greek
 
 The ancient Greek repository contains the following annotated datasets: 
 
@@ -40,7 +40,7 @@ Some insights about these files, generated through Claude 3.7 Sonnet:
 
 
 
-#### Latin 
+## Latin 
 
 The Latin repository contains the following annotated datasets: 
 
