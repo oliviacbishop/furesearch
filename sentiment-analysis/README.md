@@ -28,6 +28,17 @@ The ancient Greek repository contains the following annotated datasets:
 
 <img src="https://github.com/ChiaraPalladino/furesearch/blob/4585ef84fcd6dec1a737e8b2e313e77ea858fe26/sentiment-analysis/aristophanes/aristophanes-counts.png" width=30% height=30%>   
 
+Some insights about these files, generated through Claude Artifacts: 
+
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/main/sentiment-analysis/aristophanes/claude_sentiment_distribution_grc.png">   
+
+
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/main/sentiment-analysis/aristophanes/claude_average_funscore_grc.png">   
+
+
+<img src="https://github.com/ChiaraPalladino/furesearch/blob/main/sentiment-analysis/aristophanes/claude_funscore_distribution_grc.png">   
+
+
 
 #### Latin 
 
