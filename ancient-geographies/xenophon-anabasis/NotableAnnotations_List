@@ -1,8 +1,26 @@
 # Specific Notable Edge-Case Annotations 
-Including a list of all person.ethnic identifiers, as well as some other niche, grey-area exceptions. If they are posted here, they've been dealt with to a functional extent (ie. the best of my ability).
+An aggregate for notes that were made during the annotation process. Serves as a resource for better understanding this project's annotation process, and for understanding certain edge-cases. Annotations posted here have been resolved to at the very least a functional extent, while most are fully resolved.
 
-
-## Book 2 - Annotations to check: 
+## Book 1:
+* 1.2.8 “Great King” I think refers to Artaxerxes II?
+> Similar to the “King” debacle, not capitalized in the Greek (μεγάλου βασιλέως), but this is the only instance I’ve seen of “Great King”
+> Same instance shows up again in 1.7.13, 1.7.14, 
+* 1.2.10 “Lycaean festival” very odd fringe case
+> Very confused as to how to annotate this. The Greek here is Λύκαια, which Scaife identifies as the Lycaea, a festival celebrating Zeus Lycaea. Lycaea the festival has an Encyclopaedia Britannica entry, albeit very brief, but there is no corresponding Wikipedia entry (for the festival; there is one for a town of the same name), though it is heavily referenced in the Mount Lykaion and Lycaon (king of Arcadia). So, my best thought would be to either tag it as .event (but that seems more for one time big things, not recurring festivals) or as .miscellaneous, with either optionally having a .mythological tag on it. However, if it comes from Mt Lykaion (or even the town Lycaea), then maybe “Lycaean” would be better tagged as a collective.ethnic?
+* 1.2.12 “Cilican queen” 
+> The Greek uses just “Κίλισσα” (“a Cilician,” same as referring to any other person of the ethnic group) to refer to her, so I annotated “Cilician queen” as a person and tag it Epyaxa.person (similar to those “the Persian” or “the Greek” instances we’ve run into previously), then nested an annotation of “Cilician” inside of it tagged person.ethnic. This is consistent with annotations for other similar annotations, but this one felt weirder so I wanted to check in
+> This same entity also shows up in 1.2.14, 1.2.16, 1,2,18, and 1.2.20
+* 1.2.13 “so-called spring of Midas”
+> Refers to a stream of water that Midas used to water down wine to catch Silenus. As far as I can tell, this is referenced literally nowhere else, there is definitely no georeference point I can find, but it rides that line between being a mythological location and a real one. I put the .mythological tag on there just in case
+* 1.2.13 “the satyr”
+> So I know typically we don’t annotate things that aren’t capitalized, but this one is weird because it’s not capitalized in English, but is in Greek (τὸν Σάτυρον). Additionally, it refers to a very specific entity: Silenus. Given that, I went ahead and annotated it, but I wanted to check with you
+* 1.4.4 “the Gates between Syria and Cilica”
+> This area refers to the Belen Pass, but I’m uncertain as to whether I should annotate the whole string or just “Gates.” “Gates” itself isn’t unambiguous (I confused this area for the Cilician Gates on my first pass months ago) and it isn’t capitalized in Greek, yet it is capitalized in English, and annotating just “Gates” is way more condensed, and this is the only set of gates mentioned in the text, so it is unambiguous within the Anabasis. Given this, I went ahead and just annotated “Gates”
+* 1.6.7 “altar of Artemis”
+> Originally annotated this as just “Artemis,” but on a second look this might actually be the specific Temple of Artemis at Sardis. Should I annotate the whole string, and maybe do a nesting of “Artemis”?
+>
+> 
+## Book 2: 
  * 2.1.3 "the ruler of Teuthrania" and "the
 Laconian" > epithet    
       Explanation (CP):   ὁ Τευθρανίας is an article nom. sg. + placename at the genitive. βασιλεύς (ruler) is implied in this case. So, "king of Teuthrania" is a correct translation. I have indicated this in the comment to the annotation.
@@ -32,7 +50,7 @@ Laconian" > epithet
 * 2.6.16 "the Boeotian" and "of Leontini"
 * 2.6.21 "the Thessalian" 2.6.30 "the Arcadian" and "the Achaean"
 
-## Book 3 - Annotations to check: 
+## Book 3: 
 * 3.1.4 "the Athenian"
 * 3.1.5 "..., the Athenian"
 * 3.1.5 "Athenian government"
@@ -56,7 +74,7 @@ Laconian" > epithet
 * 3.5.5 "men of Greece" conundrum once more
 > See previous instances
 
-## Book 4 - Annotations to check:
+## Book 4:
 * 4.1.2 “Carduchian mountains” might actually need to be a location annotation?
 > “Carduchian mountains” must be annotated with one string and tagged as Corduene
  4.1.18 “the Laconian” and “the Arcadian”
@@ -81,20 +99,14 @@ Laconian" > epithet
 * 4.8.18 “the Acarnanian” “of Orchomenus”
 * 4.8.25 “a Spartan”
 
-## Book 1 - Annotations to check (not including those straightforward person.ethnics from previous entries):
-* 1.2.8 “Great King” I think refers to Artaxerxes II?
-> Similar to the “King” debacle, not capitalized in the Greek (μεγάλου βασιλέως), but this is the only instance I’ve seen of “Great King”
-> Same instance shows up again in 1.7.13, 1.7.14, 
-* 1.2.10 “Lycaean festival” very odd fringe case
-> Very confused as to how to annotate this. The Greek here is Λύκαια, which Scaife identifies as the Lycaea, a festival celebrating Zeus Lycaea. Lycaea the festival has an Encyclopaedia Britannica entry, albeit very brief, but there is no corresponding Wikipedia entry (for the festival; there is one for a town of the same name), though it is heavily referenced in the Mount Lykaion and Lycaon (king of Arcadia). So, my best thought would be to either tag it as .event (but that seems more for one time big things, not recurring festivals) or as .miscellaneous, with either optionally having a .mythological tag on it. However, if it comes from Mt Lykaion (or even the town Lycaea), then maybe “Lycaean” would be better tagged as a collective.ethnic?
-* 1.2.12 “Cilican queen” 
-> The Greek uses just “Κίλισσα” (“a Cilician,” same as referring to any other person of the ethnic group) to refer to her, so I annotated “Cilician queen” as a person and tag it Epyaxa.person (similar to those “the Persian” or “the Greek” instances we’ve run into previously), then nested an annotation of “Cilician” inside of it tagged person.ethnic. This is consistent with annotations for other similar annotations, but this one felt weirder so I wanted to check in
-> This same entity also shows up in 1.2.14, 1.2.16, 1,2,18, and 1.2.20
-* 1.2.13 “so-called spring of Midas”
-> Refers to a stream of water that Midas used to water down wine to catch Silenus. As far as I can tell, this is referenced literally nowhere else, there is definitely no georeference point I can find, but it rides that line between being a mythological location and a real one. I put the .mythological tag on there just in case
-* 1.2.13 “the satyr”
-> So I know typically we don’t annotate things that aren’t capitalized, but this one is weird because it’s not capitalized in English, but is in Greek (τὸν Σάτυρον). Additionally, it refers to a very specific entity: Silenus. Given that, I went ahead and annotated it, but I wanted to check with you
-* 1.4.4 “the Gates between Syria and Cilica”
-> This area refers to the Belen Pass, but I’m uncertain as to whether I should annotate the whole string or just “Gates.” “Gates” itself isn’t unambiguous (I confused this area for the Cilician Gates on my first pass months ago) and it isn’t capitalized in Greek, yet it is capitalized in English, and annotating just “Gates” is way more condensed, and this is the only set of gates mentioned in the text, so it is unambiguous within the Anabasis. Given this, I went ahead and just annotated “Gates”
-* 1.6.7 “altar of Artemis”
-> Originally annotated this as just “Artemis,” but on a second look this might actually be the specific Temple of Artemis at Sardis. Should I annotate the whole string, and maybe do a nesting of “Artemis”?
+## Book 5: 
+* Neon the Asinaean (5.3.4); I am unsure which Pleiades entry I should correspond “the Asinaean” to. The options are either Asine (Messenia) (pleiades:570125), which is a city on the Messenian Gulf, or Asinaeus (pleiades:570123) which corresponds to the Asinaean Gulf itself (alt. way to refer to the Messenian Gulf, derived from the city itself. 
+> It’s ambiguous whether Xenophon intends to indicate that Neon is from the city Asine itself, or just from the region that happens to borrow its name
+> Erring on the side of being more general than specific, I am selecting the latter, and will be linking the Messenian Gulf page (though tagging it as Asinaean Gulf)
+* (5.3.5) “treasury of the Athenians at Delphi” this is a long annotation, but it refers directly to a specific building that is logged in Pleiades, so I am going to annotate the whole string (though not nest anything in it) as a place
+* (5.3.6) “Asia”; there is a question of what he meant by Asia, and then consequently how to tag it in Pleiades.
+> I’ve chosen to associate this annotation with Asia Minor, as Xenophon is jumping forward in time beyond the Anabasis to, referencing is participation in the campaign of Agesilaus II in Ephesus, in order to tie up a loose end about his votive offering.
+> This means that, for Wikipedia linkage, I am linking this to Anatolia (as the page for Asia Minor redirects here)
+* (5.4.15) Metropolis: There is a city of the Mossynoecians referred to as the proper noun “Metropolis” twice, and is a city the Ten Thousand visit. It is capitalized in Scaife’s Greek as well, but my first impression is that this is a nickname, shorthand, or pure invention by Xenophon. Pleiades does not have a Metropolis that appears to be anywhere near where they should be, and likewise there is no wikipedia info, and ToposText does not even have a link in it
+> This will have to be better researched. I believe the Mossynoeciens are another ambiguous ethnic group, and this may be another Chalybes/Chaldians problem. Hopefully there will be some decent scholarship on this
+> For now I have left it unlocated, unlinked, and flagged it as ambiguous
