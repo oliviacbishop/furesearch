@@ -11,4 +11,5 @@
 * (6.5.7) Rhathines should be linked to the Wikidata entry Ratines (Q11944935) (https://www.wikidata.org/wiki/Q11944935).
 
 ### Book 7
-* (7.3.28) The Wikidata ID linked is for Gnesippus, the Doric poet, while the Gnesippus mentioned by Xenophon is an Athenian member of his army. The (admittedly scant) knowledge of dates for Doric Gnesippus means it could theoretically be the same person, as he is potentially alive during the events of the *Anabasis*, but the lack of any other supporting evidence makes this unlikely.
+* (7.3.28) The Wikidata ID linked is for Gnesippus, the Doric poet, while the Gnesippus mentioned by Xenophon is an Athenian member of his army.
+> The (admittedly scant) knowledge of dates for Doric Gnesippus means it could theoretically be the same person, as he is potentially alive during the events of the *Anabasis*, but the lack of any other supporting evidence makes this unlikely.
