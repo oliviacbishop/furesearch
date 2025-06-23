@@ -94,10 +94,47 @@ Laconian"
 * (6.5.7) Spithridates and Rhathines: ToposText may have another erroneous ID here for Spithridates, but this one I’m less sure about. Xenophon notes two Persians, Spithridates and Rhathines, that were sent by Pharnabazus against the Ten Thousand
 > Spithridates in ToposText is identified with the Persian satrap that ruled from 365-334 BCE. Very little is recorded about this Spithridates, including his age or birth date, but it seems to me like a lengthy stretch of time for it necessarily to be the same one. His most noteworthy deeds are in relation to his battle against Alexander the Great.
 >      At the same time, the way Xenophon mentions Spithridates and Rhathines with little fanfare could suggest that, at the time of writing it 30 years later, these people were well known enough that he did not feel he had to clarify. This would be possible if Spithridates was young, potentially very young, at the time his events are recounted in the Anabasis, and he then went on to become satrap decades later, about five years after Xenophon is writing. Their Greek names are also spelled the same (Σπιθριδάτης).
+> 
 > Rhathines is a trickier character, as he does not seem to be mentioned outside of the Anabasis at all, and has as equally little fanfare as Spithridates.
 >      He could potentially be Spithridates brother Rhosaces, who is recorded by Diodorus of Sicily and Arrian of Nicomedia along with Spithridates in regards to their conflict with Alexander the Great. However, their names in Greek are different (Ῥωσάκης vs  Ῥαθίνης). While it is possible Xenophon misspelled the name so atrociously different, it is extremely tenuous logic and unlikely, and so I would not commit to that identification. 
 > I will be flagging both of these people as ambiguous, with note on the matter, and will refrain from linking them for now.
+>
+> **UPDATE**: After discussing this in a meeting, there is enough evidence with how Xenophon mentions Spithridates in the text to make a connection with the Spithridates mentioned by Diodorus. Similarly, Rhathines, while a bit more ambiguous due to the different spellings, can be connected to Rhoesaces mentioned by Diodorus and Arrian. Both Diodorus and Arrian already spell Rhoesaces differently (Ῥωσάκην and Ῥοισάκης respectively), so it's not unprecedented for Xenophon, writing at least a couple centuries before either of these, to spell the name differently. Additionally, it there is Wikidata used for Rhathines (under the name Ratines), though it is only used in one article written in Catalan. It may be beneficial to merge the Wikidata for Rhoesaces and Ratines, and update the English page to reflect this.
 * (6.6.34) “twin gods”: This is not capitalized as an epithet, and while I would take it to mean Artemis and Apollo, the Greek does not seem to employ it as an epithet either, and I cannot find where the ‘twin’ is supposed to come from in Greek.
 * (6.6.38) Chalcedonia: Xenophon refers to Chalcedonia as a region, undoubtedly associated with Chalcedon the city, and defines Chrysopolis as a city within the region. There is no Pleiades or Wikidata ID for Chalcedonia, only Chalcedon, leaving me uncertain how exactly to annotate this.
 > The Greek is Καλχηδονίας which seems to me do be identifying Chrysopolis as relating to Chalcedon, not necessarily that Chalcedonia is it’s own region. With this interpretation, I will annotate Chalcedonia as if it was the city Chalcedon (ie. tag it as ‘referenced’)
+
+## Book 7:
+* (7.1.14) Hieron Oros:
+* > Evidently this is a mountain range on the east coast of Thrace, north of Gallipoli, around where Mount Koru and Mount Işıklar is (an likely encompassing them both). However, while Pleiades and DARE both have ID’s , those are in the west-central Peloponnese. Therefore, there is a question of whether it is worth it to link the Pleiades ID or not.
+
+> For now it will be, along with adding a comment in the annotation, flagging this as ambiguous, and moving it manually when mapping.
+> It is also worth mentioning that ToposText locates this place differently than Pleiades and DARE, and consistent with the location discussed here.
+
+> An additional note, it is questionable whether or not to link a Wikipedia page to this. The page for Hieron Oros links to a town near Trapezus, and this is not correct. There is an English article for Mount Ganos (corresponding to Mount Işıkla, but Xenophon’s “Hieron Oros” seems to encompass both  Mount Işıklar and Mount Koru (the latter of which does not have an English Wikipedia page).
+* (7.1.24) Thracian Square: According to Xenophon, one of the locations within Byzantium was an area called the Thracian Square. Interesting, but there does not appear to be any more precise, modern geo-referencing data to connect this with a more precise location beyond Byzantium as a whole.
+* (7.1.27) Europe:
+> Similar to the annotation for Asia, I do not want the Wikipedia link for Europe to be misleading for a Classical conception. I am tempted to link the section on geography and namesakes in the Europa (consort of Zeus) article.
+That section outlines how Europe was used by Strabo to refer to the area of Thrace below the Balkan Mountains, which is where Pleiades places the location of Europe as too. 
+
+> After a meeting to discuss this, this annotation is low-stakes since it is a concept referenced in brief passing by Xenophon, and anyone reading this text is not likely to be unaware of Europe as a concept. 'Europe' to the Ancient Greeks existed as a quasi-located geographic concept as a continent, existing in opposition to the concepts of Africa/Libya and Asia. Basically it was, "the landmass that's not Africa or Asia", or perhaps more accurately "Africa and Asia are the continents that are not Europe". Due to this, Pleiades ID may be a bit too restrictive, as it specifically references Thracian Europe. While this concept is also used by Xenophon (connected "Europe" and "Thracians" in 7.6.32 and 7.8.25), it is unclear if this instance also refers to a Thracian Europe, as it is discussing Athens decline in dominance against Lacedaemonia at this time.
+* (7.1.32) Delta… of Thrace:
+> Later in the text, the Delta it said to be north of Byzantium (7.5.1), but beyond that there is little indication of what delta in this region this is supposed to correspond to, and therefore no clear Pleiades or Wikipedia IDs to use.
+* (7.2.32) Xenophon references the Melanditae, a tribe of Thracians that do not seem to have a Pleiades ID anywhere
+> Same for the Tranispae, mentioned in the same section
+* (7.2.32) Odrysians:
+> I feel confident in annotating this as collective.organization rather than ethnic, but it is a little ambiguous on whether Xenophon is referring to the kingdom or an ethnic
+* (7.2.36, 7.3.10) Cyzicene:
+> This refers to a Cyzicene stater, a type of currency. Previously when Cyzicene staters were mentioned, I annotated it as collective.ethnic because “stater” always followed “Cyzicene”, so therefore it was a stater from Cyzicene. Now though, it seems more appropriate to tag this as .miscellaneous.
+* (7.6.11) Heaven: The translator translates Δία as Heaven. I am annotating this as an epithet of Zeus.
+* (7.6.39) “twin gods”: This is not capitalized as an epithet, and while I would take it to mean Artemis and Apollo, the Greek does not seem to employ it as an epithet either, and I cannot find where the ‘twin’ is supposed to come from in Greek.
+* (7.8.15) Comania:
+> Xenophon references a mercenary general named Itamenes, in service to likely Artaxerxes II, who comes from Comania. 
+> I cannot find anything on Pleiades or Wikipedia or elsewhere for what Comania is. It is obviously a location, likely a region, based on how Xenophon refers to it. It is also probably Middle Eastern and/or Indo-European, as Itamenes also brings Assyrians and Hyrcanians with him
+> The closest I could find is this, a nomadic tribal confederation from the 11th-13th centuries, but this is wildly anachronistic: https://en.wikipedia.org/wiki/Cumania. It may serve as evidence that some form of 'Comania' was a name for an ethnic group, which then lended its name to the region in antiquity, or vise versa.
+* (7.8.18) Carcasus river: Xenophon says his soldiers retreated across the Carcasus after failing to siege Itamenes, which is unlocatable
+* (7.8.25) Hesperites: A mysterious ethnic group that Xenophon does not elaborate on and are not mentioned until the very end, where he says he encountered them
+> Theorized by Paradeisopoulos to be the Saspeires, but this is not mentioned by Xenophon himself. Therefore, they will remain unliked as this is an interpretive element on top of what can be readily gleaned, and also they don’t have a Pleiades ID
+* (7.8.25) Coetians: A mysterious ethnic group Xenophon is said to have encountered, but are never mentioned in the text until this point.
+> Same with the Tibarenians
 
