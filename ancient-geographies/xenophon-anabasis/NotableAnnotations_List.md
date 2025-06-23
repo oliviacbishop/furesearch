@@ -5,13 +5,16 @@ An aggregate for notes that were made during the annotation process. Serves as a
 * 1.2.8 “Great King” I think refers to Artaxerxes II?
 > Similar to the “King” debacle, not capitalized in the Greek (μεγάλου βασιλέως), but this is the only instance I’ve seen of “Great King”
 > Same instance shows up again in 1.7.13, 1.7.14, 
-* 1.2.10 “Lycaean festival” very odd fringe case
-> Very confused as to how to annotate this. The Greek here is Λύκαια, which Scaife identifies as the Lycaea, a festival celebrating Zeus Lycaea. Lycaea the festival has an Encyclopaedia Britannica entry, albeit very brief, but there is no corresponding Wikipedia entry (for the festival; there is one for a town of the same name), though it is heavily referenced in the Mount Lykaion and Lycaon (king of Arcadia). So, my best thought would be to either tag it as .event (but that seems more for one time big things, not recurring festivals) or as .miscellaneous, with either optionally having a .mythological tag on it. However, if it comes from Mt Lykaion (or even the town Lycaea), then maybe “Lycaean” would be better tagged as a collective.ethnic?
-* 1.2.12 “Cilican queen” 
-> The Greek uses just “Κίλισσα” (“a Cilician,” same as referring to any other person of the ethnic group) to refer to her, so I annotated “Cilician queen” as a person and tag it Epyaxa.person (similar to those “the Persian” or “the Greek” instances we’ve run into previously), then nested an annotation of “Cilician” inside of it tagged person.ethnic. This is consistent with annotations for other similar annotations, but this one felt weirder so I wanted to check in
-> This same entity also shows up in 1.2.14, 1.2.16, 1,2,18, and 1.2.20
-* 1.2.13 “so-called spring of Midas”
-> Refers to a stream of water that Midas used to water down wine to catch Silenus. As far as I can tell, this is referenced literally nowhere else, there is definitely no georeference point I can find, but it rides that line between being a mythological location and a real one. I put the .mythological tag on there just in case
+* (1.2.10) “Lycaean festival”:
+> Fringe case that was originally difficult to link and annotate. The Greek here is Λύκαια, which the LSJ identifies as the Lycaea, a festival celebrating Zeus Lycaea. A .event tag does not seem appropriate, as that is more for one-time occurrences, whereas this is a reoccurring festival. Since the English translates this as the "Lycaean festival", collective.ethnic tags were also intially considered since this could imply the festival is a cultural for the Lycaeons, or people who inhabit Lycaonia in Anatolia, but by that same logic a .person or .mythological tag could also be valid to show the festival's relation to Zeus Lycaea, and there is not suitable tag to show it's relation to Mt. Lycaion. Ultimately, all of those options are some degree of misleading and not fully accurate, so therefore a simple .miscellaneous tag was decided to be best. Due to this, it has not been classified as a location in Recogito, despite a reference to Lycaonia and/or Mt. Lycaion.
+>
+> The Wikipedia and Wikidata page for the Lycaea refers to the festival in Arcadia specifically. However, since it is specifically tied to Mt. Lykaion, which there are evidently multiple in the Ancient Greek world, and seeing as the article does include a reference to this very section of Xenophon, it is linked.
+* (1.2.12) “Cilican queen”:
+> The Greek uses just “Κίλισσα” (“a Cilician,” same as referring to any other person of the ethnic group) to refer to her, but to better capture how the English translation uses “Cilician queen” to communicate that this specifically refers to Epyaxa, this was annotated as a person and tagged as Epyaxa.person (similar to instances of “the Persian” or “the Greek” referring to specific people, which is seen throughout the text), then nested an annotation of “Cilician” inside of it tagged person.ethnic. This is consistent with annotations for other similar annotations, though this one felt unique enough to make a note on it.
+> 
+> This same entity also shows up in 1.2.14, 1.2.16, 1,2,18, and 1.2.20.
+* (1.2.13) “so-called spring of Midas”:
+> Refers to a stream of water that Midas used to water down wine to catch Silenus. As far as I can tell, this is referenced literally nowhere else, there is definitely no georeference point I can find.
 * 1.2.13 “the satyr”
 > So I know typically we don’t annotate things that aren’t capitalized, but this one is weird because it’s not capitalized in English, but is in Greek (τὸν Σάτυρον). Additionally, it refers to a very specific entity: Silenus. Given that, I went ahead and annotated it, but I wanted to check with you
 * 1.4.4 “the Gates between Syria and Cilica”
