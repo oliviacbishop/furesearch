@@ -25,8 +25,8 @@ An aggregate for notes that were made during the annotation process. Serves as a
 >
 > 
 ## Book 2: 
- * (2.1.3) "the ruler of Teuthrania" 
-> An epithet
+ * (2.1.3) "the ruler of Teuthrania" and "the Laconian
+> Both are epithets in a sense, however only "ruler of Teuthrania" gets tagged as .epithet, while "the Laconian" is better categorized using person.ethnic.
 > Explanation (Chiara Palladino):  " ὁ Τευθρανίας is an article nom. sg. + placename at the genitive. βασιλεύς (ruler) is implied in this case. So, "king of Teuthrania" is a correct translation. I have indicated this in the comment to the annotation."
 * 2.2.8 "Greek"
 > This accidentally got deleted off the document comments, but this refers to "the Greek officers" and Dr. Palladino asked if we in the modern day know of them:
