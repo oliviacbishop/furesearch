@@ -1,7 +1,7 @@
 # Project Specific/Third Level Annotations: 
-### These are the guidelines for my project-specific annotations, i.e. not included in the guidelines. These are primarily used for me to effectively sort, differentiate, and catagorize data in ArcGIS Pro. They are written in the order they should be annotated in.
+### These are the guidelines for my project-specific annotations, i.e. not included in the guidelines. These are primarily used for me to effectively sort, differentiate, and categorize data in ArcGIS Pro. They are written in the order they should be annotated in.
 **Reminder!**
-This is not one specific tag, but annotate every person with an authoritative name (a tag of the person's name) regardless of whether or not there is a wikipedia link to attach to it. If there is no link, tag it in lowercase; if there is a link, it will be uploaded into the annotation tagsheet with the first letter capitalized. Places with a wikipedia link will be in the same format, however if there is no link then ***do not*** tag it (the name can be fetched from the gazetteer)
+This is not one specific tag, but annotate every person with an authoritative name (a tag of the person's name) regardless of whether or not there is a Wikipedia link to attach to it. If there is no link, tag it in lowercase; if there is a link, it will be uploaded into the annotation tagsheet with the first letter capitalized. Places with a Wikipedia link will be in the same format, however if there is no link then ***do not*** tag it (as the name can be fetched from the gazetteer)
 
 ## Specific Tags:
 * **river**
@@ -12,9 +12,6 @@ Used to identify rivers. Gazetteers create reference points that contain the dat
 
 Used to identify geographic regions. Gazetteers create reference points that contain the data for regions, but when actually mapping, a region is _not_ mapped with _point data_ but as a _polygon_. Therefore, a region tag is necessary to separate these reference points from the rest of the point data, since they need to be manually converted to polygon data. Regions are not labeled with .referenced or .visited, since they need to be manually plotted out regardless, and it should be evident whether or not the journey polyline passes through them.
 
-* **town/City/Settlement**
-
-> _I will revisit this section and break it up into multiple tags. Basically, this is a tag for point data to record how Xenophon talks about a location as he saw it (was it a "large and prosperous" city? Just a village? Abandoned?)_
 
 * **visited**
 
@@ -34,4 +31,4 @@ A subjective tag used for specific instances or entities that serve as poignant 
 
 * **analysis**
 
-_Used in the mapping phase only!_ A tag used to denote which points have been created via analysis; often follows an .ambiguous tag, since visited, ambiguous cities need to be mapped. For example, if the Ten Thousand pass through a lost city with no clear modern location (ex. Ceramon-agora), an estimated location has to be determined via different analyses to properly chart a route for the Ten Thousand.
+_Used in the mapping phase only!_ A tag used to denote which points have been created via analysis; often follows an .ambiguous tag, since visited, ambiguous cities need to be mapped. For example, if the Ten Thousand pass through a lost city with no clear modern location (eg. Ceramon-agora), an estimated location has to be determined via different analyses to properly chart a route for the Ten Thousand.
