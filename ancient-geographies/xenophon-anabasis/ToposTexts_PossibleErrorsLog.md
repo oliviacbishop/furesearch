@@ -2,7 +2,8 @@
 ## This document includes entities that have Wikidata ID's that I believe to be erroneous, along with an explanation why, as well as other potential errors.
 
 ### Book 5
-* (5.6.4) There is a random "24" in the middle of the words.
+* (5.1.2) Random "2" after the sentence.
+*  (5.6.4) There is a random "24" in the middle of the words.
 * (5.6.24) Another random "29"
 > Both of these are likely cleaning errors from reformatting.
 
