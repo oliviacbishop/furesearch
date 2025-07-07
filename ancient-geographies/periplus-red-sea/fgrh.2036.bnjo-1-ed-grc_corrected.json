@@ -1,0 +1,2363 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Kaineiton Nesos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50015" ],
+    "titles" : [ "Kaineiton Nesos" ],
+    "names" : [ "Kaineiton Nesos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καινειτῶν" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 7.5 ]
+    },
+    "properties" : {
+      "titles" : "Pyrron Oros",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50236" ],
+    "titles" : [ "Pyrron Oros" ],
+    "names" : [ "Pyrron Oros" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πυρρὸν ὄρος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 47.123147, 11.00357 ]
+    },
+    "properties" : {
+      "titles" : "Moundou",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39389" ],
+    "titles" : [ "Moundou" ],
+    "names" : [ "Moundou", "Mondou" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μούνδου", "Μούνδου", "Μουνδιτικοῦ" ],
+    "tags" : [ "place.derivative" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 43.22584, 13.31902 ]
+    },
+    "properties" : {
+      "titles" : "Mouza Emporion",
+      "annotations" : 9
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39390" ],
+    "titles" : [ "Mouza Emporion" ],
+    "names" : [ "Mouza Emporion" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μούζα", "Μούζα", "Μούζα", "Μούζα", "Μούζα", "Μούζα", "Μούζα", "Μούζα", "Μούζα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 51.286582, 10.4118 ]
+    },
+    "properties" : {
+      "titles" : "Opone",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39403" ],
+    "titles" : [ "Opone" ],
+    "names" : [ "Opone" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὀπόνης", "Ὀπώνης", "Ὀπώνη" ],
+    "comments" : [ "are \"᾽Οπόνης\" and \"᾽Οπώνη\" the same place?", "yes. note variant spelling." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 76.14594, 18.301382 ]
+    },
+    "properties" : {
+      "titles" : "Tagara",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50294" ],
+    "titles" : [ "Tagara" ],
+    "names" : [ "Tagara" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ταγάρων", "Ταγάρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 75.782933, 23.177194 ]
+    },
+    "properties" : {
+      "titles" : "Ozene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59972" ],
+    "titles" : [ "Ozene" ],
+    "names" : [ "Ozene", "Ozoamis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὀζήνη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.993, 21.712 ]
+    },
+    "properties" : {
+      "titles" : "Barygaza",
+      "annotations" : 27
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59737" ],
+    "titles" : [ "Barygaza" ],
+    "names" : [ "Barygaza", "Bargose" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαρυγάζων", "Βαρυγάζων", "Βαρυγάζων", "Βαρυγάζοις", "Βαρύγαζαν", "Βαρυγάζων", "Βαρύγαζαν", "Βαρυγάζων", "Βαρυγάζων", "Βαρύγαζαν", "Βαρύγαζαν", "Βαρύγαζαν", "Βαρύγαζαν", "Βαρυγάζων", "Βαρύγαζαν", "Βαρυγάζων", "Βαρυγάζων", "Βαρύγαζαν", "Βαρυγάζοις", "Βαρυγάζων", "Βαρύγαζαν", "Βαρύγαζαν", "Βαρύγαζαν", "Βαρύγαζαν", "Βαρυγάζῃ", "Βαρυγάζων", "Βαρυγάζων" ],
+    "tags" : [ "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 74.449703, 14.281472 ]
+    },
+    "properties" : {
+      "titles" : "Naoura/Nitriae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50160" ],
+    "titles" : [ "Naoura/Nitriae" ],
+    "names" : [ "Naoura", "Nitriae" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Νάουρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 52.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Sachalitis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39420" ],
+    "titles" : [ "Sachalitis" ],
+    "names" : [ "Sachalitis", "Sacamum" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαχαλίτην", "Σαχαλίτου" ],
+    "tags" : [ "place.derivative", "place.derivative" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 62.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Pasirae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59986" ],
+    "titles" : [ "Pasirae" ],
+    "names" : [ "Pasirae", "Parsidai", "Parsirai" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παρσιδῶν" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Kaspiria/Caspyre/Kattybourine",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59869" ],
+    "titles" : [ "Kaspiria/Caspyre/Kattybourine" ],
+    "names" : [ "Kaspiria", "Caspyre", "Kattybourine" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καττυβουρίνη" ],
+    "tags" : [ "place.derivative" ],
+    "comments" : [ "describes a regional variety of nard", "based on Belfiore's commentary." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.5, 19 ]
+    },
+    "properties" : {
+      "titles" : "Arabicus Sinus/Erythr(ae)um/Rubrum Mare",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39290" ],
+    "titles" : [ "Arabicus Sinus/Erythr(ae)um/Rubrum Mare" ],
+    "names" : [ "Arabicus Sinus", "Erythraeum", "Erythrum", "Rubrum Mare", "Indike Thalassa", "Red Sea" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἐρυθρὰν", "Ἀραβικὸς κόλπος", "Ἐρυθρᾶς θαλάσσης", "Ἐρυθρᾶς θαλάσσης", "Ἐρυθρὰν θάλασσαν", "Ἐρυθρᾷ θαλάσσῃ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.71911, 14.13199 ]
+    },
+    "properties" : {
+      "titles" : "A(u)xoume",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39303" ],
+    "titles" : [ "A(u)xoume" ],
+    "names" : [ "Aksum", "Aksum", "Auxoume", "Axoume" ],
+    "place_types" : [ "settlement", "cemetery" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀξωμίτην" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.422615, 14.868706 ]
+    },
+    "properties" : {
+      "titles" : "Koloe",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39363" ],
+    "titles" : [ "Koloe" ],
+    "names" : [ "Koloe" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κολόην" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 58.093319, 23.8573127 ]
+    },
+    "properties" : {
+      "titles" : "Kalaiou Nesoi",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29620" ],
+    "titles" : [ "Kalaiou Nesoi" ],
+    "names" : [ "Kalaiou Nesoi" ],
+    "place_types" : [ "archipelago" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καλαίου", "Καλαίου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Asichon Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39296" ],
+    "titles" : [ "Asichon Pr." ],
+    "names" : [ "Asichon Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀσὶχ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.3319445, 23.168472 ]
+    },
+    "properties" : {
+      "titles" : "Kalon Oros",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29621" ],
+    "titles" : [ "Kalon Oros" ],
+    "names" : [ "Kalon Oros" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καλὸν ὄρος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 48.4581165, 13.9767218 ]
+    },
+    "properties" : {
+      "titles" : "Troullas Ins.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39436" ],
+    "titles" : [ "Troullas Ins." ],
+    "names" : [ "Troullas" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Τρουλλάς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.65285, 25.70247 ]
+    },
+    "properties" : {
+      "titles" : "Diospolis Magna/Thebai",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/786017" ],
+    "titles" : [ "Diospolis Magna/Thebai" ],
+    "names" : [ "Diospolis Magna", "Thebai", "Thebes east", "أَلْأُقْصُر", "Luxor", "ḥwt-nṯrn Ḫnsw (mwꜣst), ḥwt-nṯrn Ḫnsw, ḥwt-nṯrn Ḫnsw mwꜣst", "ḥwt-nṯr nt Jmn-(Rʿ), ḥwt-nṯr nt Jmn, ḥwt-nṯr nt Jmn-Rʿ", "al-Karnak", "pr-Jmn", "jpt rst, Ipet-Resit", "jpt-swt (mwꜣst), jpt-swt mwꜣst, jpt-swt mwꜣst, jpt-swt mw3st", "Nēʾ, Ne', Ne", "njwt-rsjt, Niwt-Resit", "wꜣst, w3st, Waset", "al-Uqṣurēn, al-Uqsuren, el-Uqsuren", "al-Uqṣurain, al-Uqsurain, el-Uqsurein, al-Uqsurayn, el-Uqsureyn", "al-Uqṣur, al-Uqsur, el-Uqsur", "jpt swt, jpt-swt, Ipet-Sut", "jpt-swt", "Papē, Pape", "Thēbai, Thebai", "Dios polis megalē", "Diospolis Megalē, Diospolis Megale, Dios Polis Megale", "Diospolis megalē", "Diospolis Magna", "Diospolis magna", "Theben-West, West Thebes", "Theben", "Diospolis, Dios Polis", "njwt, Niwt", "[pr]-Sḫm-Rʿḫwj‑[tꜣwj], Sḫm-Rʿḫwj‑tꜣwj, pr-Sḫm-Rʿḫwj‑tꜣwj, pr-Sḫm-Rʿḫwj, Sḫm-Rʿḫwj, Sḫm-Rʿḫwj‑t3wj, pr-Sḫm-Rʿḫwj‑t3wj", "[pr]-Sbk-ḥtpmpr-Jmn, pr-Sbk-ḥtpmpr-Jmn, Sbk-ḥtpmpr-Jmn", "pr-Mnṯw, Per-Menthu", "Luxor", "Ḫpr-kꜣ-Rʿswt-ḏfꜣw, Ḫpr-k3-Rʿswt-ḏf3w", "Ḫpr-kꜣ-Rʿḫnttjpt-swt, Ḫpr-k3-Rʿḫnttjpt-swt", "Karnak", "Karnak", "al-Uqsur", "ḥwt Ptḥwꜣst(j), ḥwt Ptḥwꜣst, ḥwt Ptḥwꜣstj, ḥwt Ptḥw3stj, ḥwt Ptḥw3st" ],
+    "place_types" : [ "settlement", "temple-2" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Διοπολιτικῆς", "Διοσπόλει" ],
+    "comments" : [ "same problem as previous", "probably this one, but check commentaries and revisit later.", "\n" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Leuke (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50091" ],
+    "titles" : [ "Leuke (island)" ],
+    "names" : [ "Leuke" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λευκὴ νῆσος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Limyrike",
+      "annotations" : 12
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50092" ],
+    "titles" : [ "Limyrike" ],
+    "names" : [ "Limyrike" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λιμυρικὴν", "Λιμυρικῆς", "Λιμυρικῆς", "Λιμυρικῆς", "Λιμυρικῆς", "Λιμυρικῆς", "Λιμυρικὴν", "Λιμυρικῆς", "Λιμυρικῆς", "Λιμυρικῆς", "Λιμυρικὴν", "Λιμυρικὴν" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Syrastrene",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50291" ],
+    "titles" : [ "Syrastrene" ],
+    "names" : [ "Syrastrene", "Saraostos" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Συνραστρήνη.", "Συραστρήνης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Trogodytice",
+      "annotations" : 18
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39435" ],
+    "titles" : [ "Trogodytice" ],
+    "names" : [ "Trogodytice", "Trogloditike" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαρβάρων", "Ἰχθυοφάγων", "Μοσχοφάγων", "Μοσχοφάγους", "Ἀγριοφάγων", "Ἰχθυοφάγων", "Βαρβαρικὴ", "Μοσχοφάγων", "Βάρβαροι", "Βαρβάρων", "Βάρβαροι", "Ἰχθυοφάγων", "Ἰχθυοφάγων", "Βαρβαρικά", "Βαρβαρικὰ", "Βαρβάρων", "Βαρβαρικὰ", "Βαρβαρικῆς" ],
+    "tags" : [ "@ana:#collective", "@ana:#collective", "epithet", "@ana:#collective", "epithet", "@ana:#collective", "epithet", "@ana:#collective", "epithet", "@ana:#collective", "epithet", "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective", "epithet", "@ana:#collective", "epithet", "@ana:#collective", "@ana:#collective", "@ana:#collective", "@ana:#collective" ],
+    "comments" : [ "inhabitants of Barbarike", "Added pleiades entry for this population, although it's unlocated. Another suitable match is ID 766372, but currently not included in Recogito.", "inhabitants of Barbarike", "Added pleiades entry for this population, although it's unlocated. Another suitable match is ID 766372, but currently not included in Recogito.", "inhabitants of \"Barbarike\" (\"the lands between the coast of the Red Sea and the Nile Valley\" -  Casson 2012); no result in area", "read further in Casson commentary; region was called Trogodytice by other geographers", "inhabitants of Barbarike", "Added pleiades entry for this population, although it's unlocated. Another suitable match is ID 766372, but currently not included in Recogito.", "unsure where to place them", "No suitable location in Pleiades, although the directions given by the periplus may allow for a placement. ", "inhabitants of Barbarike", "Added pleiades entry for this population, although it's unlocated. Another suitable match is ID 766372, but currently not included in Recogito." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.947229, 18.521268 ]
+    },
+    "properties" : {
+      "titles" : "Semylla",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50261" ],
+    "titles" : [ "Semylla" ],
+    "names" : [ "Semylla" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σήμυλλα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Byltai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59754" ],
+    "titles" : [ "Byltai" ],
+    "names" : [ "Byltai", "Bolitai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καβαλίτη" ],
+    "tags" : [ "place.derivative" ],
+    "comments" : [ "describes a regional variety of nard", "based on Belfiore's commentary, with an association to Ptolemy. " ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 76.558846, 9.272624 ]
+    },
+    "properties" : {
+      "titles" : "Nelkynda",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50165" ],
+    "titles" : [ "Nelkynda" ],
+    "names" : [ "Nelkynda", "Melkyda", "Neacyndon" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Νελκύνδων", "Νελκύνδα", "Νελκύνδα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 48.613509, 15.919528 ]
+    },
+    "properties" : {
+      "titles" : "Sabat(h)a",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39418" ],
+    "titles" : [ "Sabat(h)a" ],
+    "names" : [ "Sabatha", "Sabata", "Sabota", "Chabatanon" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαυβαθά" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 70.943, 23.99 ]
+    },
+    "properties" : {
+      "titles" : "Eirinon",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59801" ],
+    "titles" : [ "Eirinon" ],
+    "names" : [ "Eirinon" ],
+    "place_types" : [ "marsh-wetland" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Εἰρινοῦ", "μικρὸν ὁ δὲ μέγα", "Εἰρινόν" ],
+    "comments" : [ "\"Eirinon, with the additional names Little and Big\"" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.1853555, 28.059202 ]
+    },
+    "properties" : {
+      "titles" : "Leuke Kome?/Onne?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/814698" ],
+    "titles" : [ "Leuke Kome?/Onne?" ],
+    "names" : [ "Leuke Kome", "Onne" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λευκὴ κώμη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Paropamisos/Caucasus M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59983" ],
+    "titles" : [ "Paropamisos/Caucasus M." ],
+    "names" : [ "Παροπάμισος", "Paropámisos", "Caucasus M.", "Parnassos M.", "Paropanisadai M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πατροπαπίγη" ],
+    "tags" : [ "place.derivative" ],
+    "comments" : [ "describes a regional variety of nard", "based on Belfiore's commentary. " ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.333465, 16.705701 ]
+    },
+    "properties" : {
+      "titles" : "Karna",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39357" ],
+    "titles" : [ "Karna" ],
+    "names" : [ "Karna", "Carnus", "Karnana" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μιναία" ],
+    "tags" : [ "place.derivative" ],
+    "comments" : [ "Casson commentary states these people inhabited Ma'in; multiple places called that but I am fairly certain this is correct based on the commentary" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.24255, 26.15623 ]
+    },
+    "properties" : {
+      "titles" : "Myos Hormos?",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/786069" ],
+    "titles" : [ "Myos Hormos?" ],
+    "names" : [ "Myos Hormos", "Quseir", "Μυὸς Ὅρμος", "Muòs Hórmos, Muos Hormos, Myos Hormos" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μυὸς ὅρμος", "Μυὸς ὅρμου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.58469, 16.220106 ]
+    },
+    "properties" : {
+      "titles" : "Toparon?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50308" ],
+    "titles" : [ "Toparon?" ],
+    "names" : [ "Toparon" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "τοπαρον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 7.5 ]
+    },
+    "properties" : {
+      "titles" : "Cottonara",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49953" ],
+    "titles" : [ "Cottonara" ],
+    "names" : [ "Cottonara", "Kottanarike" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κοτταναρικῇ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Dachinabades",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49956" ],
+    "titles" : [ "Dachinabades" ],
+    "names" : [ "Δαχιναβάδης", "Dachinabades" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Δαχιναβάδης", "Δαχιναβάδει" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 52.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Sachalites Sinus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39419" ],
+    "titles" : [ "Sachalites Sinus" ],
+    "names" : [ "Sachalites Sinus" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαχαλίτης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.472008, 16.078557 ]
+    },
+    "properties" : {
+      "titles" : "Tyrannosboas?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50315" ],
+    "titles" : [ "Tyrannosboas?" ],
+    "names" : [ "Tyrannosboas" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "τύραννος βοας" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 69.021536, 24.92407 ]
+    },
+    "properties" : {
+      "titles" : "Barbarikon",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59734" ],
+    "titles" : [ "Barbarikon" ],
+    "names" : [ "Barbarikon" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαρβαρικὴν", "Βαρβαρικόν", "Βαρβαρικοῦ" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.32357, -6.12033 ]
+    },
+    "properties" : {
+      "titles" : "Menouthias",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/40222" ],
+    "titles" : [ "Menouthias" ],
+    "names" : [ "Menouthias" ],
+    "place_types" : [ "unlocated" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μενουθεσιὰς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Terabdon Kolpos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/60084" ],
+    "titles" : [ "Terabdon Kolpos" ],
+    "names" : [ "Terabdon Kolpos" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "κόλπος τῶν Τεράβδων" ],
+    "comments" : [ "commentary says Sonmiani Bay; no results in search" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ 70.4690889, 34.3653762 ], [ 70.4685312, 34.3654242 ], [ 70.4682635, 34.3656961 ], [ 70.4683205, 34.3660218 ], [ 70.4683964, 34.3662072 ], [ 70.46861, 34.3665604 ], [ 70.4689138, 34.366699 ], [ 70.4692139, 34.366723 ], [ 70.4696081, 34.3665266 ], [ 70.4697613, 34.366308 ], [ 70.4697258, 34.3660493 ], [ 70.4690889, 34.3653762 ] ] ]
+    },
+    "properties" : {
+      "titles" : "Hadda",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/704746176" ],
+    "titles" : [ "Hadda" ],
+    "names" : [ "Hadda", "Hadda" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Γανδαραίων" ],
+    "tags" : [ "@ana:#collective" ],
+    "comments" : [ "Gandhara; results in Gandhara appear but no Gandhara itself", "Hadda is an archaeological site within the region, so the link does not explicitly point to Gandhara. " ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Sesekreienai? Inss.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50264" ],
+    "titles" : [ "Sesekreienai? Inss." ],
+    "names" : [ "Sesekreienai" ],
+    "place_types" : [ "island-group" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σησεκρείεναι" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.7582797, 15.4307209 ]
+    },
+    "properties" : {
+      "titles" : "Oreine Ins.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39404" ],
+    "titles" : [ "Oreine Ins." ],
+    "names" : [ "Oreine" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὀρεινὴ", "Ὀρεινῇ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 7.5 ]
+    },
+    "properties" : {
+      "titles" : "Bakare",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49890" ],
+    "titles" : [ "Bakare" ],
+    "names" : [ "Bakare" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βακαρή" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 33.96743288481, 27.186967268019 ], [ 33.94941395812, 27.187842416737 ], [ 33.932783571222, 27.211735331495 ], [ 33.913841541677, 27.240357614102 ], [ 33.922540969997, 27.256106444219 ], [ 33.948170030733, 27.252560041293 ], [ 33.967941845921, 27.237742939113 ], [ 33.971549904043, 27.212164995076 ], [ 33.96743288481, 27.186967268019 ] ] ], [ [ [ 34.049371849199, 27.467175136233 ], [ 34.010595233379, 27.469087666109 ], [ 33.985732556432, 27.486495019465 ], [ 33.962880662141, 27.494545660546 ], [ 33.945756526819, 27.511566992828 ], [ 33.946597019625, 27.525407286139 ], [ 33.955061670899, 27.536566569225 ], [ 33.97562398134, 27.53325556617 ], [ 34.000791264769, 27.520459478136 ], [ 34.02321916283, 27.505477617844 ], [ 34.052963162855, 27.483188365124 ], [ 34.049371849199, 27.467175136233 ] ] ], [ [ [ 33.801115422081, 27.56700551113 ], [ 33.785578390018, 27.567726086239 ], [ 33.76798688038, 27.577794209756 ], [ 33.761018762641, 27.591999594817 ], [ 33.762088397375, 27.610465221359 ], [ 33.78322180894, 27.616434496022 ], [ 33.800686311875, 27.604052502651 ], [ 33.807376435406, 27.585226822382 ], [ 33.801115422081, 27.56700551113 ] ] ], [ [ [ 33.744419534915, 27.664517099574 ], [ 33.731452069922, 27.665109170462 ], [ 33.729920241087, 27.683701709843 ], [ 33.746418984226, 27.699157724597 ], [ 33.764716713603, 27.70063435399 ], [ 33.763376974293, 27.677539878882 ], [ 33.744419534915, 27.664517099574 ] ] ], [ [ [ 23.249792483206, 32.294847922104 ], [ 23.294721066314, 32.263141640457 ], [ 23.330356536511, 32.265924887389 ], [ 23.360512120308, 32.268268420291 ], [ 23.400387456164, 32.257259719877 ], [ 23.416573959318, 32.235023143171 ], [ 23.454939167846, 32.237964996517 ], [ 23.490812437868, 32.238352077725 ], [ 23.516944137702, 32.226247995861 ], [ 23.544833189455, 32.223660291563 ], [ 23.634206267948, 32.213921313538 ], [ 23.673283250495, 32.209776992024 ], [ 23.707112106066, 32.202882735445 ], [ 23.751034195347, 32.177940526465 ], [ 23.836874186708, 32.174780468963 ], [ 23.846249071391, 32.163724409369 ], [ 23.88597019903, 32.152496311061 ], [ 23.93913800777, 32.144550770771 ], [ 23.968106697053, 32.130179933137 ], [ 23.990884858833, 32.094261659141 ], [ 24.020902316607, 32.040098348191 ], [ 24.242894221646, 32.026044353445 ], [ 24.302824639964, 32.032403771649 ], [ 24.426503859781, 32.033528491115 ], [ 24.529130238309, 32.023758700875 ], [ 24.602964173571, 32.028452363497 ], [ 24.666800927964, 32.053541821543 ], [ 24.715457078869, 32.063590469071 ], [ 24.764719231879, 32.066620131541 ], [ 24.805770425176, 32.03632994317 ], [ 24.85070398418, 32.024995672615 ], [ 24.898164515073, 32.016132016035 ], [ 24.941927176809, 32.018732436199 ], [ 24.992856910655, 32.000657318926 ], [ 25.017353205381, 31.969313452094 ], [ 25.046600368569, 31.912501233861 ], [ 25.053966904675, 31.854433323456 ], [ 25.091672047747, 31.793456755979 ], [ 25.134022302076, 31.742103635574 ], [ 25.15869094665, 31.635994960559 ], [ 25.177705565717, 31.602028589671 ], [ 25.18980635551, 31.551325295709 ], [ 25.225642451629, 31.546337750219 ], [ 25.259817602593, 31.527232123659 ], [ 25.357266456507, 31.518131007777 ], [ 25.397984322725, 31.520343951304 ], [ 25.468399889611, 31.526459283751 ], [ 25.494711592425, 31.539530270708 ], [ 25.516437423934, 31.540678004049 ], [ 25.554128116196, 31.547325281349 ], [ 25.591169363554, 31.56326117605 ], [ 25.641655637524, 31.582205748107 ], [ 25.660681008383, 31.583177735946 ], [ 25.690257705919, 31.589350169878 ], [ 25.735197525858, 31.610293496416 ], [ 25.783202617579, 31.626695161236 ], [ 25.828511995931, 31.642937974532 ], [ 25.866451683902, 31.647122678144 ], [ 25.898034535871, 31.664996976972 ], [ 25.996034962121, 31.669658087432 ], [ 26.035334971975, 31.652813763672 ], [ 26.088219528686, 31.636578638424 ], [ 26.121888031512, 31.621775179796 ], [ 26.169140814458, 31.607572393587 ], [ 26.210226027647, 31.60474194929 ], [ 26.251727109732, 31.594907972794 ], [ 26.302062940335, 31.573770135677 ], [ 26.334690006491, 31.57518093494 ], [ 26.370985224961, 31.56040091593 ], [ 26.405215563408, 31.533854505245 ], [ 26.500849478346, 31.528508323222 ], [ 26.588188182116, 31.525056103849 ], [ 26.637727038392, 31.515364827575 ], [ 26.666139221516, 31.493159563834 ], [ 26.690583677361, 31.494113878462 ], [ 26.747502446323, 31.498640803148 ], [ 26.813766717153, 31.480160543671 ], [ 26.860598649293, 31.463248470981 ], [ 26.914671216109, 31.469889938184 ], [ 26.96931965086, 31.464860045262 ], [ 26.997590900066, 31.442550262481 ], [ 27.022352912168, 31.43642775237 ], [ 27.085647718566, 31.419973838429 ], [ 27.1023602014, 31.411222494924 ], [ 27.160077746276, 31.396856986229 ], [ 27.238952086038, 31.394794814573 ], [ 27.326356941327, 31.383608329929 ], [ 27.329565827718, 31.372059752392 ], [ 27.344112422755, 31.349218903351 ], [ 27.345493894088, 31.316651546038 ], [ 27.500203614217, 31.246831569716 ], [ 27.554971802734, 31.23213110149 ], [ 27.701788439836, 31.217612422086 ], [ 27.769512257616, 31.217091988548 ], [ 27.822898972813, 31.239426286058 ], [ 27.868438144221, 31.254548431945 ], [ 27.900537061191, 31.266987609571 ], [ 27.914386464698, 31.258017414913 ], [ 27.908205148754, 31.199678729995 ], [ 27.919719658831, 31.179019060707 ], [ 27.940099877011, 31.135311742478 ], [ 27.980559898577, 31.138611270276 ], [ 28.037749112961, 31.125996894772 ], [ 28.116248321281, 31.12312523967 ], [ 28.175894791275, 31.117451728145 ], [ 28.324994468444, 31.101923043419 ], [ 28.389705510072, 31.107828100944 ], [ 28.478970584438, 31.104825590005 ], [ 28.506261973305, 31.093683815226 ], [ 28.539161091011, 31.073330437516 ], [ 28.579663772217, 31.074018918044 ], [ 28.611089273073, 31.069889747571 ], [ 28.646741271907, 31.044893696875 ], [ 28.711947328304, 31.024989667316 ], [ 28.765957511542, 31.023469390854 ], [ 28.803997521171, 31.01006973899 ], [ 28.850494975375, 30.975855109354 ], [ 28.954304319098, 30.895890801701 ], [ 29.008490286079, 30.875640796597 ], [ 29.145972785071, 30.863207312598 ], [ 29.210511044945, 30.868478778917 ], [ 29.350052928829, 30.911469986083 ], [ 29.422568551783, 30.935224129683 ], [ 29.59152128323, 31.061688835565 ], [ 29.640004196769, 31.082830180741 ], [ 29.680366453062, 31.113216016533 ], [ 29.691095886811, 31.129532257651 ], [ 29.712720593823, 31.129608265121 ], [ 29.777405311093, 31.18329226333 ], [ 29.815219491914, 31.204317817704 ], [ 29.869824573251, 31.234662313555 ], [ 29.915820123007, 31.260314506492 ], [ 29.929327141357, 31.292906146394 ], [ 29.948292503951, 31.299901814368 ], [ 29.975390743349, 31.316206329866 ], [ 30.007926841943, 31.332503260234 ], [ 30.018772946889, 31.327846061221 ], [ 30.029604235342, 31.295257690772 ], [ 30.053976545113, 31.271973904937 ], [ 30.081069090158, 31.271952367499 ], [ 30.143419128211, 31.288159951488 ], [ 30.181432530347, 31.313688643444 ], [ 30.214132220712, 31.362497463158 ], [ 30.246938083896, 31.425278993373 ], [ 30.271542733415, 31.462470369838 ], [ 30.301435124766, 31.46236975185 ], [ 30.355744908082, 31.455172064561 ], [ 30.396517017995, 31.457321183069 ], [ 30.472617144048, 31.45926195873 ], [ 30.581742038879, 31.505179336962 ], [ 30.655381942475, 31.52561518693 ], [ 30.753727640184, 31.559758331151 ], [ 30.835655269998, 31.579971392784 ], [ 30.865569762987, 31.577341869971 ], [ 30.840880502973, 31.563604153975 ], [ 30.767135288507, 31.543324720896 ], [ 30.611403379554, 31.479343742925 ], [ 30.556728881313, 31.444777543737 ], [ 30.529502997777, 31.437963822202 ], [ 30.496906369108, 31.438160424856 ], [ 30.461524393331, 31.429043475672 ], [ 30.472195040189, 31.403367644903 ], [ 30.518309400104, 31.398441808298 ], [ 30.561743846513, 31.39816602866 ], [ 30.589131312524, 31.423597589942 ], [ 30.61085715025, 31.423444368224 ], [ 30.643182336005, 31.397589160119 ], [ 30.659494387557, 31.399792915727 ], [ 30.695302536739, 31.446087341906 ], [ 30.708965104975, 31.452962536983 ], [ 30.828324765764, 31.437908694335 ], [ 30.861176366246, 31.456217179884 ], [ 30.90074110391, 31.467455238491 ], [ 30.92860802855, 31.513753457471 ], [ 30.942381262635, 31.525253354198 ], [ 30.964249169233, 31.531999652748 ], [ 30.9966324298, 31.515314685021 ], [ 31.029190184024, 31.510267025029 ], [ 31.045739943492, 31.524046930512 ], [ 31.027160054027, 31.552239114941 ], [ 30.975676077645, 31.566828774581 ], [ 30.951570203497, 31.592742139074 ], [ 30.976331760897, 31.608780732594 ], [ 31.017375964792, 31.619957831446 ], [ 31.109786697386, 31.607147700808 ], [ 31.172163741131, 31.592324868494 ], [ 31.253191840346, 31.558537048833 ], [ 31.317862729658, 31.527262015379 ], [ 31.409443386273, 31.486180159024 ], [ 31.490704974785, 31.473145644864 ], [ 31.542335006497, 31.472225682827 ], [ 31.630076705981, 31.500883250987 ], [ 31.685073872049, 31.523118154113 ], [ 31.740239961301, 31.549979531355 ], [ 31.795051604728, 31.562829190967 ], [ 31.84124015022, 31.559512102697 ], [ 31.889510132969, 31.535143470717 ], [ 31.926006340973, 31.483049844437 ], [ 31.954660088468, 31.44278330225 ], [ 31.978217175379, 31.414281217548 ], [ 31.964133318222, 31.39830099635 ], [ 31.929356693521, 31.415403665748 ], [ 31.889974750492, 31.460555004948 ], [ 31.866986085398, 31.51000088259 ], [ 31.84048494471, 31.5338861203 ], [ 31.79710225281, 31.539474582435 ], [ 31.77467999227, 31.51663632584 ], [ 31.763695690359, 31.41667071246 ], [ 31.743978470886, 31.391454814028 ], [ 31.704971939536, 31.354983268626 ], [ 31.703768316227, 31.310767506974 ], [ 31.743708054225, 31.28434905329 ], [ 31.808118712571, 31.26205242263 ], [ 31.870748528196, 31.272334348608 ], [ 31.93668300286, 31.301120601627 ], [ 31.997999127041, 31.353257735649 ], [ 31.99331670252, 31.376658096999 ], [ 31.991344567666, 31.399997555151 ], [ 32.028884153389, 31.385133738091 ], [ 32.111805812278, 31.340025988843 ], [ 32.243723495656, 31.311028637609 ], [ 32.302393667808, 31.283845217105 ], [ 32.358043148993, 31.24972366699 ], [ 32.459772229201, 31.14908377313 ], [ 32.493424745309, 31.110874510481 ], [ 32.582162514655, 31.098911832951 ], [ 32.633560613101, 31.099656587621 ], [ 32.693059944989, 31.100113166089 ], [ 32.726706107988, 31.115323729269 ], [ 32.781437839188, 31.129833458762 ], [ 32.826120954429, 31.160936622308 ], [ 32.845037799111, 31.160304036704 ], [ 32.883939099743, 31.182266008658 ], [ 32.892048870294, 31.181989860454 ], [ 32.922434121907, 31.194915542381 ], [ 33.052330956001, 31.248551295449 ], [ 33.141153920277, 31.235994882377 ], [ 33.192550998675, 31.234076636508 ], [ 33.252300758114, 31.23646519223 ], [ 33.295580112387, 31.234795234161 ], [ 33.349054800089, 31.221056618385 ], [ 33.401875256564, 31.195667106019 ], [ 33.432910747545, 31.168802916277 ], [ 33.341539284796, 31.181766499247 ], [ 33.294113535019, 31.206906766049 ], [ 33.181022696199, 31.220537375199 ], [ 33.061904464062, 31.222591398417 ], [ 33.007250217705, 31.212904333176 ], [ 32.921459170925, 31.173998646229 ], [ 32.862893283555, 31.136429967987 ], [ 32.81312176386, 31.112499541793 ], [ 32.775110330063, 31.109099184485 ], [ 32.755391945114, 31.091129825739 ], [ 32.784467841232, 31.076220860509 ], [ 32.814779756646, 31.089177812757 ], [ 32.853415068954, 31.106498890417 ], [ 32.870465531903, 31.124538397195 ], [ 32.940574801526, 31.119808002829 ], [ 32.961301132339, 31.100470655054 ], [ 32.972928026182, 31.060511074259 ], [ 33.011812142738, 31.082402813085 ], [ 33.024958393117, 31.130801537173 ], [ 32.968898782924, 31.14674764176 ], [ 32.994211399728, 31.166805635747 ], [ 33.032494281336, 31.174756371321 ], [ 33.060542077296, 31.194700830775 ], [ 33.089936777356, 31.186650702194 ], [ 33.110178007449, 31.157975710079 ], [ 33.090348490342, 31.140079824804 ], [ 33.102819550382, 31.118677747404 ], [ 33.129125817791, 31.103747338353 ], [ 33.140995173311, 31.070731266209 ], [ 33.190621729219, 31.089818521991 ], [ 33.248858250508, 31.117859695953 ], [ 33.263445436612, 31.138247568576 ], [ 33.389744318755, 31.121651607478 ], [ 33.430368098594, 31.122344613709 ], [ 33.439231688003, 31.135952559953 ], [ 33.541445842966, 31.124758878642 ], [ 33.553955649732, 31.154501383916 ], [ 33.66657297381, 31.135734266255 ], [ 33.711420650164, 31.161724276473 ], [ 33.771119577558, 31.16374687988 ], [ 33.855701848495, 31.17391555183 ], [ 33.902489208305, 31.185749884345 ], [ 33.976461863314, 31.198618941584 ], [ 34.03514756, 31.226134354045 ], [ 34.035455924648, 31.188842714471 ], [ 33.961746078425, 31.094505674051 ], [ 33.850818760338, 30.962309927112 ], [ 33.662256340102, 30.760972865145 ], [ 33.469632852493, 30.585647931561 ], [ 33.280626898336, 30.407634397707 ], [ 33.100896452581, 30.233701691883 ], [ 32.937054270911, 30.094204475342 ], [ 32.820931797189, 29.99640118482 ], [ 32.692507877556, 29.912767645045 ], [ 32.578683098934, 29.853953509055 ], [ 32.56703015179, 29.893596779547 ], [ 32.559919772256, 29.914615904696 ], [ 32.560850333327, 29.937702885885 ], [ 32.537083836293, 29.9407380802 ], [ 32.497589040123, 29.948860584992 ], [ 32.45462896523, 29.936260930743 ], [ 32.440132000126, 29.904325889908 ], [ 32.44401062342, 29.867238416375 ], [ 32.47049177466, 29.866460741117 ], [ 32.483010828039, 29.847605668573 ], [ 32.466947914336, 29.843460083457 ], [ 32.460849727443, 29.822847598829 ], [ 32.433680129794, 29.805162917857 ], [ 32.405478781291, 29.759788486798 ], [ 32.393949223377, 29.734719969253 ], [ 32.347916385842, 29.706013486228 ], [ 32.341954640072, 29.687714126295 ], [ 32.317599659826, 29.672236781454 ], [ 32.31583910157, 29.623824473548 ], [ 32.319185930423, 29.570670265215 ], [ 32.336961996546, 29.551721770035 ], [ 32.349034465111, 29.521401454658 ], [ 32.374087271596, 29.486104345799 ], [ 32.418226787825, 29.468696747453 ], [ 32.451464846708, 29.442367534647 ], [ 32.466180517521, 29.414273901513 ], [ 32.470299209868, 29.384653326752 ], [ 32.493952227688, 29.383948265849 ], [ 32.540341249043, 29.359503196826 ], [ 32.56559452429, 29.333385041498 ], [ 32.560847741224, 29.28055184995 ], [ 32.570787748892, 29.266427139368 ], [ 32.577637303907, 29.240884752161 ], [ 32.600394500788, 29.219453892969 ], [ 32.5906684935, 29.173717102183 ], [ 32.616203775401, 29.15680563731 ], [ 32.615170797707, 29.131523288387 ], [ 32.62498152345, 29.11510622333 ], [ 32.637025013186, 29.089415684424 ], [ 32.622440642146, 29.053071375941 ], [ 32.603113320991, 29.028380232029 ], [ 32.599201147399, 28.931938767464 ], [ 32.627528812083, 28.921851880819 ], [ 32.6269649001, 28.90807993997 ], [ 32.651721299345, 28.87511935944 ], [ 32.65522678931, 28.83365172686 ], [ 32.698553571416, 28.809280048639 ], [ 32.710800779453, 28.790505173876 ], [ 32.741064632822, 28.766542648707 ], [ 32.779804792552, 28.758361195102 ], [ 32.796124129834, 28.714185656301 ], [ 32.80752338181, 28.662151785636 ], [ 32.827990683256, 28.609821845523 ], [ 32.826481227727, 28.575460695463 ], [ 32.850906590676, 28.540215252922 ], [ 32.879824548164, 28.533478078618 ], [ 32.907960981939, 28.509558814824 ], [ 32.942946080692, 28.493987184432 ], [ 32.941769953777, 28.46823497549 ], [ 32.989141507854, 28.440741915097 ], [ 32.987682801909, 28.40927831155 ], [ 33.015858852519, 28.388199685488 ], [ 33.047113966968, 28.364135445683 ], [ 33.080757771039, 28.322790610973 ], [ 33.134734658337, 28.234869166323 ], [ 33.150445283752, 28.225683283673 ], [ 33.187315072593, 28.187061835549 ], [ 33.214931409082, 28.15794804993 ], [ 33.240418984574, 28.151226216913 ], [ 33.252011333614, 28.125022921991 ], [ 33.29256257553, 28.097667131501 ], [ 33.344177347644, 28.035533055276 ], [ 33.450279978485, 28.031145927532 ], [ 33.459162201131, 28.016477210891 ], [ 33.511325803285, 27.968526681846 ], [ 33.553940751636, 27.923825222908 ], [ 33.567788863213, 27.883224165153 ], [ 33.603898589218, 27.838798652427 ], [ 33.599269127675, 27.813299082678 ], [ 33.557304472442, 27.809419496092 ], [ 33.529090093053, 27.822061133912 ], [ 33.507120841033, 27.831570906271 ], [ 33.505117522614, 27.794535458567 ], [ 33.536371740421, 27.77891782209 ], [ 33.561207873106, 27.763568279107 ], [ 33.558394869063, 27.712313830273 ], [ 33.592322064785, 27.688003722291 ], [ 33.593470567031, 27.650862726938 ], [ 33.568215713746, 27.657673052576 ], [ 33.532281162163, 27.644967819983 ], [ 33.550677169138, 27.629909591215 ], [ 33.555041568589, 27.592643784312 ], [ 33.577608782583, 27.537486364153 ], [ 33.590213051731, 27.534083215854 ], [ 33.624986949112, 27.526847640853 ], [ 33.648269609586, 27.485907192463 ], [ 33.704698405642, 27.384977015352 ], [ 33.747648620786, 27.33820396402 ], [ 33.843407115137, 27.260444297234 ], [ 33.841724289272, 27.15469562826 ], [ 33.892522204226, 27.091260752653 ], [ 33.907732792942, 27.041729621974 ], [ 33.931237335601, 26.979614987576 ], [ 33.918972914436, 26.22164302064 ], [ 33.708471811851, 24.991764369706 ], [ 33.632881685312, 23.616031673563 ], [ 33.409624038072, 22.953866840832 ], [ 32.258385367943, 22.995296898108 ], [ 31.571865749947, 24.609661264015 ], [ 31.200212042441, 25.320709420292 ], [ 30.741192267372, 26.465598605553 ], [ 30.490123864331, 26.874641114083 ], [ 29.863264102219, 27.744641952475 ], [ 29.253927415749, 28.151761594261 ], [ 27.802279570033, 28.228580800246 ], [ 26.178360619274, 28.194914972236 ], [ 24.841762275482, 28.199156578251 ], [ 23.6335790132, 28.062865754571 ], [ 22.798490547895, 28.010369558625 ], [ 22.744971541488, 32.799729362201 ], [ 22.748048138559, 32.815165152908 ], [ 22.805647225633, 32.802322258565 ], [ 22.873553381998, 32.774981441991 ], [ 22.950821995627, 32.757785508469 ], [ 23.006753624336, 32.731728639713 ], [ 23.060531453249, 32.724307273404 ], [ 23.07893528071, 32.709306173758 ], [ 23.114524116431, 32.665075340959 ], [ 23.120784853514, 32.609087483454 ], [ 23.115499835037, 32.556896310036 ], [ 23.147186306693, 32.521790186993 ], [ 23.146449688859, 32.453526611485 ], [ 23.114504049162, 32.441562578536 ], [ 23.106896581191, 32.410384850821 ], [ 23.118775632925, 32.378426485065 ], [ 23.156277819073, 32.364975105037 ], [ 23.192993221787, 32.358497672425 ], [ 23.249792483206, 32.294847922104 ] ] ] ]
+    },
+    "properties" : {
+      "titles" : "Ancient Egypt (region)",
+      "annotations" : 15
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/981503" ],
+    "titles" : [ "Ancient Egypt (region)" ],
+    "names" : [ "Muṣri", "Muṣur", "Aegyptus", "Aegyptus" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Αἰγύπτου", "Αἰγύπτῳ", "Αἰγύπτου", "Αἰγύπτου", "Αἰγύπτου", "Αἰγύπτῳ", "Αἰγύπτου", "Αἴγυπτον", "Αἴγυπτον", "Αἰγύπτου", "Αἰγύπτου", "Αἰγύπτου", "Αἰγύπτου", "Αἰγύπτου", "Αἰγύπτου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 79.85456, 11.025067 ]
+    },
+    "properties" : {
+      "titles" : "Chaberis Emporion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49939" ],
+    "titles" : [ "Chaberis Emporion" ],
+    "names" : [ "Chaberis Emporion", "Kamara" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καμάρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.782047, 35.513994 ]
+    },
+    "properties" : {
+      "titles" : "Laodicea",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668290" ],
+    "titles" : [ "Laodicea" ],
+    "names" : [ "Laodicea", "Laodikene", "Mazabda" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λαδικηνὸς", "Λαοδικηνὸς" ],
+    "tags" : [ "place.derivative", "place.derivative" ],
+    "comments" : [ "potentially there is another Laodicea in Turkey that could be a good candidate. Check commentaries and revisit later.", "commentary specifies modern day Latakia ", "lots of search results; decided to identify with same Laodicea mentioned in paragraph 6" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.804527, 19.434113 ]
+    },
+    "properties" : {
+      "titles" : "Souppara",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50282" ],
+    "titles" : [ "Souppara" ],
+    "names" : [ "Souppara", "Sopara", "Shurparaka" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σούππαρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 76.990276, 8.380214 ]
+    },
+    "properties" : {
+      "titles" : "Balita/Bambala",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49892" ],
+    "titles" : [ "Balita/Bambala" ],
+    "names" : [ "Balita", "Bambala" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαλίτα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 79.12362, 9.27571 ]
+    },
+    "properties" : {
+      "titles" : "Mandapam",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/1263900" ],
+    "titles" : [ "Mandapam" ],
+    "names" : [ "Mandapam" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Αἰγιαλόν", "Αἰγιαλὸς" ],
+    "comments" : [ "Aigialos; lots of search results, none in area", "Based on Belfiore's commentary.", "Aigialos; no results in area" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 46.5 ]
+    },
+    "properties" : {
+      "titles" : "Maeotis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825318" ],
+    "titles" : [ "Maeotis" ],
+    "names" : [ "Maeotis", "Temarunda" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "λίμνη Μαιῶτις" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.403333, 14.211389 ]
+    },
+    "properties" : {
+      "titles" : "Sap(p)har",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39423" ],
+    "titles" : [ "Sap(p)har" ],
+    "names" : [ "Sapphar", "Saphar", "Tafra", "Tapharon", "Tarphara" ],
+    "place_types" : [ "settlement", "settlement-modern" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαφὰρ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Arachosia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59692" ],
+    "titles" : [ "Arachosia" ],
+    "names" : [ "Arachosia", "Arachotoi", "Arachosii", "Rachousoi" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀραχουσίων" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.075764, 22.060829 ]
+    },
+    "properties" : {
+      "titles" : "Minnagara?/Akota",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59933" ],
+    "titles" : [ "Minnagara?/Akota" ],
+    "names" : [ "Minnagara" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μινναγάρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 82.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Bargysoi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59735" ],
+    "titles" : [ "Bargysoi" ],
+    "names" : [ "Bargysoi" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαργύσων" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.904133, 31.195371 ]
+    },
+    "properties" : {
+      "titles" : "Alexandria",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727070" ],
+    "titles" : [ "Alexandria" ],
+    "names" : [ "Alexandria", "Alexandria", "Rakote", "al-İskandarīya", "al-Iskandariyya", "al-Iskandarīya, al-Iskandariya, al-Iskandariyah, el-Iskandariya, el-Iskandariyah, al-Iskandariyya, al-Iskandariyyah, el-Iskandariyya, el-Iskandariyyah", "Rhakōtis, Rhakotis", "Alexandreia", "Alexandrea ad Aegyptum", "Alexandreia ad Aegyptum" ],
+    "place_types" : [ "theatre", "cemetery", "temple-2", "architecturalcomplex", "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀλεξάνδρεια" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.61916, 22.31744 ]
+    },
+    "properties" : {
+      "titles" : "Khambhāt",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/1267090" ],
+    "titles" : [ "Khambhāt" ],
+    "names" : [ "Cambay", "Kambay", "Khambāyat", "Khambhāt" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Βαρυγάζων κόλπος" ],
+    "comments" : [ "Gulf of Cambay; closest result" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 78.01884, 8.612651 ]
+    },
+    "properties" : {
+      "titles" : "Kolchoi",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50064" ],
+    "titles" : [ "Kolchoi" ],
+    "names" : [ "Kolchoi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κόλχων", "Κόλχους", "Κόλχοι" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 51.25, 11.816667 ]
+    },
+    "properties" : {
+      "titles" : "Aromata Emporion",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39293" ],
+    "titles" : [ "Aromata Emporion" ],
+    "names" : [ "Aromata Emporion" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀρωμάτων", "Ἀρωμάτων", "Ἀρωμάτων" ],
+    "tags" : [ "@ana:#collective" ],
+    "comments" : [ "Shipley commentary says Cape of Aromata" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 74.131102, 14.811768 ]
+    },
+    "properties" : {
+      "titles" : "Chersonesos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49945" ],
+    "titles" : [ "Chersonesos" ],
+    "names" : [ "Chersonesos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Χερσόνησον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.5, 31.5 ]
+    },
+    "properties" : {
+      "titles" : "Libya",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/716588" ],
+    "titles" : [ "Libya" ],
+    "names" : [ "Libya" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λιβύης" ],
+    "comments" : [ "It looks like this may be the Libya province/s, but since Pleiades has only entries for the separate Inferior and Superior we could not choose one. " ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.5, 38.5 ]
+    },
+    "properties" : {
+      "titles" : "Parthyene/Parthia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/952097" ],
+    "titles" : [ "Parthyene/Parthia" ],
+    "names" : [ "Parthyene", "Parthia", "Parthava" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πάρθων" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.4464006, 30.3273975 ]
+    },
+    "properties" : {
+      "titles" : "Petra",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/697725" ],
+    "titles" : [ "Petra" ],
+    "names" : [ "Petra", "al-Ǧī, al-Ji, el-Ji", "Reqem, Rekem", "Colonia Antoniniana P., Colonia Antoniniana Petra", "Colonia Ant. P., Colonia Antoniniana Petra", "al-Wuʿaira, al-Wu'aira, el-Wu'eira, al-Wu'airah, el-Wu'eireh, al-Wu'ayra, el-Wu'eyra, al-Wu'ayrah, el-Wu'eyreh, al-Wuaira, el-Wueira, al-Wuairah, el-Wueireh, al-Wuayra, el-Wueyra, al-Wuayrah, el-Wueyreh, al-Woaira", "as-Salʿa, as-Sal'a, as-Salaa, es-Sal'a, es-Salaa, al-Sal'a, al-Salaa, el-Sal'a, el-Salaa", "Vallis Moysi, Valée de Moyse", "Baṭrā, Batra", "Alǧī, Alji", "Petra", "Petra", "Gaia", "al-Ǧāya, al-Jaya, el-Jaya", "Wādī Mūsā, Wadi Musa, Wadi Mousa", "Petra", "Petra" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πέτραν" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Arabia",
+      "annotations" : 20
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29475" ],
+    "titles" : [ "Arabia" ],
+    "names" : [ "Arabia", "Arubu" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀραβικὸς", "Ἀραβίας", "Ἀραβίας", "Ἀραβικὴ", "Ἀραβικῇ", "Ἀραβικὸς", "Ἀραβίας", "Ἀράβων", "Ἀραβίαν", "Ἀράβων", "Ἀραβικῆς", "Ἀραβίαν", "Ἀραβικὴν", "Ἀράβων", "Ἀραβικῆς", "Ἀραβίαν", "Ἄραψιν", "Κανραῗται", "Ἀραβικῆς", "Ἀραβικὸς" ],
+    "tags" : [ "place.derivative", "place.derivative", "place.derivative", "@ana:#collective", "@ana:#collective", "place.derivative", "@ana:#collective", "@ana:#collective", "place.derivative", "place.derivative" ],
+    "comments" : [ "\n" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 79.819493, 11.901409 ]
+    },
+    "properties" : {
+      "titles" : "Podouke/Arikamedu",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50221" ],
+    "titles" : [ "Podouke/Arikamedu" ],
+    "names" : [ "Podouke" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ποδούκη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 7.5 ]
+    },
+    "properties" : {
+      "titles" : "Komar(ei) Pr.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50066" ],
+    "titles" : [ "Komar(ei) Pr." ],
+    "names" : [ "Komarei Pr.", "Komar Pr.", "Komaria" ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κομὰρ", "Κομαρεὶ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Argarou",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49871" ],
+    "titles" : [ "Argarou" ],
+    "names" : [ "Argarou", "Argalou" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀργαλου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.47517, 23.91052 ]
+    },
+    "properties" : {
+      "titles" : "Berenice/Berenike",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/785986" ],
+    "titles" : [ "Berenice/Berenike" ],
+    "names" : [ "Berenice", "Berenice Troglodytica", "Berenice Troglodytica" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βερνίκης", "Βερνίκη", "Βερνίκης", "Βερνίκης", "Βερνίκης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 66.455092, 25.6558 ]
+    },
+    "properties" : {
+      "titles" : "Kokala/Horaia?/Argenuus?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59881" ],
+    "titles" : [ "Kokala/Horaia?/Argenuus?" ],
+    "names" : [ "Kokala", "Horaia", "Argenuus" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὡραία" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.925301, 21.402921 ]
+    },
+    "properties" : {
+      "titles" : "Kammoni",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50032" ],
+    "titles" : [ "Kammoni" ],
+    "names" : [ "Kammoni", "Kamani" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καμμωνὶ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 50.635, 11.935 ]
+    },
+    "properties" : {
+      "titles" : "Elephas Pr.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39340" ],
+    "titles" : [ "Elephas Pr." ],
+    "names" : [ "Elephas Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἐλέφας", "Ἐλέφαντα" ],
+    "comments" : [ "described in text as river; no river shows up in search results" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.038928, 12.771651 ]
+    },
+    "properties" : {
+      "titles" : "Adane/Athenae/Eudaimon Arabia",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39269" ],
+    "titles" : [ "Adane/Athenae/Eudaimon Arabia" ],
+    "names" : [ "Adane", "Athenae", "Eudaimon Arabia", "Nēsoi Eudaimones, Nesoi Eudaimones", "ʿAdan, Adan, Aden", "Adan", "Madīnat aš-Šaʿb, Madinat ash-Sha'b, Medinat esh-Sha'b, Madinat ash-Shab, Medinat esh-Shab, Madinat ash-Shaab, Medinat esh-Shaab, Madinat al-Sha'b, Medinat el-Sha'b, Madinat al-Shab, Medinat el-Shab, Madinat al-Shaab, Medinat el-Shaab, Madinat al-Sha'ab, Medinat el-Sha'ab, Madinat ash-Sha'ab, Medinat esh-Sha'ab, Medīnat eš-Šaʿb", "Arabia Eudaimōn, Arabia Eudaimon", "Arabia Eudaiman", "Eudaimōn Polis, Eudaimon Polis", "Eudaimōn Arabia, Eudaimon Arabia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Εὐδαίμονος Ἀραβικῆς", "Εὐδαίμονος Ἀραβίας", "Εὐδαίμων", "Εὐδαίμων Ἀραβία", "Εὐδαίμων Ἀραβία" ],
+    "comments" : [ "Eudaimon Arabia was at one point simply called Eudaimon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Nabataea",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29677" ],
+    "titles" : [ "Nabataea" ],
+    "names" : [ "Nabataea" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀναβαταίων" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 92.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Sesatai/Bessadae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/60043" ],
+    "titles" : [ "Sesatai/Bessadae" ],
+    "names" : [ "Sesatai", "Bessadae", "Sosaeadae" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σησάτας" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 51.5, 30.5 ]
+    },
+    "properties" : {
+      "titles" : "Persis/Pars",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/922698" ],
+    "titles" : [ "Persis/Pars" ],
+    "names" : [ "Persis", "Pars" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Περσίδος", "Περσίδος", "Περσίδα", "Περσίδος", "Περσίδος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 48.3870518, 13.9317288 ]
+    },
+    "properties" : {
+      "titles" : "Orneon Ins.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39405" ],
+    "titles" : [ "Orneon Ins." ],
+    "names" : [ "Orneon" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὀρνέων" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.5, 2.5 ]
+    },
+    "properties" : {
+      "titles" : "Azania",
+      "annotations" : 7
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39307" ],
+    "titles" : [ "Azania" ],
+    "names" : [ "Azania" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀζανίας", "Ἀζανίας", "Ἀζανία", "Ἀζανίας", "Ἀζανίας", "Ἀζανίας", "Ἀζανίας" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 47.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Kane",
+      "annotations" : 11
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39355" ],
+    "titles" : [ "Kane" ],
+    "names" : [ "Kane" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κανὴ", "Κανὴ", "Κανῆς", "Κανή", "Κανή", "Κανή", "Κανῆς", "χώρας Λιβανωτοφόρου", "χώρα Λιβανωτοφόρος", "Κανῆς", "Λιβανωτοφόρου" ],
+    "tags" : [ "epithet", "epithet", "epithet" ],
+    "comments" : [ "?" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.05, -2.1 ]
+    },
+    "properties" : {
+      "titles" : "Pyraloi (islands)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39410" ],
+    "titles" : [ "Pyraloi (islands)" ],
+    "names" : [ "Pyraloi" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πυραλάων νήσων" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.5, 31.5 ]
+    },
+    "properties" : {
+      "titles" : "Euphrates (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/912849" ],
+    "titles" : [ "Euphrates (river)" ],
+    "names" : [ "Εὐφράτης", "Euphrates", "Arahtu", "Buranun", "Purattu", "al-Furāt, al-Furat, el-Furat, al-Forat, el-Forat, Furat, Forat", "Puranade", "Purattu", "Firat", "al Furāt, al Furat, el Furat, el Furāt", "al-Furat", "Firat Nehri", "Euphrates", "Omma", "Nahr al-Furāt, Nahr al-Furat, Nahr el-Furat, Nahr el-Furāt", "Fırat, Firat", "Fırat Nehri, Firat Nehri", "Euphrat", "Euphratēs, Euphrates", "Mala", "Eprat", "Purattum", "Gattu" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Εὐφράτην" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 75.385416, 19.468043 ]
+    },
+    "properties" : {
+      "titles" : "Paithana",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50192" ],
+    "titles" : [ "Paithana" ],
+    "names" : [ "Paithana", "Baithana" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παίθανα", "Παιθάνων" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 80, -20 ]
+    },
+    "properties" : {
+      "titles" : "Indicum Mare",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39352" ],
+    "titles" : [ "Indicum Mare" ],
+    "names" : [ "Indicum Mare" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἰνδικῷ πελάγει" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.3631, -7.69731 ]
+    },
+    "properties" : {
+      "titles" : "Rhapta",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39414" ],
+    "titles" : [ "Rhapta" ],
+    "names" : [ "Rhapta" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ῥάπτα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Aethiopia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39274" ],
+    "titles" : [ "Aethiopia" ],
+    "names" : [ "Aethiopia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Αἰθιοπίας" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Masalia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50123" ],
+    "titles" : [ "Masalia" ],
+    "names" : [ "Masalia", "Maisolia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μασαλία" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 82.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Desarene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49961" ],
+    "titles" : [ "Desarene" ],
+    "names" : [ "Desarene" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Δησαρήνη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 80, 10 ]
+    },
+    "properties" : {
+      "titles" : "Taprobane/Palaisimoundou/Salike (island)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50298" ],
+    "titles" : [ "Taprobane/Palaisimoundou/Salike (island)" ],
+    "names" : [ "Taprobane", "Palaisimoundou", "Salike", "Silenfantine", "Simoundou" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παλαισιμούνδου", "Ταπροβάνη" ],
+    "comments" : [ "alternate name" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 53.9293594, 12.4805981 ]
+    },
+    "properties" : {
+      "titles" : "Diosko(u)rides (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39338" ],
+    "titles" : [ "Diosko(u)rides (island)" ],
+    "names" : [ "Dioskourides", "Dioskorides" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Διοσκουρίδου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.59, 24.07 ]
+    },
+    "properties" : {
+      "titles" : "Indus/Sinthos/Phison (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59851" ],
+    "titles" : [ "Indus/Sinthos/Phison (river)" ],
+    "names" : [ "Indus", "Sinthos", "Phison", "Sindus", "Sygoton" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σίνθος", "Σίνθον ποταμὸν" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Ariake/Larike",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59700" ],
+    "titles" : [ "Ariake/Larike" ],
+    "names" : [ "Ariake", "Larike" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀριακῆς", "Ἀριακῆς", "Ἀριακῆς", "Ἀριακῆς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Italia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1052" ],
+    "titles" : [ "Italia" ],
+    "names" : [ "Italia", "Ἰταλία", "Italia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἰταλικὸς", "Ἰταλικὸς" ],
+    "tags" : [ "place.derivative", "place.derivative" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 79.942282, 12.188994 ]
+    },
+    "properties" : {
+      "titles" : "Sopatma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50278" ],
+    "titles" : [ "Sopatma" ],
+    "names" : [ "Sopatma" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σωπάτμα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 47.58242, 30.89504 ]
+    },
+    "properties" : {
+      "titles" : "Jebel Khayabir/Alexandria?/Antiochia?/Spasinou Charax?/Karkh Maisan?/[Astarabad Ardashir]?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/912872" ],
+    "titles" : [ "Jebel Khayabir/Alexandria?/Antiochia?/Spasinou Charax?/Karkh Maisan?/[Astarabad Ardashir]?" ],
+    "names" : [ "Alexandria", "Antiochia", "Spasinou Charax", "Karkh Maisan", "Astarabad Ardashir", "Χάραξ Σπασίνου", "Charax Spasinu" ],
+    "place_types" : [ "urban", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πασίνου Χάρακα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 43.473889, 11.353889 ]
+    },
+    "properties" : {
+      "titles" : "Adouli",
+      "annotations" : 7
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39271" ],
+    "titles" : [ "Adouli" ],
+    "names" : [ "Adouli", "Adule" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἄδουλι", "Ἄδουλι", "Ἄδουλι", "Ἄδουλι", "Ἄδουλι", "Ἀδουλιτικῷ", "Ἀδουλιντικοῦ" ],
+    "tags" : [ "place.derivative" ],
+    "comments" : [ "this looked like the best match but I'm not entirely sure", "yes, it is the correct match." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 75.926477, 10.763548 ]
+    },
+    "properties" : {
+      "titles" : "Tyndis",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50312" ],
+    "titles" : [ "Tyndis" ],
+    "names" : [ "Tyndis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Τύνδις", "Τύνδεως", "Τύνδις" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 48.605954, 11.28743 ]
+    },
+    "properties" : {
+      "titles" : "Mosylon Emporion",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39387" ],
+    "titles" : [ "Mosylon Emporion" ],
+    "names" : [ "Mosylon Emporion" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μοσύλλου", "Μόσυλλον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 58.7838272, 20.2751568 ]
+    },
+    "properties" : {
+      "titles" : "Sarapi(a)s (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29743" ],
+    "titles" : [ "Sarapi(a)s (island)" ],
+    "names" : [ "Sarapias", "Sarapis" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαράπιδος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Herone Ins.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49997" ],
+    "titles" : [ "Herone Ins." ],
+    "names" : [ "Herone" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἡρώνη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 81.5323306, 22.7452561 ]
+    },
+    "properties" : {
+      "titles" : "Namades/Lamnaios (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50156" ],
+    "titles" : [ "Namades/Lamnaios (river)" ],
+    "names" : [ "Namades", "Lamnaios" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Λαμναῖος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.184316, 18.222236 ]
+    },
+    "properties" : {
+      "titles" : "Ptolemais Theron",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39409" ],
+    "titles" : [ "Ptolemais Theron" ],
+    "names" : [ "Ptolemais Theron" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πτολεμαΐδα τὴν τῶν θηρῶν", "Πτολεμαῒς ἡ τῶν θηρῶν", "Πτολεμαίων" ],
+    "tags" : [ "@ana:#collective" ],
+    "comments" : [ "full name." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 47.833151, 30.521707 ]
+    },
+    "properties" : {
+      "titles" : "Apologos/[al-Ubulla]",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/912807" ],
+    "titles" : [ "Apologos/[al-Ubulla]" ],
+    "names" : [ "Apologos", "al-Ubulla" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀπολόγου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.213429, 17.294362 ]
+    },
+    "properties" : {
+      "titles" : "Milizigeris?/Sigerus?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50133" ],
+    "titles" : [ "Milizigeris?/Sigerus?" ],
+    "names" : [ "Milizigeris", "Sigerus" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μελιζειγάρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 76.213146, 10.153976 ]
+    },
+    "properties" : {
+      "titles" : "Muziris",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50146" ],
+    "titles" : [ "Muziris" ],
+    "names" : [ "Muziris", "Mouzeris", "Zmiris" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μούζιρις", "Μούζιρις", "Μουζίρεως" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 50.5, 38.5 ]
+    },
+    "properties" : {
+      "titles" : "Caspium/Hyrcanium Mare",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/884130" ],
+    "titles" : [ "Caspium/Hyrcanium Mare" ],
+    "names" : [ "Caspium", "Hyrcanium Mare" ],
+    "place_types" : [ "water-open", "lake" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κασπίας θαλάσσης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.833333, 15.55 ]
+    },
+    "properties" : {
+      "titles" : "Exusta/Katakekaumene Inss.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39345" ],
+    "titles" : [ "Exusta/Katakekaumene Inss." ],
+    "names" : [ "Exusta", "Katakekaumene" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κατακεκαυμένης νήσου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.393843, 32.520613 ]
+    },
+    "properties" : {
+      "titles" : "Boukephala",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59750" ],
+    "titles" : [ "Boukephala" ],
+    "names" : [ "Βουκεφάλα", "Boukephala", "Boos Kephalai" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βουκέφαλος Ἀλεξάνδρεια" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Aberia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59649" ],
+    "titles" : [ "Aberia" ],
+    "names" : [ "Aberia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀβηρία" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 43.979943, 13.329661 ]
+    },
+    "properties" : {
+      "titles" : "Save",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39426" ],
+    "titles" : [ "Save" ],
+    "names" : [ "Save", "Sabe" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαυὴ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "India",
+      "annotations" : 17
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50004" ],
+    "titles" : [ "India" ],
+    "names" : [ "India" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἰνδικῆς", "Ἰνδικὴ", "Ἰνδῶν", "Ἰνδικῶν", "Ἰνδικήν", "Ἰνδικῆς", "Ἰνδικαὶ", "Ἰνδικὸν", "Ἰνδικῆς", "Ἰνδικὸς", "Ἰνδικὸν", "Ἰνδικῶν", "Ἰνδικὴν", "Ἰνδικόν", "Ἰνδικοῦ", "Ἰνδικὴν", "Ἰνδικὸν" ],
+    "tags" : [ "@ana:#collective", "place.derivative", "place.derivative", "@ana:#collective", "place.derivative", "place.derivative", "place.derivative", "place.derivative", "place.derivative", "place.derivative", "place.derivative" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.302413, 17.526305 ]
+    },
+    "properties" : {
+      "titles" : "Palaipatmai?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50196" ],
+    "titles" : [ "Palaipatmai?" ],
+    "names" : [ "Palaipatmai", "Balepatna" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παλαιπάτμαι" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.268473, 21.608478 ]
+    },
+    "properties" : {
+      "titles" : "Astakapra",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49880" ],
+    "titles" : [ "Astakapra" ],
+    "names" : [ "Astakapra", "Astakanpra" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀστακάνπρων", "Ἀστακάπρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Mais (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59905" ],
+    "titles" : [ "Mais (river)" ],
+    "names" : [ "Mais", "Elymaide", "Mophis" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μάϊς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Bactria",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/971705" ],
+    "titles" : [ "Bactria" ],
+    "names" : [ "Bactria", "Aseni", "Baktrioi", "Bactriani", "Zariaspai" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βακτριανῶν", "Βάκτρων" ],
+    "tags" : [ "@ana:#collective", "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.04154, 1.11184 ]
+    },
+    "properties" : {
+      "titles" : "Nikon, Port Dunford",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/45761" ],
+    "titles" : [ "Nikon, Port Dunford" ],
+    "names" : [ "Port Dunford", "Nikon" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Νίκωνος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Hellas",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1001896" ],
+    "titles" : [ "Hellas" ],
+    "names" : [ "Hellas", "Ελλάς", "Hellas, Hellás", "Ελλάδα", "Elláda, Ellada" ],
+    "place_types" : [ "province" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἑλλήνων", "Ἑλληνικῶν", "Ἑλληνικὰ", "Ἑλληνικοῖς", "Ἑλληνικοῖς" ],
+    "tags" : [ "@ana:#collective", "place.derivative", "place.derivative", "place.derivative", "place.derivative" ],
+    "comments" : [ "Greece" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.7425505, 43.0786852 ]
+    },
+    "properties" : {
+      "titles" : "Pontus Euxinus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1224" ],
+    "titles" : [ "Pontus Euxinus" ],
+    "names" : [ "Pontus Euxinus", "Black Sea" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πόντου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 12.5 ]
+    },
+    "properties" : {
+      "titles" : "Kerobothros",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50055" ],
+    "titles" : [ "Kerobothros" ],
+    "names" : [ "Kerobothros", "Caelobothras" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κηπροβότου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Baiones Ins.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49889" ],
+    "titles" : [ "Baiones Ins." ],
+    "names" : [ "Baiones" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαιώνης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.34847, 2.03597 ]
+    },
+    "properties" : {
+      "titles" : "Sarapion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/40292" ],
+    "titles" : [ "Sarapion" ],
+    "names" : [ "Sarapion" ],
+    "place_types" : [ "unlocated" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σαραπίωνος" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.835832, 29.320878 ]
+    },
+    "properties" : {
+      "titles" : "Krokodilopolis/Ptolemais Euergetis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/736948" ],
+    "titles" : [ "Krokodilopolis/Ptolemais Euergetis" ],
+    "names" : [ "Κροκοδείλων πόλις", "Krokodeilon polis", "Ptolemais Euergetis", "Arsinoe", "Krialon", "Medinet el-Fayum", "Kimān Faris", "Mīt Fāris, Mit Faris", "Arsinoe", "šdt, Shedyet", "Arsinoitōn polis", "Arsinoitēs, Arsinoites", "Arsinoïtēs", "Arsinoitōn Polis, Arsinoiton Polis", "Tpolis Piam, Payom", "Kīmān Fāris, Kiman Faris", "Arsinoē, Arsinoe", "Arsinoë", "Krokodilopolis", "Crocodilopolis", "Krokodeilōnpolis, Krokodeilonpolis", "Ptolemais Euergetis", "Madīnat al-Fayyūm, Madinat al-Fayyum, Medinat el-Fayyum", "al-Fayyum", "al-Fayyūm, Faiyum, al-Fayyum, el-Fayyum, al-Fayum, el-Fayum, Fayoum", "il-Fayyūm", "Sobektempel, Temple of Sobek", "Krokodeilōn Polis, Krokodeilon Polis", "Krokodeilōn polis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀρσινοϊτικαὶ", "Ἀρσινοϊτικοὶ" ],
+    "tags" : [ "place.derivative", "place.derivative" ],
+    "comments" : [ "lots of different locations with the same name; not sure which one is the right one", "ambiguous identification. Could be the other Arsinoe by the Nile (Ptolemais Euergetis). Have a look at the commentaries and check later.", "I believe it is Ptolemais Euergetis as the Casson commentary states that Arsione is \"an important town in the Fayum and a provincial capital\"" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 7.5 ]
+    },
+    "properties" : {
+      "titles" : "Pandion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50201" ],
+    "titles" : [ "Pandion" ],
+    "names" : [ "Pandion", "Pandae", "Pandiones" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Πανδίονα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 43.65096, 12.766503 ]
+    },
+    "properties" : {
+      "titles" : "Akila/Okelis",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39279" ],
+    "titles" : [ "Akila/Okelis" ],
+    "names" : [ "Akila", "Okelis", "Ocilia" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ὄκηλιν", "Ὀκήλεως", "Ὄκηλις", "Ὄκηλιν" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Papike Pr.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50204" ],
+    "titles" : [ "Papike Pr." ],
+    "names" : [ "Papike Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παπικὴ", "Παπικῆς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.733, 13.017 ]
+    },
+    "properties" : {
+      "titles" : "Aualites",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39304" ],
+    "titles" : [ "Aualites" ],
+    "names" : [ "Aualites" ],
+    "place_types" : [ "station", "settlement-modern" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Αὐαλίτην", "Αὐαλίτην", "Αὐαλίτην", "Αὐαλίτης", "Αὐαλίτης" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.339812, 16.503036 ]
+    },
+    "properties" : {
+      "titles" : "Byzantion?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49929" ],
+    "titles" : [ "Byzantion?" ],
+    "names" : [ "Byzantion" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βυζάντιον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ 33.7140617, 16.933976 ], [ 33.7085042, 16.9364392 ], [ 33.7084827, 16.9366855 ], [ 33.7085042, 16.9370961 ], [ 33.7085471, 16.9375477 ], [ 33.7086115, 16.937794 ], [ 33.7087617, 16.9381224 ], [ 33.7090406, 16.9385535 ], [ 33.7093196, 16.9389846 ], [ 33.709856, 16.9395798 ], [ 33.7153707, 16.9374656 ], [ 33.7140617, 16.933976 ] ] ]
+    },
+    "properties" : {
+      "titles" : "Meroe",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/805630" ],
+    "titles" : [ "Meroe" ],
+    "names" : [ "Meroe", "Meroe", "Meroë", "Meroe", "Μερόη", "Meroe, Meróē" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μερόη" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 56.1406917, 17.6136311 ]
+    },
+    "properties" : {
+      "titles" : "Zenobiou (islands)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39441" ],
+    "titles" : [ "Zenobiou (islands)" ],
+    "names" : [ "Zenobiou", "جزر خوريا موريا", "Juzur Khurīyā Murīyā" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ζηνοβίου", "Ζηνοβίου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 77.5, 7.5 ]
+    },
+    "properties" : {
+      "titles" : "Paralia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50205" ],
+    "titles" : [ "Paralia" ],
+    "names" : [ "Paralia" ],
+    "place_types" : [ "coast" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Παραλία" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 68.065079, 24.72237 ]
+    },
+    "properties" : {
+      "titles" : "Patala/Minnagar",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59987" ],
+    "titles" : [ "Patala/Minnagar" ],
+    "names" : [ "Πάταλα", "Patala", "Minnagar", "Theophila", "Binagara", "Patalete", "Patauitanus Portus" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μινναγάρ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 10.863491969085, 33.922822448097 ], [ 10.900462418706, 33.892286783468 ], [ 10.931339446247, 33.892714415634 ], [ 10.962936613709, 33.902989029275 ], [ 11.025169409872, 33.878039319681 ], [ 11.028289982041, 33.856112755138 ], [ 11.070448846028, 33.833154406305 ], [ 11.079083857349, 33.805996704585 ], [ 11.071565013474, 33.768805491564 ], [ 11.041939339757, 33.752543956068 ], [ 11.004149034233, 33.737682733127 ], [ 10.986584384777, 33.707934226436 ], [ 10.980573867923, 33.690447650588 ], [ 10.955578661855, 33.671952357728 ], [ 10.898618046603, 33.66889841723 ], [ 10.90363712919, 33.689402672465 ], [ 10.901446609142, 33.708293768025 ], [ 10.88939983584, 33.721748520011 ], [ 10.882627971897, 33.742848071244 ], [ 10.858073916685, 33.747036853892 ], [ 10.829212095079, 33.740556204808 ], [ 10.814089671449, 33.727460847068 ], [ 10.779691305336, 33.726179622236 ], [ 10.76830057496, 33.749471121207 ], [ 10.775917337553, 33.773817097377 ], [ 10.781887443972, 33.811553628469 ], [ 10.780642860969, 33.823824805693 ], [ 10.773916175032, 33.863906986041 ], [ 10.766800508952, 33.897885693696 ], [ 10.786263299636, 33.921672894922 ], [ 10.810892823806, 33.917500930528 ], [ 10.863491969085, 33.922822448097 ] ] ], [ [ [ 11.030765055233, 34.627016050501 ], [ 11.00878773224, 34.622179976413 ], [ 10.990965556867, 34.640953926461 ], [ 10.99269015901, 34.664209075179 ], [ 10.993166390645, 34.670628006068 ], [ 11.035207071783, 34.68636239378 ], [ 11.082135477793, 34.686930282807 ], [ 11.086026340398, 34.674812764511 ], [ 11.072559103913, 34.655648744111 ], [ 11.056409717966, 34.632651349394 ], [ 11.030765055233, 34.627016050501 ] ] ], [ [ [ 11.171996759368, 34.709736490671 ], [ 11.157235905875, 34.70983494272 ], [ 11.148716453332, 34.724187229435 ], [ 11.174208959049, 34.742715068971 ], [ 11.19430702406, 34.753575535641 ], [ 11.216151520394, 34.771294304914 ], [ 11.21769573373, 34.791084102915 ], [ 11.232014479233, 34.820133579436 ], [ 11.26125245319, 34.839441960806 ], [ 11.278866547469, 34.833526940187 ], [ 11.291767089094, 34.768238901668 ], [ 11.272794484079, 34.741442158739 ], [ 11.228721138759, 34.731880376307 ], [ 11.200513147512, 34.709539306541 ], [ 11.171996759368, 34.709736490671 ] ] ], [ [ [ 12.647905358289, 35.549327414352 ], [ 12.661473165777, 35.492366878479 ], [ 12.636426948843, 35.48740114787 ], [ 12.615364070396, 35.491352971864 ], [ 12.595144903768, 35.503603028268 ], [ 12.570099504915, 35.498618441289 ], [ 12.544294799847, 35.496186617756 ], [ 12.538948508366, 35.514105027515 ], [ 12.533599003811, 35.532024464734 ], [ 12.544477987711, 35.533356421163 ], [ 12.568815626285, 35.536331183567 ], [ 12.590743888821, 35.540694080133 ], [ 12.609542095165, 35.544429480991 ], [ 12.647905358289, 35.549327414352 ] ] ], [ [ [ 12.372689667292, 35.570323040673 ], [ 12.355678234244, 35.562364096681 ], [ 12.346889703929, 35.563465240448 ], [ 12.336693949643, 35.568497005178 ], [ 12.336770289745, 35.590231253203 ], [ 12.357886461004, 35.58634362227 ], [ 12.368057399636, 35.585677527542 ], [ 12.372689667292, 35.570323040673 ] ] ], [ [ [ 12.869317973452, 35.869491570304 ], [ 12.839431694972, 35.869093931361 ], [ 12.829346301199, 35.880694536997 ], [ 12.83730221154, 35.894466533609 ], [ 12.838087930209, 35.895826301112 ], [ 12.83818089712, 35.895987185901 ], [ 12.86643572311, 35.890637863296 ], [ 12.869317973452, 35.869491570304 ] ] ], [ [ [ 10.823339150011, 37.103697759243 ], [ 10.813681589195, 37.099937972754 ], [ 10.807558658845, 37.118150067536 ], [ 10.812904224866, 37.134495634751 ], [ 10.831959243195, 37.134260152583 ], [ 10.844788995141, 37.128340990314 ], [ 10.837396775488, 37.11806913532 ], [ 10.823339150011, 37.103697759243 ] ] ], [ [ [ 9.878062691489, 37.325124992308 ], [ 9.892338982846, 37.291963439001 ], [ 9.871171980061, 37.258878480472 ], [ 9.823662836694, 37.235983703246 ], [ 9.79489975196, 37.217321499781 ], [ 9.726763758504, 37.209890864282 ], [ 9.729760355296, 37.194398820316 ], [ 9.76746877933, 37.1807565928 ], [ 9.800511193311, 37.180190733251 ], [ 9.914932334665, 37.163697862951 ], [ 9.938311525657, 37.168979855131 ], [ 9.945086799737, 37.192730520253 ], [ 9.945207467696, 37.221041993933 ], [ 9.964358311798, 37.245562735035 ], [ 9.996483831535, 37.254812546268 ], [ 10.025170151744, 37.245096799951 ], [ 10.101724157487, 37.250131631282 ], [ 10.154091201965, 37.237595915275 ], [ 10.26525425586, 37.193699221025 ], [ 10.272395692879, 37.173089579475 ], [ 10.246902157949, 37.159360079696 ], [ 10.181117035055, 37.152790433856 ], [ 10.182836186897, 37.118869088504 ], [ 10.218827717161, 37.116800761621 ], [ 10.234288463662, 37.094016169944 ], [ 10.239740560352, 37.071024172053 ], [ 10.225331157289, 37.061765567952 ], [ 10.220404831554, 37.032431096349 ], [ 10.228970733547, 36.985941195592 ], [ 10.238821687139, 36.972005893831 ], [ 10.326495943977, 36.929013030913 ], [ 10.341221460069, 36.908098704398 ], [ 10.346135876199, 36.871915137592 ], [ 10.380924178644, 36.865524121866 ], [ 10.38035569714, 36.845255820626 ], [ 10.354336753521, 36.833445408276 ], [ 10.324070189987, 36.826725131219 ], [ 10.310251275243, 36.837755109635 ], [ 10.246500971093, 36.833629612205 ], [ 10.217540538213, 36.823132041042 ], [ 10.203458022787, 36.805876503542 ], [ 10.208633751814, 36.790913318735 ], [ 10.233441195275, 36.784369763105 ], [ 10.270262120916, 36.78654429876 ], [ 10.314064767847, 36.790256696167 ], [ 10.338949321248, 36.761551110938 ], [ 10.370544002297, 36.742390474984 ], [ 10.408857644048, 36.732765628352 ], [ 10.435304173441, 36.72855463121 ], [ 10.503604944499, 36.733571093347 ], [ 10.572972902974, 36.787057442691 ], [ 10.583984529731, 36.813619925523 ], [ 10.604756658935, 36.848355747932 ], [ 10.625963661908, 36.867080789837 ], [ 10.719942242261, 36.879515573519 ], [ 10.787974073694, 36.930485067789 ], [ 10.867990870096, 36.975923527241 ], [ 10.895719979977, 36.997981908101 ], [ 10.899727288246, 37.031028567551 ], [ 10.930627274951, 37.043695578527 ], [ 10.972787265791, 37.05272498133 ], [ 10.981375945879, 37.064618330774 ], [ 11.031214153949, 37.073246017655 ], [ 11.045604845849, 37.090389532764 ], [ 11.081545691853, 37.087980778359 ], [ 11.100951525858, 37.021737891403 ], [ 11.107374568493, 36.956776946246 ], [ 11.127743743939, 36.932973398942 ], [ 11.142990677131, 36.863889967851 ], [ 11.132198623188, 36.84351900944 ], [ 11.077348836079, 36.797689713939 ], [ 11.025385814842, 36.75846126745 ], [ 10.982812147265, 36.691082267103 ], [ 10.955035516204, 36.6770763301 ], [ 10.914430932121, 36.634181711981 ], [ 10.868847123275, 36.554035259674 ], [ 10.838917228869, 36.509391884381 ], [ 10.804483020702, 36.485845450236 ], [ 10.772819936022, 36.439190406405 ], [ 10.680622337322, 36.42506248756 ], [ 10.601063391299, 36.351340445571 ], [ 10.554839320307, 36.341143508197 ], [ 10.529855352661, 36.319549411671 ], [ 10.525056789854, 36.282329948948 ], [ 10.527184703089, 36.246648872343 ], [ 10.507712469924, 36.216225516779 ], [ 10.485579866736, 36.157094062621 ], [ 10.490501900948, 36.083907723347 ], [ 10.505807926491, 36.053190476071 ], [ 10.524850111594, 36.033340846361 ], [ 10.547847846901, 36.01637573965 ], [ 10.546613817625, 35.975979338918 ], [ 10.576471025162, 35.938479321718 ], [ 10.575844871432, 35.918286915459 ], [ 10.606290511093, 35.900975134939 ], [ 10.63128566324, 35.870425225751 ], [ 10.639164640389, 35.832083473922 ], [ 10.689328095891, 35.792278694177 ], [ 10.719245202214, 35.768833403392 ], [ 10.761020952121, 35.754004089783 ], [ 10.813079276721, 35.767446404886 ], [ 10.831406367231, 35.771465644276 ], [ 10.858626488755, 35.763413722131 ], [ 10.866175850998, 35.733038334763 ], [ 10.883653246866, 35.694834287867 ], [ 10.954492464081, 35.658286884306 ], [ 10.983321650122, 35.652566613432 ], [ 11.0689859771, 35.615187625175 ], [ 11.079395689351, 35.545488044991 ], [ 11.087460899505, 35.543239699996 ], [ 11.092996918631, 35.488492080705 ], [ 11.084612239444, 35.476684118179 ], [ 11.089401809313, 35.431777711268 ], [ 11.070233119585, 35.415630279509 ], [ 11.077540847187, 35.325355506668 ], [ 11.097834211659, 35.307805350156 ], [ 11.127216021743, 35.292226763608 ], [ 11.147613849717, 35.266713403511 ], [ 11.145130039395, 35.244224039784 ], [ 11.136431463156, 35.218392470998 ], [ 11.107630283624, 35.202159151325 ], [ 11.084729304138, 35.175227165151 ], [ 11.065002554419, 35.131024037577 ], [ 11.067371846336, 35.093638105156 ], [ 11.022191590224, 35.038285656799 ], [ 10.988074547281, 35.008868581566 ], [ 10.92022647002, 34.964031618488 ], [ 10.919974362112, 34.920097391635 ], [ 10.91565162852, 34.881255343687 ], [ 10.900009494658, 34.869826673945 ], [ 10.888935938727, 34.829496312465 ], [ 10.852748025357, 34.799555264692 ], [ 10.794932003291, 34.776751757325 ], [ 10.746319802791, 34.680191288958 ], [ 10.72565703447, 34.669595559034 ], [ 10.674563895803, 34.656165849017 ], [ 10.620206631144, 34.616046860762 ], [ 10.596723794183, 34.584841206133 ], [ 10.589167769081, 34.549246623573 ], [ 10.510694244453, 34.531512376702 ], [ 10.46652716867, 34.497567710196 ], [ 10.42845584276, 34.48891147056 ], [ 10.390918055564, 34.442468645452 ], [ 10.326057142775, 34.427640377336 ], [ 10.296852920979, 34.406984785777 ], [ 10.256628650866, 34.39774501483 ], [ 10.229200834529, 34.35752382269 ], [ 10.174019008875, 34.342794829707 ], [ 10.147293197872, 34.300707333005 ], [ 10.093870618441, 34.252412321674 ], [ 10.05538441008, 34.181430613118 ], [ 10.044453281971, 34.156946377998 ], [ 10.060224101389, 34.088850545625 ], [ 10.097093431662, 34.057581438132 ], [ 10.109248148943, 34.028529642639 ], [ 10.12093491079, 33.979453937054 ], [ 10.143683978389, 33.932966389034 ], [ 10.176382015127, 33.870888211134 ], [ 10.264445711219, 33.799783697549 ], [ 10.294537550796, 33.78088911525 ], [ 10.338051407332, 33.721349943828 ], [ 10.369226676536, 33.720588842181 ], [ 10.393225559545, 33.698292020243 ], [ 10.439082994275, 33.68896577043 ], [ 10.466211316277, 33.693204715673 ], [ 10.53660371845, 33.637820516153 ], [ 10.587821010263, 33.655467916504 ], [ 10.614748890539, 33.667556533185 ], [ 10.677260390029, 33.679771256416 ], [ 10.693383973561, 33.703275450401 ], [ 10.737642494992, 33.713287123313 ], [ 10.765752550492, 33.699786804998 ], [ 10.767475636495, 33.672394412614 ], [ 10.780331103775, 33.581067006475 ], [ 10.750185405859, 33.564338745672 ], [ 10.732702844995, 33.552449175562 ], [ 10.736643049575, 33.525575938434 ], [ 10.77282637892, 33.494106023754 ], [ 10.823477115173, 33.483736138692 ], [ 10.857852305204, 33.509317037825 ], [ 10.8769620687, 33.523524110406 ], [ 10.963824068046, 33.533086510595 ], [ 10.936221356768, 33.61213741501 ], [ 10.974407874927, 33.618690013767 ], [ 11.043271026106, 33.618179723826 ], [ 11.126902442512, 33.563440545346 ], [ 11.134106257477, 33.495727016544 ], [ 11.123322843527, 33.477497087242 ], [ 11.141854709344, 33.35889624976 ], [ 11.193853174851, 33.320963495825 ], [ 11.244288656913, 33.310357611153 ], [ 11.268963813251, 33.284166259487 ], [ 11.250769697115, 33.282129318106 ], [ 11.207887725325, 33.306269089313 ], [ 11.174152107541, 33.308688687074 ], [ 11.145526449948, 33.302339677799 ], [ 11.152052124467, 33.274119851586 ], [ 11.178830166231, 33.256329328693 ], [ 11.184942329923, 33.210628546104 ], [ 11.232048032541, 33.19536386446 ], [ 11.30378533793, 33.191438391332 ], [ 11.343675435842, 33.176509714688 ], [ 11.435177800701, 33.176824526048 ], [ 11.432621342049, 33.207864803426 ], [ 11.369859213591, 33.243505901751 ], [ 11.352525353585, 33.261438423281 ], [ 11.356830148975, 33.270288172928 ], [ 11.379621682949, 33.25750227912 ], [ 11.403070556329, 33.234979057037 ], [ 11.451371335292, 33.208012885607 ], [ 11.469232401614, 33.188215227399 ], [ 11.548610878882, 33.189708204524 ], [ 11.583541030992, 33.167683554098 ], [ 11.615876912306, 33.123386220605 ], [ 11.7108942642, 33.08080043528 ], [ 11.754961303335, 33.074514497985 ], [ 11.760901156058, 33.093536645137 ], [ 11.74264888867, 33.107358767617 ], [ 11.719530561253, 33.106326298532 ], [ 11.701319854837, 33.112262840079 ], [ 11.701774110933, 33.126167593275 ], [ 11.714973465151, 33.129011995865 ], [ 11.751960654274, 33.115277364879 ], [ 11.832559253922, 33.073423326549 ], [ 11.947109832595, 33.042697930731 ], [ 12.053855984458, 33.006261609362 ], [ 12.080799732636, 32.994238542866 ], [ 12.111580549551, 32.977114498589 ], [ 12.141797228108, 32.96970539369 ], [ 12.224669151185, 32.91825683644 ], [ 12.292665469648, 32.893155220314 ], [ 12.381481738129, 32.876275886657 ], [ 12.567228467019, 32.847482242594 ], [ 12.648382051514, 32.848419585477 ], [ 12.815532283178, 32.841233758311 ], [ 13.001202885407, 32.866863849888 ], [ 13.051815345408, 32.876983963243 ], [ 13.072906631912, 32.892958229816 ], [ 13.08831877599, 32.896028959782 ], [ 13.132880415434, 32.902929670529 ], [ 13.136896034341, 32.913531486281 ], [ 13.163332087439, 32.918774908312 ], [ 13.181880398587, 32.944017874036 ], [ 13.242064191524, 32.961787075582 ], [ 13.305366075188, 32.968358511777 ], [ 13.390963272822, 32.936122988942 ], [ 13.464938381912, 32.903524049218 ], [ 13.500023887706, 32.877047398477 ], [ 13.54544756625, 32.872147668854 ], [ 13.561338510722, 32.847813733506 ], [ 13.618379712382, 32.825556245459 ], [ 13.801192692877, 32.835168437965 ], [ 13.838675879543, 32.842303610139 ], [ 13.926250755353, 32.817842638026 ], [ 13.97437857741, 32.801321056052 ], [ 14.009677223592, 32.772789821336 ], [ 14.055471887501, 32.765763043518 ], [ 14.092189992553, 32.749201124996 ], [ 14.186706258535, 32.759029849283 ], [ 14.269615313621, 32.733410730121 ], [ 14.319122754057, 32.693762809668 ], [ 14.347679199418, 32.681466086812 ], [ 14.469108106444, 32.594530404339 ], [ 14.485462665761, 32.593621844348 ], [ 14.506733600212, 32.56436578227 ], [ 14.538171988451, 32.558405012755 ], [ 14.578252057053, 32.536466476792 ], [ 14.632132339751, 32.532603933241 ], [ 14.747007519515, 32.487112811998 ], [ 14.837646789949, 32.464427588646 ], [ 14.985932201988, 32.440212595556 ], [ 15.109767028352, 32.430921831677 ], [ 15.165402299378, 32.409560252566 ], [ 15.198242590331, 32.368646847371 ], [ 15.22850894009, 32.309802103379 ], [ 15.244887252714, 32.289344065663 ], [ 15.302777794616, 32.200761379045 ], [ 15.319767916027, 32.12995462542 ], [ 15.310608652853, 32.120602029524 ], [ 15.317169076047, 32.026679665408 ], [ 15.334375476298, 31.992821245715 ], [ 15.348046008535, 31.964171101817 ], [ 15.381519631238, 31.890504355688 ], [ 15.406992419363, 31.840663837559 ], [ 15.425863164152, 31.799377485769 ], [ 15.446862451922, 31.768149049519 ], [ 15.499900448367, 31.675865768763 ], [ 15.56693341301, 31.602268154708 ], [ 15.597784885365, 31.576615140271 ], [ 15.604298443768, 31.558395445482 ], [ 15.652884369255, 31.504845337831 ], [ 15.739920036176, 31.43079022277 ], [ 15.835448221126, 31.367794102127 ], [ 15.921853902899, 31.334082744339 ], [ 16.028001903118, 31.29202296907 ], [ 16.171117606916, 31.244401043596 ], [ 16.212134830935, 31.241516227991 ], [ 16.257989876721, 31.247112083355 ], [ 16.462036613646, 31.238860856983 ], [ 16.531993594862, 31.236635946395 ], [ 16.572838638003, 31.223927422057 ], [ 16.629138885511, 31.232914131614 ], [ 16.683121999997, 31.231870628898 ], [ 16.765304439772, 31.21407700977 ], [ 16.833451405785, 31.209401245845 ], [ 16.897056025146, 31.194347542204 ], [ 17.08171475205, 31.18835221011 ], [ 17.167961011214, 31.149687390669 ], [ 17.241999559872, 31.126391303732 ], [ 17.313203965297, 31.127579058791 ], [ 17.337382951587, 31.109721192404 ], [ 17.379661870451, 31.110327800209 ], [ 17.458747289707, 31.072269712475 ], [ 17.514685570162, 31.026881031164 ], [ 17.611067953934, 31.023904189583 ], [ 17.685161320526, 30.998374254163 ], [ 17.71691905924, 30.995360534821 ], [ 17.75886334556, 30.963150159943 ], [ 17.858025076472, 30.956482278535 ], [ 17.923295207381, 30.918007128024 ], [ 17.954638855313, 30.882292769649 ], [ 18.000355800724, 30.863955947013 ], [ 18.039940393701, 30.854297304287 ], [ 18.079156735969, 30.846484234066 ], [ 18.111770677087, 30.827091883195 ], [ 18.147114932337, 30.530089249925 ], [ 18.177632382931, 30.185953793644 ], [ 18.182013355891, 29.85864304939 ], [ 18.20075636163, 29.454728745451 ], [ 18.165086289223, 29.221944402872 ], [ 18.186665614544, 28.622653573253 ], [ 18.237470054096, 28.226304657144 ], [ 18.251365842931, 27.727571132459 ], [ 18.03504764133, 27.832552002778 ], [ 16.031797420766, 28.729872489754 ], [ 13.617762462274, 30.377935630196 ], [ 11.963905840212, 31.431478498301 ], [ 9.969667085443, 32.304711544453 ], [ 8.872330176412, 32.662176287146 ], [ 8.867252981332, 32.700336100441 ], [ 8.009384416767, 32.984877143899 ], [ 6.795267131626, 33.377801580448 ], [ 5.910710400718, 33.534843568169 ], [ 5.492563813328, 33.546606758851 ], [ 5.18741413139, 33.646636706179 ], [ 4.238975090703, 33.797703256567 ], [ 2.961456474333, 33.889242314312 ], [ 1.858420979242, 33.939166136696 ], [ 0.372547604305, 33.965485514122 ], [ -0.687366360401, 33.929277090406 ], [ -2.240156503627, 33.971189336096 ], [ -3.342862721096, 33.871410562218 ], [ -3.33118730462, 33.91540682113 ], [ -3.246885563209, 33.987106360246 ], [ -3.228016176144, 34.08164458073 ], [ -3.2185594212, 34.12892745155 ], [ -3.151357346254, 34.243111036879 ], [ -3.084360032672, 34.319885790602 ], [ -2.972395995592, 34.37126076698 ], [ -2.932768212759, 34.405801384843 ], [ -2.804397712415, 34.519228543859 ], [ -2.781516234211, 34.621352626309 ], [ -2.813825814732, 34.67669009292 ], [ -2.725132832155, 34.730604223909 ], [ -2.654601756695, 34.777187222178 ], [ -2.650694807745, 34.82213476242 ], [ -2.607400170124, 34.864056902405 ], [ -2.549134769759, 34.89324621804 ], [ -2.535816089694, 34.948082894099 ], [ -2.480641216042, 34.969778536156 ], [ -2.363725375306, 35.027981970195 ], [ -2.355196595773, 35.099743117138 ], [ -2.353814012074, 35.103601099274 ], [ -2.324194947025, 35.101228839724 ], [ -2.303771644115, 35.099587238067 ], [ -2.246857812476, 35.097617677834 ], [ -2.205077756565, 35.106618414311 ], [ -2.173288129058, 35.097253759008 ], [ -2.157034645018, 35.084270089053 ], [ -2.152644655764, 35.071508546851 ], [ -2.111565389975, 35.056095616778 ], [ -2.021248379756, 35.062106337227 ], [ -1.909950583496, 35.092935139525 ], [ -1.878703968802, 35.10493626146 ], [ -1.845039782005, 35.117848934189 ], [ -1.814094490032, 35.120079793528 ], [ -1.784930993954, 35.104780599759 ], [ -1.724770376628, 35.127766939618 ], [ -1.715743439563, 35.148042577079 ], [ -1.686838520301, 35.159060360303 ], [ -1.627343840835, 35.193715630467 ], [ -1.566849479283, 35.221479634619 ], [ -1.527848965217, 35.245860382758 ], [ -1.447722227981, 35.285735820542 ], [ -1.358811675604, 35.304797239877 ], [ -1.3485244749, 35.323066579868 ], [ -1.340449936956, 35.345304999769 ], [ -1.268383673369, 35.357915192223 ], [ -1.256112826787, 35.393706697389 ], [ -1.236969595898, 35.42246320381 ], [ -1.216060277313, 35.46387211679 ], [ -1.21678170442, 35.502009870216 ], [ -1.201339646516, 35.526971391235 ], [ -1.183668315306, 35.54795669518 ], [ -1.12949063858, 35.560903473026 ], [ -1.104255293623, 35.589470905659 ], [ -1.08010168626, 35.62002456883 ], [ -1.03820248607, 35.64513387223 ], [ -1.00405216058, 35.6577557189 ], [ -0.93082415791, 35.684760799818 ], [ -0.87756564422, 35.694760194247 ], [ -0.865834561508, 35.689480579434 ], [ -0.830769118998, 35.695161249191 ], [ -0.806325668873, 35.704123331243 ], [ -0.771245933541, 35.709781006983 ], [ -0.730346043839, 35.688804469776 ], [ -0.707170466884, 35.673322387236 ], [ -0.687029971361, 35.668703599029 ], [ -0.613081305314, 35.683687428035 ], [ -0.601408319769, 35.699902063056 ], [ -0.581850373654, 35.72855342041 ], [ -0.55245606096, 35.739226925515 ], [ -0.50153707945, 35.748115340249 ], [ -0.5241587339, 35.838041570147 ], [ -0.47041897327, 35.852690664032 ], [ -0.432233299047, 35.847334630452 ], [ -0.389379649418, 35.860389992313 ], [ -0.329871135247, 35.869839506511 ], [ -0.290683459634, 35.84087853893 ], [ -0.268441714378, 35.81061910181 ], [ -0.236397147756, 35.783880745093 ], [ -0.191503690594, 35.771297760596 ], [ -0.152187904936, 35.785358329788 ], [ -0.089181201127, 35.755331902593 ], [ -0.046008403032, 35.773101102877 ], [ -0.021238264506, 35.803388418951 ], [ -0.008124297852, 35.839069161731 ], [ 0.016500984269, 35.847811023947 ], [ 0.083355645277, 35.986020303265 ], [ 0.102041855088, 35.995005814887 ], [ 0.106134252477, 36.020313568973 ], [ 0.132577949662, 36.036797469754 ], [ 0.1760223566, 36.054479958302 ], [ 0.227675755737, 36.089327258784 ], [ 0.257393585536, 36.099749515869 ], [ 0.293439700063, 36.131451791574 ], [ 0.332349155722, 36.168899443413 ], [ 0.378084573333, 36.182470123352 ], [ 0.477072528102, 36.212131613933 ], [ 0.544913899814, 36.245174374906 ], [ 0.579377128001, 36.252327613215 ], [ 0.634550029331, 36.292804988392 ], [ 0.686867252057, 36.310816733974 ], [ 0.775864457078, 36.331844323905 ], [ 0.860985952773, 36.349061901044 ], [ 0.913815332092, 36.371837146806 ], [ 0.934591461322, 36.388424994614 ], [ 0.960918463751, 36.428296902248 ], [ 1.026614996844, 36.443455851619 ], [ 1.057057050109, 36.458519825392 ], [ 1.082097229184, 36.46698912233 ], [ 1.106507300997, 36.482367250045 ], [ 1.150569488848, 36.49960778462 ], [ 1.207824821837, 36.514128113131 ], [ 1.243768003714, 36.507199946373 ], [ 1.269050350596, 36.503809447388 ], [ 1.285336702144, 36.495022732161 ], [ 1.343660580633, 36.507431234806 ], [ 1.357504474997, 36.526303527703 ], [ 1.388678592698, 36.534341642782 ], [ 1.432748111519, 36.52293356815 ], [ 1.499853754036, 36.523915183036 ], [ 1.606184831167, 36.537838678775 ], [ 1.631337044856, 36.546158085841 ], [ 1.720558084683, 36.561378990804 ], [ 1.75544229753, 36.556276998944 ], [ 1.916375361927, 36.58062295475 ], [ 2.006394933958, 36.55319970969 ], [ 2.081600718449, 36.561102094289 ], [ 2.182569567768, 36.581997973157 ], [ 2.301799589164, 36.601549920158 ], [ 2.394839791216, 36.626699208963 ], [ 2.448292076851, 36.589516357425 ], [ 2.469481299766, 36.582132068059 ], [ 2.507894731597, 36.587322439511 ], [ 2.557308645752, 36.570052636165 ], [ 2.624555557317, 36.58201289615 ], [ 2.702596331557, 36.61383302577 ], [ 2.765064314037, 36.647719402491 ], [ 2.823520164614, 36.677925583268 ], [ 2.864691224943, 36.695583647951 ], [ 2.874672295695, 36.729345362548 ], [ 2.898235017528, 36.753228641514 ], [ 2.948523688783, 36.764264558511 ], [ 2.976651395153, 36.784833437972 ], [ 3.024436272367, 36.795033758681 ], [ 3.060490844592, 36.799199974072 ], [ 3.090770933306, 36.754479749531 ], [ 3.134662440293, 36.742234581543 ], [ 3.179704902199, 36.73974042124 ], [ 3.238062703827, 36.746046999106 ], [ 3.266282896238, 36.766524447683 ], [ 3.284921903178, 36.788736868608 ], [ 3.320735895322, 36.792720912545 ], [ 3.381251897422, 36.776077265603 ], [ 3.461278144953, 36.74894035245 ], [ 3.516511490325, 36.749402430209 ], [ 3.562425470984, 36.763422257604 ], [ 3.617950702219, 36.775643315357 ], [ 3.636102208315, 36.792900035657 ], [ 3.672486248253, 36.808644890415 ], [ 3.710186272542, 36.815382600962 ], [ 3.760022836094, 36.839848463532 ], [ 3.760001844759, 36.858611902262 ], [ 3.809574044663, 36.889995314783 ], [ 3.88672231593, 36.906172335535 ], [ 3.960393620591, 36.923575631499 ], [ 4.003927657477, 36.91784431594 ], [ 4.055732041779, 36.900502569705 ], [ 4.139224940919, 36.890226505668 ], [ 4.258606694592, 36.890507065197 ], [ 4.347349871493, 36.900324067357 ], [ 4.441755492562, 36.897676038014 ], [ 4.532647281596, 36.896242740711 ], [ 4.596895459613, 36.88929263322 ], [ 4.64291070524, 36.884005558027 ], [ 4.722789220367, 36.879652362963 ], [ 4.788642456494, 36.875378694793 ], [ 4.864777886868, 36.874025136166 ], [ 4.928419215303, 36.855021975204 ], [ 5.00488520783, 36.839665192479 ], [ 5.092690432993, 36.818174732459 ], [ 5.182253047688, 36.792461558177 ], [ 5.15534668585, 36.761505468231 ], [ 5.140572493572, 36.729342486599 ], [ 5.158463320925, 36.701845164373 ], [ 5.202179600565, 36.674728839506 ], [ 5.278486315654, 36.652214188877 ], [ 5.381685374819, 36.660518200711 ], [ 5.487239845811, 36.683307023355 ], [ 5.543618027718, 36.713089493572 ], [ 5.568130323321, 36.743202675847 ], [ 5.577090145979, 36.775928303873 ], [ 5.617338003991, 36.796476897217 ], [ 5.681040966108, 36.809591968527 ], [ 5.7151961568, 36.837681435619 ], [ 5.766940340285, 36.845074019946 ], [ 5.834851835102, 36.83832482612 ], [ 5.926414126231, 36.840365244635 ], [ 6.021879153005, 36.862536842136 ], [ 6.061860533288, 36.884260776208 ], [ 6.114255262906, 36.887794187503 ], [ 6.150887689342, 36.91753317956 ], [ 6.272718538073, 36.936242543346 ], [ 6.269868679501, 36.974965216409 ], [ 6.281834139719, 36.999745787749 ], [ 6.295143351294, 37.026682810684 ], [ 6.324600619254, 37.047200426948 ], [ 6.364189278641, 37.05427516682 ], [ 6.387656518145, 37.067767484935 ], [ 6.425899367283, 37.088806592719 ], [ 6.486361612341, 37.088853272013 ], [ 6.521967558206, 37.084018256092 ], [ 6.552183166353, 37.054416126639 ], [ 6.560225753794, 37.029660866728 ], [ 6.594419895026, 37.001125303366 ], [ 6.620583524553, 37.002716042193 ], [ 6.651408772363, 36.987614775271 ], [ 6.722428054074, 36.96704662003 ], [ 6.775396670648, 36.968530861482 ], [ 6.829747834958, 36.977511165668 ], [ 6.885272174375, 36.956328865841 ], [ 6.961933252267, 36.899517085453 ], [ 7.047672843801, 36.902292501711 ], [ 7.083976990694, 36.917136550687 ], [ 7.094544279242, 36.936165801243 ], [ 7.204540254034, 36.945094087419 ], [ 7.271450097993, 36.989222112268 ], [ 7.285931145834, 37.019771321169 ], [ 7.266142043589, 37.046839890758 ], [ 7.236814504608, 37.064294454503 ], [ 7.229706460364, 37.087492031785 ], [ 7.277449266017, 37.090878378026 ], [ 7.284027643858, 37.08005951776 ], [ 7.348749236273, 37.096721342247 ], [ 7.401768596575, 37.092459459224 ], [ 7.453317228537, 37.080646454028 ], [ 7.488399836708, 37.06532031396 ], [ 7.544878101218, 37.069011606241 ], [ 7.601954104163, 37.031759258431 ], [ 7.618278940562, 37.007349682726 ], [ 7.686208244769, 36.981757707448 ], [ 7.727184992005, 36.984992196814 ], [ 7.780190042607, 36.985891014477 ], [ 7.810068378345, 36.97202281129 ], [ 7.814275667968, 36.94990459323 ], [ 7.796997756059, 36.925939203388 ], [ 7.805012903348, 36.894090021184 ], [ 7.85518461328, 36.862174501836 ], [ 7.917294720041, 36.856403795608 ], [ 8.009588650507, 36.867044090779 ], [ 8.055246772538, 36.898022150262 ], [ 8.073934997453, 36.89555396499 ], [ 8.106444687258, 36.908980594976 ], [ 8.130395287646, 36.927389960554 ], [ 8.192534945807, 36.944564434531 ], [ 8.259386186817, 36.961070432112 ], [ 8.29443258263, 36.944791340476 ], [ 8.326358596393, 36.936631829947 ], [ 8.392105583356, 36.938534014254 ], [ 8.443314209592, 36.926168901807 ], [ 8.527731402584, 36.925424610279 ], [ 8.594654421742, 36.94168269692 ], [ 8.672374158754, 36.958715392465 ], [ 8.681500142286, 36.969801129254 ], [ 8.742827994504, 36.977475910775 ], [ 8.787087629498, 36.959701594141 ], [ 8.828711483558, 36.960809468992 ], [ 8.841749848577, 36.985236786152 ], [ 8.859434199228, 36.991243858016 ], [ 8.89365112228, 37.024273081404 ], [ 8.919755081533, 37.04581130623 ], [ 8.950895197819, 37.070071986842 ], [ 8.986199047545, 37.090165121858 ], [ 9.031194630337, 37.119073803734 ], [ 9.061572110242, 37.146527244995 ], [ 9.112682290279, 37.172772995942 ], [ 9.133934629146, 37.183856473908 ], [ 9.181937913739, 37.19108400291 ], [ 9.190459870904, 37.209293848232 ], [ 9.279531288498, 37.222031253698 ], [ 9.382956553479, 37.244081981734 ], [ 9.386573811417, 37.255046923792 ], [ 9.437680737546, 37.260816147888 ], [ 9.55924163178, 37.303025015944 ], [ 9.599700749565, 37.310290998626 ], [ 9.630149700479, 37.303104005049 ], [ 9.675300493965, 37.3114085576 ], [ 9.706749890607, 37.336795236821 ], [ 9.848334302822, 37.344686321912 ], [ 9.878062691489, 37.325124992308 ] ] ], [ [ [ 10.180691387842, 37.335171811988 ], [ 10.167407390664, 37.332216117084 ], [ 10.162399430942, 37.333316575263 ], [ 10.154222302728, 37.335112762667 ], [ 10.145255662522, 37.337081419593 ], [ 10.1413268476, 37.354171773446 ], [ 10.162737409538, 37.357306519249 ], [ 10.174657325717, 37.358325428194 ], [ 10.185952671286, 37.349405615469 ], [ 10.180691387842, 37.335171811988 ] ] ], [ [ [ 8.925732818096, 37.465131955469 ], [ 8.922077777842, 37.453183637692 ], [ 8.906568667711, 37.453392104105 ], [ 8.899956136133, 37.453480187115 ], [ 8.891149830212, 37.461550758021 ], [ 8.883542425947, 37.481914514993 ], [ 8.899945779312, 37.487653167029 ], [ 8.9153738816, 37.486691513183 ], [ 8.923115776419, 37.478365639024 ], [ 8.925732818096, 37.465131955469 ] ] ], [ [ [ 8.989156197585, 37.518913868893 ], [ 8.969618764411, 37.505989769033 ], [ 8.933742901359, 37.505819627387 ], [ 8.92064210696, 37.503641913554 ], [ 8.916524705691, 37.514675215352 ], [ 8.915401041966, 37.530113334225 ], [ 8.924274103254, 37.54052804726 ], [ 8.937066716913, 37.543554423913 ], [ 8.950926885496, 37.546831020917 ], [ 8.981100918006, 37.553032249206 ], [ 8.995556308186, 37.545358604781 ], [ 9.000607856792, 37.531773290333 ], [ 8.989156197585, 37.518913868893 ] ] ] ]
+    },
+    "properties" : {
+      "titles" : "Africa (region)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/775" ],
+    "titles" : [ "Africa (region)" ],
+    "names" : [ "Africa", "Africa" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀφρικῆς" ],
+    "comments" : [ "Perhaps referring to Africa Proconsularis. It looks like the Africa Region in Pleiades is just an interpretation, with hypothetical coordinates of what could be associated to Africa in Roman times. " ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 50.9999999, 27.0000001 ]
+    },
+    "properties" : {
+      "titles" : "Persicus Sinus/Erythr(ae)um Mare",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29713" ],
+    "titles" : [ "Persicus Sinus/Erythr(ae)um Mare" ],
+    "names" : [ "Persicus Sinus", "Erythraeum Mare", "Erythrum Mare", "Tamtu Shaplitu", "Persian Gulf", "Persian Gulf" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Περσικῆς θαλάσσης", "Περσικῆς", "Περσικὸς" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 69.1058314, 22.4629381 ]
+    },
+    "properties" : {
+      "titles" : "Barake Inss.",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59732" ],
+    "titles" : [ "Barake Inss." ],
+    "names" : [ "Barake" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαράκην", "Βαράκου", "Βακαρὴ", "Βαράκην" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 52.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Syagros? Pr.",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39428" ],
+    "titles" : [ "Syagros? Pr." ],
+    "names" : [ "Syagros Pr.", "Sygaros Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Συάγρῳ", "Σύαγρος", "Σύαγρον" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 78.916667, 30.983333 ]
+    },
+    "properties" : {
+      "titles" : "Ganges (river)",
+      "annotations" : 10
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59822" ],
+    "titles" : [ "Ganges (river)" ],
+    "names" : [ "Ganges", "Padus", "Phison", "Alibotra" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Γάγγου", "Γαγγιτικὴ", "Γαγγιτικὴ", "Γάγγης", "Γαγγιτικαὶ", "Γάγγου ποταμοῦ", "Γάγγην", "Γάγγης", "Γάγγης", "Γάγγου" ],
+    "tags" : [ "place.derivative", "place.derivative", "place.derivative" ],
+    "comments" : [ "Casson commentary says the \"Gangetic nard\" would have originated \"in the mountains north of the Ganges\".", "\"ganges region\"\n\n", "\"ganges region\"" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.994258, 18.016022 ]
+    },
+    "properties" : {
+      "titles" : "Scammos",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/805653" ],
+    "titles" : [ "Scammos" ],
+    "names" : [ "Scammos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Βαρβαρικῆς", "Βαρβαρίας" ],
+    "comments" : [ "it could potentially be this one as it is also attested as \"Berber\".", "would this be the same place as Barbarike?" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.03939, 17.951342 ]
+    },
+    "properties" : {
+      "titles" : "Mandagara?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50116" ],
+    "titles" : [ "Mandagara?" ],
+    "names" : [ "Mandagara", "Mandagora" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μανδαγόρα" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.016389, 10.435556 ]
+    },
+    "properties" : {
+      "titles" : "Malao",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39375" ],
+    "titles" : [ "Malao" ],
+    "names" : [ "Malao" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Μαλαὼ", "Μαλαώ" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.0062516, 15.7362779 ]
+    },
+    "properties" : {
+      "titles" : "Alalaiou (islands)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39281" ],
+    "titles" : [ "Alalaiou (islands)" ],
+    "names" : [ "Ἀλαλαίου", "Alalaiou", "Aliaeu" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ἀλαλαίου" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Aigidioi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/49841" ],
+    "titles" : [ "Aigidioi" ],
+    "names" : [ "Aigidioi" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Αἰγιδίων" ],
+    "tags" : [ "@ana:#collective" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Indoskythia",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59850" ],
+    "titles" : [ "Indoskythia" ],
+    "names" : [ "Indoskythia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Σκυθίας", "Σκυθίας", "Σκυθίαν", "Σκυθίᾳ", "Σκυθίας", "Σκυθίας" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 87.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Chirotosagi/Kirradai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59772" ],
+    "titles" : [ "Chirotosagi/Kirradai" ],
+    "names" : [ "Chirotosagi", "Kirradai", "Cirrabe Indi", "Kirradia", "Korouda", "Piladai", "Sciratae", "Thalutae" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Κιρρᾶδαι" ],
+    "tags" : [ "@ana:#collective" ],
+    "comments" : [ "region they inhabit according to Casson commentary", "Casson  says \"and the Horse Faces, who are said to be cannibals\" while Shipley says \"that of the Hippoprosopoi (Horsefaces), who, it is said, are man-eaters (anthropophagoi)\". " ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 73.139156, 19.272784 ]
+    },
+    "properties" : {
+      "titles" : "Kalliena",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50023" ],
+    "titles" : [ "Kalliena" ],
+    "names" : [ "Kalliena" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Καλλίενα", "Καλλίεναν" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.2705999, 29.7497813 ]
+    },
+    "properties" : {
+      "titles" : "Nilus (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727172" ],
+    "titles" : [ "Nilus (river)" ],
+    "names" : [ "Nilus", "Nilus", "Nile river", "Nile river", "Nile", "Neilos", "an-Nīl, al-Nil, en-Nil, el-Nil", "Nil", "Νεῖλος", "Neilos, Neĩlos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Νείλου", "Νείλῳ" ]
+  } ]
+}
